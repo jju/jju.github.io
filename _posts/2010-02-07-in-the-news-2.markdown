@@ -1,0 +1,21 @@
+---
+author: jjackunrau
+comments: true
+date: 2010-02-07 16:01:04+00:00
+layout: post
+link: https://hungryj.wordpress.com/2010/02/07/in-the-news-2/
+slug: in-the-news-2
+title: in the news
+wordpress_id: 2302
+categories:
+- library
+tags:
+- homeless
+- millennium library
+- winnipeg free press
+- winnipeg public library
+---
+
+Millennium Library is in the Winnipeg Free Press again, this time for being open too few hours. [Here's the front page story](http://www.winnipegfreepress.com/local/the-book-on-library-hours-83526347.html) from a few days ago and [here's an editorial](http://www.winnipegfreepress.com/opinion/editorials/libraries-are-the-citys-living-rooms-83703827.html). I like how in the first article it says the library "_claims_ to attract 1.5 million visitors a year" (emphasis added) as they just got that number from some administrator. In the editorial it takes that number as fact even though it's not independently verified.
+
+It's also funny how the editorial calls the library the "city's living rooms" and then doesn't mention how many homeless people use the library because they don't have living rooms.

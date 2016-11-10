@@ -1,0 +1,19 @@
+---
+author: jjackunrau
+comments: true
+date: 2007-07-16 13:04:00+00:00
+layout: post
+link: https://hungryj.wordpress.com/2007/07/16/gem-like/
+slug: gem-like
+title: gem-like
+wordpress_id: 1144
+tags:
+- assignment zero
+- wired
+---
+
+I was name-checked in Jeff Howe's [Wired wrap-up of Assignment Zero](http://www.wired.com/techbiz/media/news/2007/07/assignment_zero_final?currentPage=1)!
+
+<blockquote>In my rough count, at least 60 of the 80 interviews would stand up to professional scrutiny, which is to say the interviewer was well-informed, asked challenging questions and managed to elicit interesting (and occasionally fascinating) commentary from his or her subject. The gems are too numerous to mention, but a few standouts include Randy Burge's interview with Innocentive co-founder Alpheus Bingham and J. Jack Unrau's inteview with crowdsourcing scholar Karim Lakhani.</blockquote>
+
+Basically he says AZ was an interesting failure. Go read the whole thing if you want to know why.

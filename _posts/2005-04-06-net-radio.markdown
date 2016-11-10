@@ -1,0 +1,14 @@
+---
+author: jjackunrau
+comments: true
+date: 2005-04-06 23:59:00+00:00
+layout: post
+link: https://hungryj.wordpress.com/2005/04/06/net-radio/
+slug: net-radio
+title: net radio
+wordpress_id: 494
+categories:
+- 中国
+---
+
+I just got pointed to a radio show called The Theory of Everything that has a thing on [Internet censorship in China](http://www.wtroradio.org/shows/toe_18.mp3) (MP3 link).  The story is second in the show and begins around a third of the way through.  It's interesting stuff.

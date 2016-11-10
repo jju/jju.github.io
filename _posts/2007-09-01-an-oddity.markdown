@@ -1,0 +1,20 @@
+---
+author: jjackunrau
+comments: true
+date: 2007-09-01 01:13:00+00:00
+layout: post
+link: https://hungryj.wordpress.com/?p=1243
+published: false
+slug: an-oddity
+title: an oddity
+wordpress_id: 1243
+categories:
+- library
+tags:
+- dewey decimal system
+- jews
+---
+
+When you wander through the European History section of the Dewey Decimal system (conceptually, though wandering through the physical shelves is a bit more apt for what I'm describing here) there's a funny little phenomenon that happens in each country.  The section for each country I mean.  All these nations have a section designated by a 004 suffix.  These 004s are for books about how the country in question treated its Jews.  Now here's the funny part:  On the spine it says 943.004 JEWS. Not 943.004 HALL or whoever the author of the book is, it says JEWS.  Even though as far as I can tell the number means it's about Jews.  There are different suffixes for different minority groups (and BLACKS get the same treatment).  I don't really understand why they do that.    
+  
+"Look! A book about Jews!"
