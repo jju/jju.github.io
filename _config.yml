@@ -30,7 +30,7 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
 
-remote_theme: chesterhow/tale
+# remote_theme: chesterhow/tale
 
 permalink:	/:year-:month-:day/:title
 paginate:	5
