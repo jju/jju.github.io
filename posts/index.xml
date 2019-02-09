@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>thedubiousmonk</title>
-    <link>http://thedubiousmonk.net/</link>
-    <description>Recent content on thedubiousmonk</description>
+    <title>Posts on thedubiousmonk</title>
+    <link>http://thedubiousmonk.net/posts/</link>
+    <description>Recent content in Posts on thedubiousmonk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 11:14:52 +0000</lastBuildDate>
     
-	<atom:link href="http://thedubiousmonk.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://thedubiousmonk.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
