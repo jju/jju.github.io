@@ -1,4 +1,4 @@
-baseURL = 'https://thedubiousmonk.net/'
+baseURL = 'thedubiousmonk.net'
 languageCode = 'en-ca'
 title = 'the dubious monk'
-theme = 'tale'
+theme = 'paperesque'
