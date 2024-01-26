@@ -8,6 +8,10 @@ theme = 'paperesque'
   url = "posts/"
 
 [[params.menu]]
+  name = "categories"
+  url = "categories/"
+
+[[params.menu]]
   name = "tags"
   url = "tags/"
 
@@ -15,6 +19,10 @@ theme = 'paperesque'
   name = "about"
   url = "about/"
 
-[[params.menu]]
-  name = "contact"
-  url = "contact/"
+[[params.topmenu]]
+  name = "about"
+  url = "about/"
+
+[[params.topmenu]]
+  name = "rss"
+  url = "posts/index.xml"
