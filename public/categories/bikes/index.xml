@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bikes on the dubious monk</title>
+    <link>https://thedubiousmonk.net/categories/bikes/</link>
+    <description>Recent content in bikes on the dubious monk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Fri, 26 Jan 2024 11:19:49 -0700</lastBuildDate>
+    <atom:link href="https://thedubiousmonk.net/categories/bikes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Back on the Bike</title>
+      <link>https://thedubiousmonk.net/posts/backonthebike/</link>
+      <pubDate>Fri, 26 Jan 2024 11:19:49 -0700</pubDate>
+      <guid>https://thedubiousmonk.net/posts/backonthebike/</guid>
+      <description>I&amp;rsquo;m riding my bike again. It&amp;rsquo;s been a few months off dealing with some other issues, but I&amp;rsquo;m making my legs go &amp;lsquo;round in circles again. I&amp;rsquo;m mainly doing it indoors for now.</description>
+    </item>
+  </channel>
+</rss>

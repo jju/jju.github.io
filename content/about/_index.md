@@ -1,7 +1,7 @@
 +++
 title = 'About'
 date = 2024-01-26T10:51:48-07:00
-draft = true
+draft = false
 +++
 
 I am not a monk. I have not withdrawn to natural remoteness. No swamps or rocky islands surround me, just refineries and politics I despise. I work in a digital world. Silicon and glass and user interfaces are the obstacles I help people navigate at work. I tend to use those tools well so I serve by putting those skills to work for the public.

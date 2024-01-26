@@ -1,7 +1,7 @@
 +++
 title = 'Back on the Bike'
 date = 2024-01-26T11:19:49-07:00
-draft = true
+draft = false
 slug = 'backonthebike'
 categories = ['bikes']
 tags = ['training','winter','tech']
