@@ -9,10 +9,17 @@
     <lastBuildDate>Fri, 26 Jan 2024 11:19:49 -0700</lastBuildDate>
     <atom:link href="https://thedubiousmonk.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>bikes</title>
-      <link>https://thedubiousmonk.net/categories/bikes/</link>
+      <title>cycling</title>
+      <link>https://thedubiousmonk.net/categories/cycling/</link>
       <pubDate>Fri, 26 Jan 2024 11:19:49 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/categories/bikes/</guid>
+      <guid>https://thedubiousmonk.net/categories/cycling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>life</title>
+      <link>https://thedubiousmonk.net/categories/life/</link>
+      <pubDate>Sat, 13 Jan 2024 12:12:08 -0700</pubDate>
+      <guid>https://thedubiousmonk.net/categories/life/</guid>
       <description></description>
     </item>
   </channel>
