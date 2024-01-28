@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>club on the dubious monk</title>
+    <link>https://thedubiousmonk.net/tags/club/</link>
+    <description>Recent content in club on the dubious monk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://thedubiousmonk.net/tags/club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>velocity cycling club</title>
+      <link>https://thedubiousmonk.net/bike/vcc/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/bike/vcc/</guid>
+      <description>Velocity Cycling Club is the group I ride with.</description>
+    </item>
+  </channel>
+</rss>

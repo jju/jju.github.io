@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thedubiousmonk.net/bike/cx/</loc>
+    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://thedubiousmonk.net/categories/</loc>
     <lastmod>2024-01-26T18:34:07-07:00</lastmod>
   </url><url>
@@ -29,6 +32,36 @@
     <loc>https://thedubiousmonk.net/tags/training/</loc>
     <lastmod>2024-01-26T18:34:07-07:00</lastmod>
   </url><url>
+    <loc>https://thedubiousmonk.net/tags/club/</loc>
+    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/cx/</loc>
+    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/edmonton/</loc>
+    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/prw/</loc>
+    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/races/</loc>
+    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/strathcona-science-park/</loc>
+    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/tubs-on-tubs/</loc>
+    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/bike/</loc>
+    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/vcc/</loc>
+    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/bike/vcc/</loc>
+    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://thedubiousmonk.net/posts/backonthebike/</loc>
     <lastmod>2024-01-26T11:19:49-07:00</lastmod>
   </url><url>
@@ -42,6 +75,9 @@
     <lastmod>2024-01-26T11:13:11-07:00</lastmod>
   </url><url>
     <loc>https://thedubiousmonk.net/tags/bikes/</loc>
+    <lastmod>2024-01-26T11:13:11-07:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/mtb/</loc>
     <lastmod>2024-01-26T11:13:11-07:00</lastmod>
   </url><url>
     <loc>https://thedubiousmonk.net/tags/racing/</loc>
@@ -65,16 +101,49 @@
     <loc>https://thedubiousmonk.net/tags/writing/</loc>
     <lastmod>2024-01-13T12:12:08-07:00</lastmod>
   </url><url>
-    <loc>https://thedubiousmonk.net/tags/cx/</loc>
-    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
+    <loc>https://thedubiousmonk.net/tags/alberta-cx-collective/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedubiousmonk.net/tags/races/</loc>
-    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
+    <loc>https://thedubiousmonk.net/tags/baby-walter/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedubiousmonk.net/tags/strathcona-science-park/</loc>
-    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
+    <loc>https://thedubiousmonk.net/posts/zombiebabywaltercross2023-2/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedubiousmonk.net/tags/vcc/</loc>
+    <loc>https://thedubiousmonk.net/tags/queen-elizabeth-park/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/crash/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/devon/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/hardcore-cc/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/posts/hopnhurl2023/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/hop-n-hurl/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/voyageur-park/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/capilano-park/</loc>
+    <lastmod>2023-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/jim-horner/</loc>
+    <lastmod>2023-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/posts/jimhornergrandprix2023/</loc>
+    <lastmod>2023-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/juventus/</loc>
+    <lastmod>2023-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/velocity-cross/</loc>
     <lastmod>2023-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedubiousmonk.net/posts/velocitycross2023/</loc>
@@ -83,14 +152,47 @@
     <loc>https://thedubiousmonk.net/tags/wildfires/</loc>
     <lastmod>2023-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedubiousmonk.net/tags/prw/</loc>
-    <lastmod>2023-09-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thedubiousmonk.net/tags/tubs-on-tubs/</loc>
-    <lastmod>2023-09-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://thedubiousmonk.net/posts/tubsontubs2023/</loc>
     <lastmod>2023-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/crit/</loc>
+    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/posts/velocitycrit2023/</loc>
+    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/road/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/stieda/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/posts/stiedaclassic2023/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/posts/zombiebabywaltercross2022/</loc>
+    <lastmod>2022-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/dba/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/puncheur-cross/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/posts/puncheurcross2022/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/argyll-velodrome/</loc>
+    <lastmod>2022-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/posts/jimhornergrandprix2022/</loc>
+    <lastmod>2022-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/posts/tubsontubs2022/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/posts/stiedaclassic2022/</loc>
+    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedubiousmonk.net/posts/aggression/</loc>
     <lastmod>2019-01-01T11:14:52-07:00</lastmod>
@@ -104,38 +206,8 @@
     <loc>https://thedubiousmonk.net/posts/mobility/</loc>
     <lastmod>2014-08-31T05:36:49-08:00</lastmod>
   </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/220509-stiedaclassic2022/</loc>
+    <loc>https://thedubiousmonk.net/tags/places/</loc>
   </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/220902-tubsontubs2022/</loc>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/220917-jimhornergrandprix2022/</loc>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/221002-puncheurcross2022/</loc>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/221015-zombiebabywaltercross2022/</loc>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/230527-stiedaclassic2023/</loc>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/230709-velocitycrit2023/</loc>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/230909-deadgoat2023/</loc>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/230910-peloton2023/</loc>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/230916-jimhornergrandprix2023/</loc>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/230917-schoolofcross2023/</loc>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/230923-wccx2023/</loc>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/230924-driez2023/</loc>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/230930-hopnhurl2023/</loc>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/231001-puncheurcross2023/</loc>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/231014-babywaltercross2023/</loc>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/race/231015-babywaltercross2023/</loc>
+    <loc>https://thedubiousmonk.net/bike/strathconasciencepark/</loc>
   </url>
 </urlset>

@@ -25,4 +25,4 @@ It's hard being attached to that voice. I don't like it one bit. But that voice 
 
 [^2]: Racing against and losing to 11-year-olds does make that "absolutely" carry a lot of weight.
 
-[^3]: "You're addicted to riding your bike," they said when I rode more than two times for fun in a week. "You need to stop riding so much because when you ride more you eat more and food is getting more expensive" they said, years later when I was training for cyclocross.
+[^3]: "You're addicted to riding your bike," they said when I rode more than two times for fun in a week. "You need to stop riding so much because when you ride more you eat more and food is getting more expensive" they said, years later when I was training for [cyclocross](../../bike/cx/).

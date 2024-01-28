@@ -10,7 +10,7 @@ description = 'Pretend biking in the basement instead of going out in the snow.'
 
 I'm riding my bike again. It's been a few months off dealing with some other issues, but I'm making my legs go 'round in circles again. The big difference compared with last winter is that I'm riding indoors.
 
-I got a Wahoo smart trainer in fall when the [cyclocross](../tags/cx/) season was getting smoked out and it was dangerous to go outside and breathe heavily. It was heavily on sale because it isn't a full-on smart trainer that replaces your rear wheel and has a computer out front built in. It's the kind that rolls against your rear tire[^1]. 
+I got a Wahoo smart trainer in fall when the [cyclocross](../../tags/cx/) season was getting smoked out and it was dangerous to go outside and breathe heavily. It was heavily on sale because it isn't a full-on smart trainer that replaces your rear wheel and has a computer out front built in. It's the kind that rolls against your rear tire[^1]. 
 
 [^1]: a "wheel-on trainer" is the correct designation I think.
 
