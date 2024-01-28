@@ -1,6 +1,8 @@
 +++
 title = 'aggression'
 date = 2019-01-01 11:14:52-07:00
+tags = ['photography','privacy','kid']
+category = 'life'
 draft = false
 +++
 
