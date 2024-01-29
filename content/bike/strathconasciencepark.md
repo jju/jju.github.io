@@ -4,6 +4,7 @@ description = 'A lovely place to ride a bike around a million gopher-holes.'
 slug = 'strathconasciencepark'
 tags = ['cx', 'places','strathcona science park','mtb','edmonton']
 title = 'strathcona science park'
+date = '2022-09-01'
 draft = false
 +++
 
@@ -13,6 +14,5 @@ This is my "home course" because I used to live just across the river, so it's a
 
 # races
 
-* [220902-tubsontubs2022](../../posts/tubsontubs2022/)
-* [230902-tubsontubs2023](../../posts/tubsontubs2023/)
-* [230903-velocitycross2023](../../posts/velocitycross2023/)
+* Tubs on Tubs [2022](../../posts/tubsontubs2022/) & [2023](../../posts/tubsontubs2023/)
+* Velocity Cross [2023](../../posts/velocitycross2023/)

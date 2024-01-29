@@ -3,12 +3,12 @@ categories = ['cycling']
 date = '2022-09-17'
 description = 'riding after a kid'
 slug = 'jimhornergrandprix2022'
-tags = ['cx', 'races','argyll velodrome','jim horner','juventus']
+tags = ['cx', 'races','argyll velodrome','jim horner','juventus','race reports']
 title = 'jim horner grand prix 2022'
 draft = false
 +++
 
-My second race of the [2022 cyclocross season](../../bike/cxseason2022/) was presented by the Juventus Cycling Club at  the Argyll Velodrome. Not in the velodrome itself, but the park surrounding it. When I was looking at the map in the preceding days I wasn't sure where the ups and downs and how it would work as a course. There was a toboggan hill. Were we going to have to up that? Down it?
+My second race of the [2022 cyclocross season](../cxseason2022/) was presented by the Juventus Cycling Club at  the Argyll Velodrome. Not in the velodrome itself, but the park surrounding it. When I was looking at the map in the preceding days I wasn't sure where the ups and downs and how it would work as a course. There was a toboggan hill. Were we going to have to up that? Down it?
 
 On the morning of the race I got there early enough for my preride to get a sense of things, but it was still very confusing what was going on between the tape, especially in a bunch of the back and forths.[^1] It was better in the race itself.
 
@@ -26,7 +26,7 @@ Throughout the race I was hovering around 9th or 10th, having gotten stuck way b
 
 In the end this turned out to be my best placing of the 2022 season[^4], but it wasn't my favourite race. That would come [a couple of weeks later](../puncheurcross2022/).
 
-[^4]: When I later got the ABA results loaded into [crossresults](https://crossresults.com) my score for this - my only top-10 finish in a race - was my worst of my CX career thus far.
+[^4]: When I later got the ABA results loaded into [crossresults](https://crossresults.com/race/11588) my score for this - my only top-10 finish in a race - was my worst of my CX career thus far.
 
 ## results
 
@@ -38,4 +38,4 @@ In the end this turned out to be my best placing of the 2022 season[^4], but it 
 	* Lap 4 12:19.4
 
 * [Zone 4 Results](https://zone4.ca/race/2022-09-17/fb9945d4/results/)
-* [CrossResults Results](https://www.crossresults.com/race/11588)
+* [CrossResults](https://www.crossresults.com/race/11588)

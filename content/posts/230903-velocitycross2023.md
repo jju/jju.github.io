@@ -3,7 +3,7 @@ categories = ['cycling']
 date = '2023-09-03'
 description = 'report on a non-race (due to wildfires)'
 slug = 'velocitycross2023'
-tags = ['cx', 'races','strathcona science park','vcc','velocity cross','wildfires']
+tags = ['cx', 'races','strathcona science park','vcc','velocity cross','aba cx cup','edmonton','wildfires']
 title = 'velocity cross 2023 - smoked out'
 draft = false
 +++

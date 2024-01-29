@@ -3,7 +3,7 @@ categories = ['cycling']
 date = '2022-05-09'
 description = 'my first road race'
 slug = 'stiedaclassic2022'
-tags = ['road', 'races','edmonton','stieda','juventus']
+tags = ['road', 'races','edmonton','stieda','juventus','race reports']
 title = 'stieda classic 2022'
 draft = false
 +++

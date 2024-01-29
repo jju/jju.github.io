@@ -1,14 +1,26 @@
++++
+categories = ['cycling']
+date = '2023-10-14'
+description = 'a rutted and holey top of the hill knd of race'
+slug = 'zombiebabywaltercross2023-1'
+tags = ['cx', 'races','queen elizabeth park','baby walter','alberta cx collective', 'aba cx cup','edmonton']
+title = 'baby walter cross 2023 - day 1'
+draft = false
++++
 
 > [Tech Guide](https://www.ertc.org/bwcx) 
-> Location: [Queen Elizabeth Park](/places/queenelizabethpark.md) Edmonton
+>
+> Location: [Queen Elizabeth Park](/../../bike/queenelizabethpark/) Edmonton
+>
 > Course: [stravalink](http://www.strava.com/segments/30178771)
 
-Baby Walter Cross is a two-day race put on by the Alberta Cyclocross Collective, which isn't a club exactly, just all the [cx](cx.md) lovers in Edmonton. The park has a really big hill, which makes for a lot of climbing.
+Baby Walter Cross is a two-day race put on by the Alberta Cyclocross Collective, which isn't a club exactly, just all the [cx](../cx/) lovers in Edmonton. The park has a really big hill, which makes for a lot of climbing.
 
 Apparently on the Saturday race (which I didn't attend) there were some big crashes by people trying to bunny-hop the obstacles and failing badly. One of them happened when the rider came unclipped between barriers, but I don't think there were too huge of injuries.
+
 # results
 
-* [Official Results](https://zone4.ca/race/2023-10-14/e450439a/results)
+* [ABA Results](https://zone4.ca/race/2023-10-14/e450439a/results)
 * [CrossResults](https://www.crossresults.com/race/11891)
 
 ## Podia
@@ -43,8 +55,7 @@ Apparently on the Saturday race (which I didn't attend) there were some big cras
 2. Brendan CARDIFF[^1]
 3. Quinten MACKLEM
 
-
-[^1]: Woo [Velocity Cycling Club](2305171104-vcc.md)!
+[^1]: Woo [Velocity Cycling Club](../../bike/vcc/)!
 
 ### Sport Women
 
@@ -55,8 +66,8 @@ Apparently on the Saturday race (which I didn't attend) there were some big cras
 ## my results
 
 * did not race
+
 # read more
 
-* [racing](racing.md)
-* [My 2023 Experience at Baby Walter Cross](231015-babywaltercross2023.md)
-* [My 2022 Experience at Zombie Baby Walter Cross](221015-zombiebabywaltercross2022.md)
+* [My 2023 Experience at Baby Walter Cross](../babywaltercross2023/)
+* [My 2022 Experience at Zombie Baby Walter Cross](../zombiebabywaltercross2022/)

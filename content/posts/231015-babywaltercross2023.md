@@ -3,14 +3,14 @@ categories = ['cycling']
 date = '2023-10-15'
 description = 'a race in which i finished on the lead lap'
 slug = 'zombiebabywaltercross2023-2'
-tags = ['cx', 'races','queen elizabeth park','baby walter','alberta cx collective', 'edmonton']
+tags = ['cx', 'races','queen elizabeth park','baby walter','alberta cx collective','aba cx cup','race reports','edmonton']
 title = 'baby walter cross 2023 - day 2'
 draft = false
 +++
 
 > [Tech Guide](https://www.ertc.org/bwcx) 
 >
-> Location: [Queen Elizabeth Park](../../bike/queenelizabethpark.md) Edmonton
+> Location: [Queen Elizabeth Park](../../bike/queenelizabethpark/) Edmonton
 >
 > Course: [stravalink](http://www.strava.com/segments/35674332)
 
@@ -26,7 +26,7 @@ But even then I was having fun. Riding between the tape has been the happiest I'
 
 # results
 
-* [Official Results](https://zone4.ca/race/2023-10-15/97a11ff0/results)
+* [ABA Results](https://zone4.ca/race/2023-10-15/97a11ff0/results)
 * [CrossResults](https://www.crossresults.com/race/11892)
 
 ## Podia
@@ -74,4 +74,4 @@ But even then I was having fun. Riding between the tape has been the happiest I'
 
 # read more
 
-* [My 2022 Experience at Puncheur Cross](../zombiebabywaltercross2022)
+* [My 2022 Experience at Zombie Baby Walter Cross](../zombiebabywaltercross2022)

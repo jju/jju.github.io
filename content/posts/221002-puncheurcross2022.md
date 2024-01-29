@@ -3,7 +3,7 @@ categories = ['cycling']
 date = '2022-10-02'
 description = 'my favourite cross race experience'
 slug = 'puncheurcross2022'
-tags = ['cx', 'races','voyageur park','puncheur cross','dba', 'devon']
+tags = ['cx', 'races','voyageur park','puncheur cross','dba', 'devon','race reports']
 title = 'puncheur cross 2022'
 draft = false
 +++
@@ -27,7 +27,7 @@ By the end I'd done my best race [of the season](../../bike/cxseason2022/), and 
 * 12th place (out of 25)
 * 44:33 (4 Laps) 7:02 behind winner
 
-* [Official Results](https://www.albertabicycle.ab.ca/uploads/files/Puncheur%20CX%20Results.pdf)
+* [ABA Results](https://www.albertabicycle.ab.ca/uploads/files/Puncheur%20CX%20Results.pdf)
 * [CrossResults Results](https://www.crossresults.com/race/11589)
 
 # read more
