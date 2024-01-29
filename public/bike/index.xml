@@ -6,7 +6,7 @@
     <description>Recent content in bike stuff on the dubious monk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 11:13:11 -0700</lastBuildDate>
     <atom:link href="https://thedubiousmonk.net/bike/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cyclocross</title>
@@ -16,11 +16,11 @@
       <description>You ride around in a field and sometimes have to get off your bike and carry it. It&amp;rsquo;s awesome.&#xA;Read more about my experiences with cyclocross in those posts.</description>
     </item>
     <item>
-      <title>tubs on tubs supercalifragilisticexpialidocius prestige</title>
-      <link>https://thedubiousmonk.net/bike/</link>
+      <title>bike race list</title>
+      <link>https://thedubiousmonk.net/bike/race/racelist/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/bike/</guid>
-      <description>This can be a list of races.&#xA;Stieda Classic </description>
+      <guid>https://thedubiousmonk.net/bike/race/racelist/</guid>
+      <description>I write reports about races I ride in&#xA;Stieda Classic </description>
     </item>
     <item>
       <title>velocity cycling club</title>
@@ -30,9 +30,16 @@
       <description>Velocity Cycling Club is the group I ride with.</description>
     </item>
     <item>
+      <title>capilano park</title>
+      <link>https://thedubiousmonk.net/bike/capilanopark/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/bike/capilanopark/</guid>
+      <description>Capilano Park is a park in the city of Edmonton, where I wouldn&amp;rsquo;t actually expect a cx race to work, but it does.&#xA;As far as the singletrack in the park goes, this is where you connect up with Goldbar Park and the cool trails in there. I generally prefer riding Eastbound.&#xA;races Jim Horner Grand Prix 2023 School of Cross 2023 </description>
+    </item>
+    <item>
       <title>strathcona science park</title>
       <link>https://thedubiousmonk.net/bike/strathconasciencepark/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://thedubiousmonk.net/bike/strathconasciencepark/</guid>
       <description>Strathcona Science Park is a provincial park just outside Edmonton. It&amp;rsquo;s rutted and full of gopher holes and apparently has toxic seepage in places. There&amp;rsquo;s no sandy area but it does have a big downhill with long stairs for a runup.&#xA;This is my &amp;ldquo;home course&amp;rdquo; because I used to live just across the river, so it&amp;rsquo;s a convenient place to practice my cx race techniques, do laps to build my stamina and just generally rip around.</description>
     </item>
