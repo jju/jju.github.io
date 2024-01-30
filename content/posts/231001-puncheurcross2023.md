@@ -1,11 +1,22 @@
++++
+categories = ['cycling']
+date = '2023-09-23'
+description = "alberta's cx provincials for 2023"
+slug = 'puncheurcross2023'
+tags = ['cx', 'races','voyageur park','puncheur','alberta', 'provincials','masters','junior','devon']
+title = 'puncheur cross 2023'
+draft = false
++++
 
 > [Tech Guide](https://www.albertabicycle.ab.ca/uploads/files/DEVON%20BICYCLE%20ASSOCIATION%20PRESENTS%202023%20CYCLOCROSS%20PROVINCIAL%20RACE.pdf) 
-> Location: [Voyageur Park](/places/voyageurpark.md) Devon
+>
+> Location: [Voyageur Park](/../../bike/voyageurpark/) Devon
+>
 > Course: [stravalink](https://www.strava.com/segments/35564994)
 
 This was Provincials for this year, which seems early.
 
-I wasn't at this race, but Nancy St-Hilaire has good pictures here: https://nancyst-hilaire.smugmug.com/DBA-Puncheur-2023-CX-provincial- 
+I wasn't at this race, but Nancy St-Hilaire has [good pictures on her SmugMug](https://nancyst-hilaire.smugmug.com/DBA-Puncheur-2023-CX-provincial-). 
 
 # results
 
@@ -27,6 +38,7 @@ I wasn't at this race, but Nancy St-Hilaire has good pictures here: https://nanc
 3. Andrew DAVIDSON
 
 [^1]: Only a 14 second gap between first and second for Provincial champion. Pretty awesome.
+
 ### Junior Women
 
 1. Dakota DIXON
@@ -108,12 +120,10 @@ I wasn't at this race, but Nancy St-Hilaire has good pictures here: https://nanc
 2. Jett FENTON
 3. Arun WARD
 
-
 ## my results
 
 * Did not race
 
 # read more
 
-* [racing](racing.md)
-* [My 2022 Experience at Puncheur Cross](221002-puncheurcross2022.md)
+* [My 2022 Experience at Puncheur Cross](../puncheurcross2022/)

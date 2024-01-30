@@ -5,7 +5,7 @@ draft = false
 slug = 'backonthebike'
 categories = ['cycling']
 tags = ['training','winter','tech']
-description = 'Pretend biking in the basement instead of going out in the snow.'
+description = 'pretend biking in the basement instead of going out in the snow.'
 +++
 
 I'm riding my bike again. It's been a few months off dealing with some other issues, but I'm making my legs go 'round in circles again. The big difference compared with last winter is that I'm riding indoors.

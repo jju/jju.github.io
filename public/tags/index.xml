@@ -6,8 +6,15 @@
     <description>Recent content in tags on the dubious monk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 26 Jan 2024 18:34:07 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://thedubiousmonk.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>meta</title>
+      <link>https://thedubiousmonk.net/tags/meta/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/meta/</guid>
+      <description></description>
+    </item>
     <item>
       <title>competition</title>
       <link>https://thedubiousmonk.net/tags/competition/</link>
@@ -37,6 +44,13 @@
       <description></description>
     </item>
     <item>
+      <title>crit</title>
+      <link>https://thedubiousmonk.net/tags/crit/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/crit/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>cx</title>
       <link>https://thedubiousmonk.net/tags/cx/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
@@ -51,10 +65,10 @@
       <description></description>
     </item>
     <item>
-      <title>prw</title>
-      <link>https://thedubiousmonk.net/tags/prw/</link>
+      <title>mtb</title>
+      <link>https://thedubiousmonk.net/tags/mtb/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/prw/</guid>
+      <guid>https://thedubiousmonk.net/tags/mtb/</guid>
       <description></description>
     </item>
     <item>
@@ -65,17 +79,17 @@
       <description></description>
     </item>
     <item>
-      <title>strathcona science park</title>
-      <link>https://thedubiousmonk.net/tags/strathcona-science-park/</link>
+      <title>road</title>
+      <link>https://thedubiousmonk.net/tags/road/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/strathcona-science-park/</guid>
+      <guid>https://thedubiousmonk.net/tags/road/</guid>
       <description></description>
     </item>
     <item>
-      <title>tubs on tubs</title>
-      <link>https://thedubiousmonk.net/tags/tubs-on-tubs/</link>
+      <title>trailblazers</title>
+      <link>https://thedubiousmonk.net/tags/trailblazers/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/tubs-on-tubs/</guid>
+      <guid>https://thedubiousmonk.net/tags/trailblazers/</guid>
       <description></description>
     </item>
     <item>
@@ -107,13 +121,6 @@
       <description></description>
     </item>
     <item>
-      <title>mtb</title>
-      <link>https://thedubiousmonk.net/tags/mtb/</link>
-      <pubDate>Fri, 26 Jan 2024 11:13:11 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/mtb/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>racing</title>
       <link>https://thedubiousmonk.net/tags/racing/</link>
       <pubDate>Fri, 26 Jan 2024 11:13:11 -0700</pubDate>
@@ -128,10 +135,10 @@
       <description></description>
     </item>
     <item>
-      <title>meta</title>
-      <link>https://thedubiousmonk.net/tags/meta/</link>
+      <title>kid</title>
+      <link>https://thedubiousmonk.net/tags/kid/</link>
       <pubDate>Sat, 13 Jan 2024 12:12:08 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/meta/</guid>
+      <guid>https://thedubiousmonk.net/tags/kid/</guid>
       <description></description>
     </item>
     <item>
@@ -139,6 +146,13 @@
       <link>https://thedubiousmonk.net/tags/writing/</link>
       <pubDate>Sat, 13 Jan 2024 12:12:08 -0700</pubDate>
       <guid>https://thedubiousmonk.net/tags/writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>aba cx cup</title>
+      <link>https://thedubiousmonk.net/tags/aba-cx-cup/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/aba-cx-cup/</guid>
       <description></description>
     </item>
     <item>
@@ -160,6 +174,13 @@
       <link>https://thedubiousmonk.net/tags/queen-elizabeth-park/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://thedubiousmonk.net/tags/queen-elizabeth-park/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>race reports</title>
+      <link>https://thedubiousmonk.net/tags/race-reports/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/race-reports/</guid>
       <description></description>
     </item>
     <item>
@@ -198,10 +219,108 @@
       <description></description>
     </item>
     <item>
+      <title>canmore</title>
+      <link>https://thedubiousmonk.net/tags/canmore/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/canmore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>canmore nordic centre</title>
+      <link>https://thedubiousmonk.net/tags/canmore-nordic-centre/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/canmore-nordic-centre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cyclemeisters</title>
+      <link>https://thedubiousmonk.net/tags/cyclemeisters/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/cyclemeisters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>drie zussen</title>
+      <link>https://thedubiousmonk.net/tags/drie-zussen/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/drie-zussen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>rmcc</title>
+      <link>https://thedubiousmonk.net/tags/rmcc/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/rmcc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>alberta</title>
+      <link>https://thedubiousmonk.net/tags/alberta/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/alberta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>canada</title>
+      <link>https://thedubiousmonk.net/tags/canada/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/canada/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>junior</title>
+      <link>https://thedubiousmonk.net/tags/junior/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/junior/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>masters</title>
+      <link>https://thedubiousmonk.net/tags/masters/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/masters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>provincials</title>
+      <link>https://thedubiousmonk.net/tags/provincials/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/provincials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>puncheur</title>
+      <link>https://thedubiousmonk.net/tags/puncheur/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/puncheur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>school of cross</title>
+      <link>https://thedubiousmonk.net/tags/school-of-cross/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/school-of-cross/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>western challenge</title>
+      <link>https://thedubiousmonk.net/tags/western-challenge/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/western-challenge/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>capilano park</title>
       <link>https://thedubiousmonk.net/tags/capilano-park/</link>
-      <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://thedubiousmonk.net/tags/capilano-park/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ertc</title>
+      <link>https://thedubiousmonk.net/tags/ertc/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/ertc/</guid>
       <description></description>
     </item>
     <item>
@@ -219,6 +338,48 @@
       <description></description>
     </item>
     <item>
+      <title>places</title>
+      <link>https://thedubiousmonk.net/tags/places/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/places/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cochrane</title>
+      <link>https://thedubiousmonk.net/tags/cochrane/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/cochrane/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>peloton</title>
+      <link>https://thedubiousmonk.net/tags/peloton/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/peloton/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>southern baptist seminary</title>
+      <link>https://thedubiousmonk.net/tags/southern-baptist-seminary/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/southern-baptist-seminary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>deadgoat</title>
+      <link>https://thedubiousmonk.net/tags/deadgoat/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/deadgoat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>strathcona science park</title>
+      <link>https://thedubiousmonk.net/tags/strathcona-science-park/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/strathcona-science-park/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>velocity cross</title>
       <link>https://thedubiousmonk.net/tags/velocity-cross/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
@@ -233,17 +394,17 @@
       <description></description>
     </item>
     <item>
-      <title>crit</title>
-      <link>https://thedubiousmonk.net/tags/crit/</link>
-      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/crit/</guid>
+      <title>prw</title>
+      <link>https://thedubiousmonk.net/tags/prw/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/prw/</guid>
       <description></description>
     </item>
     <item>
-      <title>road</title>
-      <link>https://thedubiousmonk.net/tags/road/</link>
-      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/road/</guid>
+      <title>tubs on tubs</title>
+      <link>https://thedubiousmonk.net/tags/tubs-on-tubs/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/tags/tubs-on-tubs/</guid>
       <description></description>
     </item>
     <item>
@@ -275,10 +436,17 @@
       <description></description>
     </item>
     <item>
-      <title>places</title>
-      <link>https://thedubiousmonk.net/tags/places/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/places/</guid>
+      <title>photography</title>
+      <link>https://thedubiousmonk.net/tags/photography/</link>
+      <pubDate>Tue, 01 Jan 2019 11:14:52 -0700</pubDate>
+      <guid>https://thedubiousmonk.net/tags/photography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>privacy</title>
+      <link>https://thedubiousmonk.net/tags/privacy/</link>
+      <pubDate>Tue, 01 Jan 2019 11:14:52 -0700</pubDate>
+      <guid>https://thedubiousmonk.net/tags/privacy/</guid>
       <description></description>
     </item>
   </channel>

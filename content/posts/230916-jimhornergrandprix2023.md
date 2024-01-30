@@ -3,7 +3,7 @@ categories = ['cycling']
 date = '2023-09-16'
 description = 'frosty morning off-cambers'
 slug = 'jimhornergrandprix2023'
-tags = ['cx', 'races','capilano park','jim horner','juventus', 'edmonton']
+tags = ['cx', 'races','capilano park','jim horner','juventus','aba cx cup','race reports','edmonton']
 title = 'jim horner grand prix 2023'
 draft = false
 +++
@@ -33,7 +33,7 @@ Later in the day the smoke took over, so the Open Women category had a shortened
 
 # results
 
-* [Official Results](https://zone4.ca/race/2023-09-16/6f1c068e/results)
+* [ABA Results](https://zone4.ca/race/2023-09-16/6f1c068e/results)
 * [CrossResults](https://www.crossresults.com/race/11683)
 
 ## Podia

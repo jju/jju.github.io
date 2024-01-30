@@ -3,11 +3,10 @@ categories = ['cycling']
 date = '2023-07-09'
 description = 'in which I discover I am not a crit racer'
 slug = 'velocitycrit2023'
-tags = ['crit', 'races','vcc','edmonton']
+tags = ['crit', 'races','vcc','edmonton','race reports']
 title = 'velocity criterium 2023'
 draft = false
 +++
-
 
 Our [club](../../bike/vcc/) put on a criterium and in my effort to try out a few different kinds of racing (despite being a slowpoke) I entered. I rode in the Citizen class again because that's the type of license I got for the season. This time there were three riders instead of two at the [Stieda](../stiedaclassic2023/) race earlier. The other guys (despite being in Citizen where all genders can enter, we were all dudes) had raced the day before with the iGregari SugarBoddy Criterium, which was on the same course but in the opposite direction.
 

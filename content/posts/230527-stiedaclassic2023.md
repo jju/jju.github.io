@@ -3,7 +3,7 @@ categories = ['cycling']
 date = '2023-05-27'
 description = 'rider in "flats" makes the podium (in a group of two)'
 slug = 'stiedaclassic2023'
-tags = ['road', 'races','edmonton','stieda','juventus']
+tags = ['road', 'races','edmonton','stieda','juventus','race reports']
 title = 'stieda classic 2023'
 draft = false
 +++
