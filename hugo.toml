@@ -10,7 +10,7 @@ titleCaseStyle = 'none'
 
 [[params.topmenu]]
   name = "bike"
-  url = "bike/"
+  url = "categories/cycling/"
 
 [[params.topmenu]]
   name = "rss"

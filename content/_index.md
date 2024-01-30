@@ -7,16 +7,8 @@ display_section = 'posts'
 draft = false
 +++
 
-Welcome to the revised and resurrected dubious monk blog. 
+Welcome to the revised and resurrected dubious monk website. 
 
 I'm J Jack Unrau and this is where I'm collecting some online writing.
 
-## post categories
-
-* [bikes](/categories/cycling/)
-* [games](/categories/games/)
-* [library](/categories/library/)
-* [life](/categories/life/)
-* [media](/categories/media/)
-
-You can also find other topics through looking at the [tags page](/tags/).
+If you aren't interested in sorting thorugh everything, I'd check out the [list of categories](/categories/) or more fine-grained topics through the [tags page](/tags/).
