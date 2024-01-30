@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thedubiousmonk.net/bike/cx/</loc>
-    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://thedubiousmonk.net/tags/meta/</loc>
     <lastmod>2024-01-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -34,18 +31,6 @@
   </url><url>
     <loc>https://thedubiousmonk.net/tags/training/</loc>
     <lastmod>2024-01-26T18:34:07-07:00</lastmod>
-  </url><url>
-    <loc>https://thedubiousmonk.net/tags/club/</loc>
-    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thedubiousmonk.net/tags/edmonton/</loc>
-    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thedubiousmonk.net/tags/vcc/</loc>
-    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/vcc/</loc>
-    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedubiousmonk.net/posts/backonthebike/</loc>
     <lastmod>2024-01-26T11:19:49-07:00</lastmod>
@@ -99,6 +84,9 @@
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedubiousmonk.net/tags/cx/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/edmonton/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedubiousmonk.net/tags/queen-elizabeth-park/</loc>
@@ -197,12 +185,6 @@
     <loc>https://thedubiousmonk.net/tags/juventus/</loc>
     <lastmod>2023-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedubiousmonk.net/bike/capilanopark/</loc>
-    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thedubiousmonk.net/tags/places/</loc>
-    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://thedubiousmonk.net/tags/cochrane/</loc>
     <lastmod>2023-09-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -222,6 +204,9 @@
     <lastmod>2023-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedubiousmonk.net/tags/strathcona-science-park/</loc>
+    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedubiousmonk.net/tags/vcc/</loc>
     <lastmod>2023-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedubiousmonk.net/tags/velocity-cross/</loc>
@@ -277,9 +262,6 @@
   </url><url>
     <loc>https://thedubiousmonk.net/posts/tubsontubs2022/</loc>
     <lastmod>2022-09-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thedubiousmonk.net/bike/strathconasciencepark/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedubiousmonk.net/posts/stiedaclassic2022/</loc>
     <lastmod>2022-05-09T00:00:00+00:00</lastmod>
