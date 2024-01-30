@@ -6,7 +6,7 @@ tags = ['cx', 'races']
 title = 'cyclocross'
 draft = false
 weight = 1
-date = '2024-01-27'
+date = '2022-01-27'
 +++
 
 You ride around in a field and sometimes have to get off your bike and carry it. It's awesome.
