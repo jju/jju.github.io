@@ -1,0 +1,7 @@
+content/.obsidian/
+.obsidian/cache
+.obsidian/config
+.obsidian/daily-notes.json
+.obsidian/workspace
+.trash/
+.DS_Store
