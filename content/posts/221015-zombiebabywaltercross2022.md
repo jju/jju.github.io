@@ -8,7 +8,6 @@ title = 'zombie baby walter cross 2022'
 draft = false
 +++
 
-
 I was the last competitor across the line in the Novice class of the Zombie Baby Walter Cross race. But a bunch of people had been lapped or did not finish, so I wasn't actually in last place. It's funny how that feels.
 
 It's not so funny how it feels to wipe out trying to turn while sliding down a grassy hill. Which I did. But I kept going, gritting my teeth while kids in my race were bunny-hopping the barriers.

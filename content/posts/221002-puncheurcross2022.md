@@ -20,7 +20,7 @@ But the sand was something to anticipate, not exactly a dreading kind of thing. 
 
 ![Me dismounting to chase a Hardcore rider up a hill - picture by Nancy St-Hilaire](/puncheur22-2-climb.jpg)
 
-By the end I'd done my best race [of the season](../../bike/cxseason2022/), and the food was delicious.
+By the end I'd done my best race [of the season](../cxseason2022/), and the food was delicious.
 
 ## results
 

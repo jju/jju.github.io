@@ -9,11 +9,9 @@ draft = false
 +++
 
 
-> [Tech Guide](https://www.juventus.ab.ca/jim-horner-grand-prix-of-cyclocross) 
->
-> Location: [Capilano Park](../../bike/capilanopark/) Edmonton
->
-> Course: [stravalink](https://www.strava.com/segments/35448229)
+> * [Tech Guide](https://www.juventus.ab.ca/jim-horner-grand-prix-of-cyclocross) 
+> * Location: [Capilano Park](../../bike/capilanopark/) Edmonton
+> * Course: [stravalink](https://www.strava.com/segments/35448229)
 
 I was so happy this race wasn't taking place in [Argyll Park](../../bike/argyllpark/) this year. I hated the downhill that someone broke a collarbone on last year and lost so much time on it. [Capilano Park](../../bike/capilanopark/) was near my house and I could practice on it. But I didn't practice hard enough on wet enough grass, because hoo boy did I not do well on that terrain.
 

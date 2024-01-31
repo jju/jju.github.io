@@ -8,11 +8,9 @@ title = 'school of cross 2023'
 draft = false
 +++
 
-> [Tech Guide](https://www.ertc.org/soc) 
->
-> Location: [Capilano Park](/../../bike/capilanopark/) Edmonton
->
-> Course: [stravalink](https://www.strava.com/segments/35458353)
+> * [Tech Guide](https://www.ertc.org/soc) 
+> * Location: [Capilano Park](/../../bike/capilanopark/) Edmonton
+> * Course: [stravalink](https://www.strava.com/segments/35458353)
 
 Like the previous day's [Jim Horner Grand Prix](../jimhornergrandprix2023/) ERTC's School of Cross (p/b Blindman Brewing) 2023 race happened in [Capilano Park](/../../bike/capilanopark/). The air quality was a bit better on the day so only one race was cancelled (Open Women).
 

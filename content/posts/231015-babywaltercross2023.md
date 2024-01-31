@@ -8,11 +8,9 @@ title = 'baby walter cross 2023 - day 2'
 draft = false
 +++
 
-> [Tech Guide](https://www.ertc.org/bwcx) 
->
-> Location: [Queen Elizabeth Park](../../bike/queenelizabethpark/) Edmonton
->
-> Course: [stravalink](http://www.strava.com/segments/35674332)
+> * [Tech Guide](https://www.ertc.org/bwcx) 
+> * Location: [Queen Elizabeth Park](../../bike/queenelizabethpark/) Edmonton
+> * Course: [stravalink](http://www.strava.com/segments/35674332)
 
 I had hoped to do more racing this year, but it turned out that four was what I could handle with my work and other life commitments. So the second day of Baby Walter Cross was my season closer.
 

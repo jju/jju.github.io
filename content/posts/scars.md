@@ -1,0 +1,16 @@
++++
+categories = ['cycling']
+date = '2023-10-17'
+description = 'notes on crashes'
+slug = 'scars'
+tags = ['cx', 'training','crash','relationship']
+title = "scars"
+draft = false
++++
+In my first cyclocross race I was riding around afterwards and hit a pothole in [Strathcona Science Park](../strathconasciencepark/) whacking my right ankle on my pedal and gouging a chunk out of it.
+
+Training for my 2023 cx season I slipped my right foot and gouged my ankle on my big ring. This one probably could have used stitches.
+
+Half a week before entering the [Hop n Hurl race](../hopnhurl2023/) I was cruising downhill to [Capilano Park](../capilanopark/) for some good cx practice. The offroad downhill goes into Rundle park and is called [get ready to rundle](https://www.trailforks.com/trails/get-ready-to-rundle-60390/) on TrailForks. I was descending on the hoods, not in the drops and I guess my weight wasn't far enough back so when I hit the hard rut and my front wheel turned I went over the bars. I didn't hit my head but got my knees, hip, wrist and ribs. 
+
+It sucked so much, but the scrapes probably won't scar up too badly. My shifter was a bit loose but I could keep going. The big problem was that my front tire burped and was losing air. I didn't get it seated properly and tried to continue my ride and then crashed again. Pain was everywhere so I headed home. Where I was told to stop riding my bike so much because it made me eat too much. So, an emotional scar too.

@@ -2,16 +2,14 @@
 categories = ['cycling']
 date = '2023-10-21'
 slug = 'snakesladders2023'
-tags = ['cx', 'races','snakes and ladders','cabc','aba cx cup','sundre']
+tags = ['cx', 'races','snakes and ladders','cabc','aba cx cup','snake hill','sundre']
 title = 'snakes & ladders III 2023'
 draft = false
 +++
 
-> Tech Guide 
->
-> Location: Sundre
->
-> Course: [stravalink](http://www.strava.com/segments/35705305)
+> * [Tech Guide](https://docs.google.com/document/d/1XyrN2tg1PjTT6lNv1o3xg7ECCAtbaQT-mj0UxuwGTmE/edit?usp=sharing)
+> * Location: Snakes Head Natural Area, Sundre
+> * Course: [stravalink](http://www.strava.com/segments/35705305)
 
 I missed out on writing this up at the end of the 2023 [CX](../cx/) season, and now that 2024 has come around, I don't have a bunch of the data I like to put in these race writeups. Nonetheless, here's what I can find (thankfully I did do my CrossResults upload back when the race happened).
 
