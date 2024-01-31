@@ -8,11 +8,9 @@ title = 'baby walter cross 2023 - day 1'
 draft = false
 +++
 
-> [Tech Guide](https://www.ertc.org/bwcx) 
->
-> Location: [Queen Elizabeth Park](/../../bike/queenelizabethpark/) Edmonton
->
-> Course: [stravalink](http://www.strava.com/segments/30178771)
+> * [Tech Guide](https://www.ertc.org/bwcx) 
+> * Location: [Queen Elizabeth Park](/../queenelizabethpark/) Edmonton
+> * Course: [stravalink](http://www.strava.com/segments/30178771)
 
 Baby Walter Cross is a two-day race put on by the Alberta Cyclocross Collective, which isn't a club exactly, just all the [cx](../cx/) lovers in Edmonton. The park has a really big hill, which makes for a lot of climbing.
 
@@ -55,7 +53,7 @@ Apparently on the Saturday race (which I didn't attend) there were some big cras
 2. Brendan CARDIFF[^1]
 3. Quinten MACKLEM
 
-[^1]: Woo [Velocity Cycling Club](../../bike/vcc/)!
+[^1]: Woo [Velocity Cycling Club](../vcc/)!
 
 ### Sport Women
 

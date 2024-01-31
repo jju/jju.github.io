@@ -4,7 +4,7 @@ date: Mon, 01 Jun 2015 17:26:17 +0000
 draft: false
 categories: 'library'
 description: 'a humblebrag about our radio show'
-tags: ['award', 'bcla', 'bclc2015', 'conference', 'librarians on the radio', 'library', 'lotr', 'privacy', 'radio', 'recognition', 'storytime', 'vancouver island library staff conference', 'virl']
+tags: ['award', 'bcla', 'bclc2015', 'conference', 'librarians on the radio', 'lotr', 'privacy', 'radio', 'recognition', 'storytime', 'virl']
 ---
 
 Around our workplace there's a joke that we should all be putting "award-winning librarian" in our bios when we show up in the outside world. After all, who is to say that the participation award from your grade 4 track meet isn't what made you the professional you are today? 
