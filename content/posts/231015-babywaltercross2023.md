@@ -14,7 +14,9 @@ draft = false
 
 I had hoped to do more racing this year, but it turned out that four was what I could handle with my work and other life commitments. So the second day of Baby Walter Cross was my season closer.
 
-![In the Recovery Zone - photo by Stewart "The Legend" Hutchings](/babywalter23_leaves.jpg "Fallen Leaves")
+![In the Leaves Defending 12th - photo by Stewart "The Legend" Hutchings](/babywalter23_leaves.jpg "In the Leaves Defending 12th")[^1]
+
+[^1]: *In the Leaves Defending 12th - photo by Stewart "The Legend" Hutchings*
 
 The course this year went the opposite direction of [2022](../zombiebabywaltercross2022/) which I think I preferred. The climbing of the stupid hill was still tough, but the descents weren't terrifying and we got to skip the runup in favour of a singletrack descent (with roots that were highlighted but you needed to dodge).
 
