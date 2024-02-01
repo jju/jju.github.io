@@ -2,7 +2,7 @@
 categories = ['cycling']
 date = '2022-11-12'
 description = 'summary of my bike racing in 2022'
-slug = 'season2022'
+slug = 'cxseason2022'
 tags = ['aba cx cup', 'cx', 'races', 'road']
 title = 'bike racing season 2022'
 draft = false
