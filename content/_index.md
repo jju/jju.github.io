@@ -13,4 +13,4 @@ I'm J Jack Unrau and this is where I'm collecting some of my writing.
 
 If you aren't interested in sorting through everything, I'd check out the [list of categories](/categories/) or more fine-grained topics through the [tags page](/tags/).
 
-I'm also on <a rel="me" href="https://glammr.us/@dbsmnk">Mastodon</a> and [Flickr](https://www.flickr.com/photos/hungry_j/)
+I'm also on [Mastodon](https://glammr.us/@dbsmnk) and [Flickr](https://www.flickr.com/photos/hungry_j/)

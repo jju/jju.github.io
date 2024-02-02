@@ -9,7 +9,7 @@ draft = false
 +++
 
 > * [Tech Guide](https://www.albertabicycle.ab.ca/uploads/files/DEVON%20BICYCLE%20ASSOCIATION%20PRESENTS%202023%20CYCLOCROSS%20PROVINCIAL%20RACE.pdf) 
-> * Location: [Voyageur Park](/../../bike/voyageurpark/) Devon
+> * Location: [Voyageur Park](../voyageurpark/) Devon
 > * Course: [stravalink](https://www.strava.com/segments/35564994)
 
 This was Provincials for this year, which seems early.
