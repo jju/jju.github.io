@@ -2,7 +2,7 @@
 categories = ['cycling']
 date = '2023-08-24'
 description = 'preparing for the 2023 cyclocross season'
-slug = 'cross-anticipation'
+slug = '230824-cross-anticipation'
 tags = ['cx', 'races', 'stats']
 title = "'cross is coming (2023 edition)"
 draft = false

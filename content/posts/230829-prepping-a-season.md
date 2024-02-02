@@ -2,7 +2,7 @@
 categories = ['cycling']
 date = '2023-08-29'
 description = 'really preparing for the 2023 cyclocross season'
-slug = 'prepping-a-season'
+slug = '230829-prepping-a-season'
 tags = ['cx', 'races','aba cx cup', 'training']
 title = "preparing for a season"
 draft = false

@@ -2,7 +2,7 @@
 title = 'back on the bike'
 date = 2024-01-26T11:19:49-07:00
 draft = false
-slug = 'backonthebike'
+slug = '240126-back-on-the-bike'
 categories = ['cycling']
 tags = ['training','winter','tech']
 description = 'pretend biking in the basement instead of going out in the snow.'
@@ -18,4 +18,4 @@ It is "smart" though. It connects to my Garmin and my heart rate armband and it 
 
 [^2]: That's not true. I don't like that I have had to replace a couple of tubes due to popping them from the high pressure I'm supposed to use. I don't like putting the (cheap) indoor tire on my wheel, and I don't like my poor pretty titanium bike not being out free on the road.
 
-All that said, I'm looking forward to taking my singlespeed winter bike out thtough the river valley for a couple of hours tomorrow. That feels a bit more like real biking.
+All that said, I'm looking forward to taking my singlespeed winter bike out through the river valley for a couple of hours tomorrow. That feels a bit more like real biking.

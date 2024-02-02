@@ -2,7 +2,7 @@
 categories = ['cycling']
 date = '2023-09-19'
 description = 'cyclocross is really hard, yo'
-slug = 'embracethesuck'
+slug = '230919-embrace-the-suck'
 tags = ['cx', 'races', 'training','stoics']
 title = "embrace the suck"
 draft = false

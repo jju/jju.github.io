@@ -2,7 +2,7 @@
 categories = ['cycling']
 date = '2023-05-30'
 description = 'a first experience having a coach'
-slug = 'coaching'
+slug = '230530-coaching'
 tags = ['aba cx cup', 'races', 'road','coach','training']
 title = 'go team optimism'
 draft = false
