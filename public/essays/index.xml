@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>essays on the dubious monk</title>
+    <link>https://thedubiousmonk.net/essays/</link>
+    <description>Recent content in essays on the dubious monk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://thedubiousmonk.net/essays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cyclocross</title>
+      <link>https://thedubiousmonk.net/essays/cx/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/essays/cx/</guid>
+      <description>Cyclocross (also cyclo-cross, &amp;lsquo;cross or cx) is my favourite discipline of riding bikes. There are a bunch of reasons for that, which I&amp;rsquo;ll be detailing below, along with some history and further reading1 by people who know more than me.&#xA;cyclocross as a sport So you know about riding a bike right? Bikes have two wheels and pedals and handlebars to steer. The important thing you learn as a kid is how to balance and then off you go.</description>
+    </item>
+  </channel>
+</rss>
