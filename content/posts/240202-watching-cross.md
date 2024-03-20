@@ -23,4 +23,6 @@ I was into watching the 2023-24 season on GCN+, but then they shut down before k
 
 I'm putting off the decision to get a new subscription[^4] until the summer. Getting back into watching when I'm ramping up for riding feels like it'll make more sense for me. I don't think I want to let it go completely.
 
-[^4]: GCN was the Global Cycling Network and it was cheap as far as sports subscriptions go. They got bought by Warner Brothers and made part of the much more expensive Discovery+ Sports Add-On in the US, Discovery+ in the UK and nowhere in Canada. To watch here, I'd be using FloBikes, which apparently has much worse commentary than I'm used to.
+[^4]: GCN was the Global Cycling Network and it was cheap as far as sports subscriptions go. They got bought by Warner Brothers and made part of the much more expensive Discovery+ Sports Add-On in the US, Discovery+ in the UK and nowhere in Canada. To watch here, I'd be using FloBikes, which apparently has much worse commentary than I'm used to.[^5]
+
+[^5]: Apparently now FloBikes has the Discovery+ good stuff now (as of 2024-03-14)? I have still not purchased a subscription.
