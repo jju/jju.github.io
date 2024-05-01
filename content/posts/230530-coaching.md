@@ -7,7 +7,7 @@ tags = ['aba cx cup', 'races', 'road','coach','training']
 title = 'go team optimism'
 draft = false
 +++
-I joined [a cycling club](../vcc/) in 2023 and we have a coach. I have never had a coach before. I haven't ever really done sports (part of why my partner tells me I'm not an athlete) so I don't know what a coach is supposed to do. But Kevin seems earnest and nice and is trying so hard to be helpful. 
+I joined [a cycling club](../vcc/) in 2023 and we have a coach. I have never had a coach before. I haven't ever really done sports so I don't know what a coach is supposed to do. But Kevin seems earnest and nice and is trying so hard to be helpful. 
 
 Before this season's [first race](../stiedaclassic2023/) he held a racers' meeting to go over the course using veloviewer and to talk about tactics and what we should be doing before a race. I was at work that night, so I asked if he'd be able to record it and he did. He talked about wind directions and planning and prep and where to attack the group if we had the legs. 
 
