@@ -16,3 +16,4 @@ As far as the singletrack in the park goes, this is where you connect up with Go
 
 * Jim Horner Grand Prix [2023](../../posts/jimhornergrandprix2023/)
 * School of Cross [2023](../race/schoolofcross2023/)
+* Midweek CX Series [2023](../wnw2023/)

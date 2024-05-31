@@ -3,8 +3,8 @@ title = 'spring again'
 date = 2024-04-25T13:26:03-06:00
 draft = false
 slug = '240425-spring-again'
-categories = ['cycling','']
-tags = ['club', 'vcc', 'edmonton','mtb']
+categories = ['cycling']
+tags = ['club', 'vcc', 'edmonton','mtb','ftt']
 description = 'Thoughts on riding out on the road and trails with people.'
 +++
 
@@ -18,4 +18,4 @@ In our second group ride of the season, I went with the slow group, but when we 
 
 [^2]: When you ride in a group, the front riders cut through the wind first which makes it easier for people riding close behind them. So not being on the front lets you go faster while expending less energy; the riders with their nose in the wind are "pulling" the rest of the group along. Ideally everyone takes turns doing pulls on the front so everyone gets to share in the free ride effect, but some people are just stronger than others. When you get into bike racing this is where the tactics really come into play.
 
-While it's fun riding fast on the road, I'm also doing some trail riding. My bike-handling skills need work negotiating roots and the ups and downs in the river valley trails, but having the ability to practice is great. I'm going to try at least one Fat Tire Tuesday race this spring just to see what getting my butt handed to me on these trails (instead of the [CX](../cx/) ones) is like. Generally though, I like mountain biking for being surrounded by trees and the focus rather than the going fast part. We'll see how it feels when/if I try to get competitive.
+While it's fun riding fast on the road, I'm also doing some trail riding. My bike-handling skills need work negotiating roots and the ups and downs in the river valley trails, but having the ability to practice is great. I'm going to try at least one [Fat Tire Tuesday](../ftt/) race this spring just to see what getting my butt handed to me on these trails (instead of the [CX](../cx/) ones) is like. Generally though, I like mountain biking for being surrounded by trees and the focus rather than the going fast part. We'll see how it feels when/if I try to get competitive.
