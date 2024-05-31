@@ -47,6 +47,8 @@ And the very next rule (5.1.018) says:
 
 > The course must be at least 3 meters wide throughout and clearly marked and protected on both sides.
 
+The markings referred to there are usually long ribbons of tape attached to poles on spikes around here, but in fancy-pants races they can be much more elaborate. On courses where you go through the woods there's generally a trail with trees or bushes to the sides so you might not be putting up barriers.
+
 So that's what a 'cross course looks like. It sounds so simple, but that leaves out all the cool bits.
 
 ## the steep stuff
@@ -68,6 +70,16 @@ In my experience (as a terrible old fearful cx rider) the really steep downhills
 [^8]: Going from wet grass to pavement to mud or what have you. 
 
 That slipperiness makes a real difference in races though. Even if something isn't too steep to ride if it's dry, if it's wet or muddy and you'd be fighting your tires the whole way up, you often see even good riders just running up a hill instead of messing about.
+
+## barriers
+
+Barriers in cyclocross are low walls across the course that people have to get off their bike to jump over, or if they're good enough bike handlers they can hop their bikes over them. Not everyone even in the pro ranks hops the planks, but it sure looks cool when they do.
+
+At one of the ABA races in 2023, someone tried to hop the barrier and hit it which bent the heck out of it. The next day's race one of the organizers told everyone in the novice class that there are only a couple of people who could clear the barriers with a bunnyhop at the race and none of them were in our class. So don't do it!
+
+## just using tape
+
+When courses have a big open flattish area sometimes course designers weave the tape around to make corkscrewy paths to ride around. Making 'cross riders do sharp turns slows people down and means you're doing a bunch of sharp accelerations.
 
 # further reading
 

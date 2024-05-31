@@ -1,7 +1,7 @@
 +++
 categories = ['cycling']
 date = '2023-10-14'
-description = 'a rutted and holey top of the hill knd of race'
+description = 'a rutted and holey top of the hill kind of race'
 slug = 'zombiebabywaltercross2023-1'
 tags = ['cx', 'races','queen elizabeth park','baby walter','alberta cx collective', 'aba cx cup','edmonton']
 title = 'baby walter cross 2023 - day 1'
