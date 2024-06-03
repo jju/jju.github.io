@@ -1,7 +1,7 @@
 +++
 title = 'belonging'
 date = 2024-05-30T18:16:56-06:00
-draft = true
+draft = false
 slug = '240530-belonging'
 categories = ['cycling','']
 tags = ['club','vcc','edmonton','mtb','ftt','hills']
