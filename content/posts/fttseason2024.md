@@ -14,6 +14,10 @@ For me, mountain bike racing is not something I'm super into, so I wouldn't pay 
 	* 5/6 for 6 points
 * **Race 2** 2024-05-28[^1] : [stravalink](https://www.strava.com/segments/37005757) There was a prologue to stretch the group out a little before hitting the singletrack this week. Loads of climbing on this course. I was following one rider for most of the first lap before a pedal strike knocked me to a halt and my lost momentum meant I didn't see her again until the last third of the third lap. The rooty climb was tough, and I messed up the line on lap 2. In the end I was lapped by a **lot** of the fast group riders (by two of them in lap 2). 
 	* 9/10 for 2 points
-* **Race 3**
+* **Race 3** 2024-06-18[^2] : [stravalink](https://www.strava.com/segments/37144430) The organizers made this a shorter loop because the Oilers were playing a must-win game in the Stanley Cup Final, so they wanted us to get out of there quickly. I was chasing another B-group rider on the second lap who, when she passed me said "Don't worry; I'm slow on the downhills." So as she was opening more of a gap going down I tried to go faster and then a moment of inattention meant I clipped my bars on a tree and crashed. It hurt. I finished the race, but never did catch up with her.
+	* 4/6 for 7 points
+* **Race 4** 2024-06-25: [stravalink](https://www.strava.com/segments/37193026) This was pretty much the same course as the first FTT race of the year (although for some reason, the segment says it's longer). I wiped out on that same off-camber descent I had trouble with in May, but managed to hang onto 2nd place in the B-Group nonetheless. Climbing is definitely where I gain a bit of time in these races.
+	* 2/4 for 9 points
 
 [^1]: There was no race on May 21 because the radar showed rain, but it never came. I got a ride in that night anyway, since I hadn't been able to check Strava in time.
+[^2]: There were no races on June 4 or June 11 due to rain.
