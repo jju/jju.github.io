@@ -18,6 +18,9 @@ For me, mountain bike racing is not something I'm super into, so I wouldn't pay 
 	* 4/6 for 7 points
 * **Race 4** 2024-06-25: [stravalink](https://www.strava.com/segments/37193026) This was pretty much the same course as the first FTT race of the year (although for some reason, the segment says it's longer). I wiped out on that same off-camber descent I had trouble with in May, but managed to hang onto 2nd place in the B-Group nonetheless. Climbing is definitely where I gain a bit of time in these races.
 	* 2/4 for 9 points
+* **Race 5** 2024-07-02: Missed the race because of my kid's soccer game. They had a Le Mans style start[^3] though, which sounded fun.
+* **Race 6** 2024-07-09: Missed the race because I was in Valemount doing a little mountain biking. This was a team trivia race, and I have no idea how that works.
 
 [^1]: There was no race on May 21 because the radar showed rain, but it never came. I got a ride in that night anyway, since I hadn't been able to check Strava in time.
 [^2]: There were no races on June 4 or June 11 due to rain.
+[^3]: The bikes are all lying on the ground and the riders are standing away from them. When the whistle goes everyone runs to jump on their bikes and start riding.
