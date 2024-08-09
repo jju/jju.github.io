@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/cxseason2024.md",
+                "file": "content/posts/240908-peloton2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/cxseason2024.md",
+                "file": "content/posts/240908-peloton2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/cxseason2024.md",
+                "file": "content/posts/240908-peloton2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/cxseason2024.md"
+                "file": "content/posts/240908-peloton2024.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "704fb00ecd052f2b",
   "lastOpenFiles": [
-    "content/posts/wnwseason2024.md",
     "content/posts/cxseason2024.md",
+    "content/posts/wnwseason2024.md",
     "content/posts/fttseason2024.md",
     "content/posts/240908-peloton2024.md",
     "content/posts/240907-deadgoat2024.md",
