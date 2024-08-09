@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/240730-breakdowns.md",
+                "file": "content/posts/cxseason2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/240730-breakdowns.md",
+                "file": "content/posts/cxseason2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/240730-breakdowns.md",
+                "file": "content/posts/cxseason2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/240730-breakdowns.md"
+                "file": "content/posts/cxseason2024.md"
               }
             }
           }
@@ -148,7 +148,31 @@
   },
   "active": "704fb00ecd052f2b",
   "lastOpenFiles": [
-    "content/posts/240720-range2024.md",
-    "content/posts/240730-breakdowns.md"
+    "content/posts/wnwseason2024.md",
+    "content/posts/cxseason2024.md",
+    "content/posts/fttseason2024.md",
+    "content/posts/240908-peloton2024.md",
+    "content/posts/240907-deadgoat2024.md",
+    "content/posts/240914-wccx2024.md",
+    "content/posts/240915-driez2024.md",
+    "content/posts/240921-jimhornergrandprix2024.md",
+    "content/posts/240922-schoolofcross2024.md",
+    "content/posts/240928-hopnhurl2024.md",
+    "content/posts/240929-puncheurcross2024.md",
+    "content/posts/241005-bicicross2024.md",
+    "content/posts/241006-beans2024.md",
+    "content/posts/241012-crossbow2024.md",
+    "content/posts/241019-velocitycross2024.md",
+    "content/posts/241020-tubsontubs2024.md",
+    "content/posts/241026-snakesladders2024.md",
+    "content/posts/valemount.md",
+    "content/posts/cxseason2023.md",
+    "content/posts/230829-prepping-a-season.md",
+    "content/posts/231021-snakesladders2023.md",
+    "content/posts/231111-crossbow2023.md",
+    "content/posts/231008-beans2023.md",
+    "content/posts/231007-bicicross2023.md",
+    "content/posts/240730-breakdowns.md",
+    "content/posts/231001-puncheurcross2023.md"
   ]
 }
