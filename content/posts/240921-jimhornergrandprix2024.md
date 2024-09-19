@@ -25,23 +25,27 @@ draft = true
 
 ## Podia
 
+### Open Women
+
+1. Christiane BILODEAU
+2. Shawna DONALDSON
+3. Emma SCOTT
+
+### Open Men
+
+1. 
+
 ### Expert Men
 
 1. Paulo ALVES
 2. Emile VOGEL-NAKAMURA
 3. Jacob PLAYFAIR
 
-### Novice Men
+### Sport Women
 
-1. Quinten MACKLEM
-2. Evan KINDZIERSKI
-3. Benjamin UTTING
-
-### Open Women
-
-1. Christiane BILODEAU
-2. Shawna DONALDSON
-3. Emma SCOTT
+1. Rachel DUMONT
+2. Kristin BAKER
+3. Sarah WELSH
 
 ### Sport Men
 
@@ -51,11 +55,11 @@ draft = true
 
 [^1]: [Velocity Cycling Club](../vcc/) woo!
 
-### Sport Women
+### Novice Men
 
-1. Rachel DUMONT
-2. Kristin BAKER
-3. Sarah WELSH
+1. Quinten MACKLEM
+2. Evan KINDZIERSKI
+3. Benjamin UTTING
 
 ## my results
 

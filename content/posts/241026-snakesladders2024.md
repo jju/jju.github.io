@@ -19,6 +19,16 @@ draft = true
 
 ## Podia
 
+### Open Women
+
+1. Francesca SEAL
+2. Susanne MCARTHUR
+3. Quinn FLATER
+### Open Men
+
+1. Mark FAGNAN
+2. Andrew DAVIDSON
+3. Scott DESMARAIS
 ### Expert Men
 
 1. Adam ROBERTS
@@ -27,35 +37,26 @@ draft = true
 
 [^1]: [Velocity Cycling Club](../vcc/) woo!
 
-### Novice Men
+### Sport Women
 
-1. Cor SINKE
-2. William KINDZIERSKI
-3. Arun WARD
-
-### Open Men
-
-1. Mark FAGNAN
-2. Andrew DAVIDSON
-3. Scott DESMARAIS
-
-### Open Women
-
-1. Francesca SEAL
-2. Susanne MCARTHUR
-3. Quinn FLATER
-
+1. Kathryn SWEENEY
+2. Hazel ROBERTS
+3. Madeline MAGLEO
 ### Sport Men
 
 1. Josh BARKER
 2. Sean SWEENEY
 3. Carl MILLER
 
-### Sport Women
+### Novice Men
 
-1. Kathryn SWEENEY
-2. Hazel ROBERTS
-3. Madeline MAGLEO
+1. Cor SINKE
+2. William KINDZIERSKI
+3. Arun WARD
+
+
+
+
 
 ## my results
 

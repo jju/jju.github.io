@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/cxseason2024.md",
+                "file": "content/posts/240914-wccx2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/240907-deadgoat2024.md",
+                "file": "content/posts/cxseason2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,36 +164,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "704fb00ecd052f2b",
+  "active": "2c9800480d804cc7",
   "lastOpenFiles": [
-    "public/posts/peloton2024/index.html",
-    "public/posts/peloton2024",
-    "public/posts/deadgoat2024/index.html",
-    "public/posts/deadgoat2024",
-    "content/posts/240908-peloton2024.md",
-    "content/posts/240907-deadgoat2024.md",
-    "content/posts/230902-tubsontubs2023.md",
-    "content/posts/240921-jimhornergrandprix2024.md",
-    "content/posts/240720-range2024.md",
-    "content/posts/cxseason2024.md",
-    "content/posts/fttseason2024.md",
-    "content/posts/cxseason2023.md",
-    "content/posts/240730-breakdowns.md",
-    "content/posts/wnwseason2024.md",
-    "content/posts/240914-wccx2024.md",
+    "public/tags/bow-cycle/index.xml",
+    "public/tags/bow-cycle/index.html",
+    "public/tags/bow-cycle",
+    "public/posts/wccx2024/index.html",
+    "public/posts/wccx2024",
+    "public/posts/driez2024/index.html",
+    "public/posts/driez2024",
+    "public/posts/cxseason2024/index.html",
+    "public/posts/cxseason2024",
+    "public/tags/wnw/index.xml",
+    "public/tags/wnw/index.html",
     "content/posts/240915-driez2024.md",
-    "content/posts/240922-schoolofcross2024.md",
-    "content/posts/240928-hopnhurl2024.md",
-    "content/posts/240929-puncheurcross2024.md",
-    "content/posts/241005-bicicross2024.md",
-    "content/posts/241006-beans2024.md",
-    "content/posts/241012-crossbow2024.md",
-    "content/posts/241019-velocitycross2024.md",
-    "content/posts/241020-tubsontubs2024.md",
-    "content/posts/241026-snakesladders2024.md",
-    "content/posts/valemount.md",
-    "content/posts/230829-prepping-a-season.md",
+    "content/posts/240914-wccx2024.md",
+    "content/posts/cxseason2024.md",
     "content/posts/231021-snakesladders2023.md",
-    "content/posts/231111-crossbow2023.md"
+    "content/posts/240730-breakdowns.md",
+    "content/posts/240530-belonging.md",
+    "content/posts/241026-snakesladders2024.md",
+    "content/posts/231111-crossbow2023.md",
+    "content/posts/241020-tubsontubs2024.md",
+    "content/posts/241019-velocitycross2024.md",
+    "content/posts/241012-crossbow2024.md",
+    "content/posts/231008-beans2023.md",
+    "content/posts/241006-beans2024.md",
+    "content/posts/231007-bicicross2023.md",
+    "content/posts/241005-bicicross2024.md",
+    "content/posts/231001-puncheurcross2023.md",
+    "content/posts/240929-puncheurcross2024.md",
+    "content/posts/240928-hopnhurl2024.md",
+    "content/posts/230930-hopnhurl2023.md",
+    "content/posts/230917-schoolofcross2023.md",
+    "content/posts/240922-schoolofcross2024.md",
+    "content/posts/230916-jimhornergrandprix2023.md",
+    "content/posts/240921-jimhornergrandprix2024.md",
+    "content/posts/230924-driez2023.md",
+    "content/posts/230923-wccx2023.md"
   ]
 }

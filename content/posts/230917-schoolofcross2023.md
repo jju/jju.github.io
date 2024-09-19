@@ -21,7 +21,7 @@ Like the previous day's [Jim Horner Grand Prix](../jimhornergrandprix2023/) ERTC
 
 ## Podia
 
-### Elite/Open Men
+### Open Men
 
 1. Mark FAGNAN
 2. Graham FRANCIS
@@ -35,19 +35,6 @@ Like the previous day's [Jim Horner Grand Prix](../jimhornergrandprix2023/) ERTC
 
 [^1]: Earned promotion up to Open Men, with his second win (in a row, following [JHGP](../jimhornergrandprix2023/)) in Expert.
 
-### Novice Men
-
-1. Quinten MACKLEM[^2]
-2. Emmett MACKLEM
-3. Evan KINDZIERSKI
-
-[^2]: Earned promotion up to Sport Men, with his second win (in a row, following [JHGP](../jimhornergrandprix2023/)) in Novice.
-
-### Sport Men
-
-1. Ethan MCGHAN
-2. Ryan ARYCHUK
-3. Colin WEIR CHABA
 
 ### Sport Women
 
@@ -56,6 +43,20 @@ Like the previous day's [Jim Horner Grand Prix](../jimhornergrandprix2023/) ERTC
 3. Madeline MAGLEO
 
 [^2]: Earned promotion up to Open Women, with her second win (in a row, following [JHGP](../jimhornergrandprix2023/)) in Sport.
+
+### Sport Men
+
+1. Ethan MCGHAN
+2. Ryan ARYCHUK
+3. Colin WEIR CHABA
+
+### Novice Men
+
+1. Quinten MACKLEM[^2]
+2. Emmett MACKLEM
+3. Evan KINDZIERSKI
+
+[^2]: Earned promotion up to Sport Men, with his second win (in a row, following [JHGP](../jimhornergrandprix2023/)) in Novice.
 
 ## my results
 

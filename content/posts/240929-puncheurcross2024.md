@@ -20,19 +20,11 @@ draft = true
 * [CrossResults](https://www.crossresults.com/race/11768)
 
 ## Podia
-### Expert Men
+### Open Women
 
-1. Larix Hallett
-2. Luke PULFORD
-3. Adam ROBERTS
-
-### Novice Men
-
-1. Warren NISHIMURA[^5]
-2. Matthew TEEL
-3. William LEMIEUX
-
-[^5]: I saw Warren in the parking lot after our race, not knowing who he was and asked how his race went. He answered with a very charming joie de velo "I won! I haven't been on a podium in 20 years."
+1. Nico KNOLL
+2. Christiane BILODEAU
+3. Alexandra VOLSTAD
 
 ### Open Men
 
@@ -40,11 +32,17 @@ draft = true
 2. Eric BERG
 3. Graham FRANCIS
 
-### Open Women
+### Expert Men
 
-1. Nico KNOLL
-2. Christiane BILODEAU
-3. Alexandra VOLSTAD
+1. Larix Hallett
+2. Luke PULFORD
+3. Adam ROBERTS
+
+### Sport Women
+
+1. Daena SIDNEY
+2. Sarah WELSH
+3. Hazel ROBERTS
 
 ### Sport Men
 
@@ -54,11 +52,14 @@ draft = true
 
 [^6]: [Velocity Cycling Club](../vcc/) woo!
 
-### Sport Women
+### Novice Men
 
-1. Daena SIDNEY
-2. Sarah WELSH
-3. Hazel ROBERTS
+1. Warren NISHIMURA[^5]
+2. Matthew TEEL
+3. William LEMIEUX
+
+[^5]: I saw Warren in the parking lot after our race, not knowing who he was and asked how his race went. He answered with a very charming joie de velo "I won! I haven't been on a podium in 20 years."
+
 ## my results
 
 * Did not race

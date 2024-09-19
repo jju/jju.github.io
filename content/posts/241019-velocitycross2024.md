@@ -21,18 +21,11 @@ Last year [Sidney McGill](https://cyclocross24.com/rider/sidney-mcgill-/) was go
 
 ## podia
 
+### Open Women
 
-### Expert Men
-
-1. Randy PERRY
-2. Adam ROBERTS
-3. Mike SARNECKI
-
-### Novice Men
-
-1. Trev WILLIAMS
-2. Emmet MACKLEM
-3. Douglas GRAY
+1. Ella MYERS
+2. Christiane BILODEAU
+3. Pepper HARLTON
 
 ### Open Men
 
@@ -40,11 +33,17 @@ Last year [Sidney McGill](https://cyclocross24.com/rider/sidney-mcgill-/) was go
 2. Mark FAGNAN
 3. Finn BORSTMAYER
 
-### Open Women
+### Expert Men
 
-1. Ella MYERS
-2. Christiane BILODEAU
-3. Pepper HARLTON
+1. Randy PERRY
+2. Adam ROBERTS
+3. Mike SARNECKI
+
+### Sport Women
+
+1. Hazel ROBERTS
+2. Madeline MAGLEO
+3. Renee ANSEEUW
 
 ### Sport Men
 
@@ -52,11 +51,12 @@ Last year [Sidney McGill](https://cyclocross24.com/rider/sidney-mcgill-/) was go
 2. Josh BARKER
 3. Cor SINKE
 
-### Sport Women
+### Novice Men
 
-1. Hazel ROBERTS
-2. Madeline MAGLEO
-3. Renee ANSEEUW
+1. Trev WILLIAMS
+2. Emmet MACKLEM
+3. Douglas GRAY
+
 ## my results
 
 * 
