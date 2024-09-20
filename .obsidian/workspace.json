@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/240914-wccx2024.md",
+                "file": "content/posts/240907-deadgoat2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,6 +166,12 @@
   },
   "active": "2c9800480d804cc7",
   "lastOpenFiles": [
+    "public/wnw24_runup.jpg",
+    "content/posts/240907-deadgoat2024.md",
+    "content/posts/230916-jimhornergrandprix2023.md",
+    "content/posts/cxseason2024.md",
+    "content/posts/240914-wccx2024.md",
+    "static/wnw24_runup.jpg.~tmp",
     "public/tags/bow-cycle/index.xml",
     "public/tags/bow-cycle/index.html",
     "public/tags/bow-cycle",
@@ -175,11 +181,7 @@
     "public/posts/driez2024",
     "public/posts/cxseason2024/index.html",
     "public/posts/cxseason2024",
-    "public/tags/wnw/index.xml",
-    "public/tags/wnw/index.html",
     "content/posts/240915-driez2024.md",
-    "content/posts/240914-wccx2024.md",
-    "content/posts/cxseason2024.md",
     "content/posts/231021-snakesladders2023.md",
     "content/posts/240730-breakdowns.md",
     "content/posts/240530-belonging.md",
@@ -198,9 +200,7 @@
     "content/posts/230930-hopnhurl2023.md",
     "content/posts/230917-schoolofcross2023.md",
     "content/posts/240922-schoolofcross2024.md",
-    "content/posts/230916-jimhornergrandprix2023.md",
     "content/posts/240921-jimhornergrandprix2024.md",
-    "content/posts/230924-driez2023.md",
-    "content/posts/230923-wccx2023.md"
+    "content/posts/230924-driez2023.md"
   ]
 }
