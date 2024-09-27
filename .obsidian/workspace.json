@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/240907-deadgoat2024.md",
+                "file": "content/posts/240922-schoolofcross2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,22 +166,28 @@
   },
   "active": "2c9800480d804cc7",
   "lastOpenFiles": [
-    "public/wnw24_runup.jpg",
     "content/posts/240907-deadgoat2024.md",
-    "content/posts/230916-jimhornergrandprix2023.md",
+    "content/posts/240921-jimhornergrandprix2024.md",
+    "content/posts/240922-schoolofcross2024.md",
+    "public/posts/schoolofcross2024/index.html",
+    "public/posts/schoolofcross2024",
+    "public/posts/jimhornergrandprix2024/index.html",
+    "public/posts/jimhornergrandprix2024",
+    "public/jhgp24_sportmen.jpg",
+    "public/jhgp24_expertmen_runup.jpg",
     "content/posts/cxseason2024.md",
+    "static/jhgp24_expertmen_runup.jpg.~tmp",
+    "static/jhgp24_expertmen_runup.jpg",
+    "static/jhgp24_sportmen.jpg",
+    "content/posts/240915-driez2024.md",
+    "public/wnw24_runup.jpg",
+    "content/posts/230916-jimhornergrandprix2023.md",
     "content/posts/240914-wccx2024.md",
     "static/wnw24_runup.jpg.~tmp",
     "public/tags/bow-cycle/index.xml",
     "public/tags/bow-cycle/index.html",
     "public/tags/bow-cycle",
     "public/posts/wccx2024/index.html",
-    "public/posts/wccx2024",
-    "public/posts/driez2024/index.html",
-    "public/posts/driez2024",
-    "public/posts/cxseason2024/index.html",
-    "public/posts/cxseason2024",
-    "content/posts/240915-driez2024.md",
     "content/posts/231021-snakesladders2023.md",
     "content/posts/240730-breakdowns.md",
     "content/posts/240530-belonging.md",
@@ -199,8 +205,6 @@
     "content/posts/240928-hopnhurl2024.md",
     "content/posts/230930-hopnhurl2023.md",
     "content/posts/230917-schoolofcross2023.md",
-    "content/posts/240922-schoolofcross2024.md",
-    "content/posts/240921-jimhornergrandprix2024.md",
     "content/posts/230924-driez2023.md"
   ]
 }
