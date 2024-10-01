@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/240922-schoolofcross2024.md",
+                "file": "content/posts/240928-hopnhurl2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/cxseason2024.md",
+                "file": "content/posts/240929-puncheurcross2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/cxseason2024.md",
+                "file": "content/posts/240929-puncheurcross2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/cxseason2024.md",
+                "file": "content/posts/240929-puncheurcross2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/cxseason2024.md"
+                "file": "content/posts/240929-puncheurcross2024.md"
               }
             }
           }
@@ -166,16 +166,27 @@
   },
   "active": "2c9800480d804cc7",
   "lastOpenFiles": [
+    "public/posts/puncheurcross2024/index.html",
+    "public/posts/puncheurcross2024",
+    "public/posts/hopnhurl2024/index.html",
+    "public/posts/hopnhurl2024",
+    "public/hopnhurl24_sandpit_sportmen.jpg",
+    "public/hopnhurl24_downhill_sportmen.jpg",
+    "content/posts/221002-puncheurcross2022.md",
+    "content/posts/240928-hopnhurl2024.md",
+    "content/posts/240929-puncheurcross2024.md",
+    "content/posts/cxseason2024.md",
+    "static/hopnhurl24_sandpit_sportmen.jpg",
+    "static/hopnhurl24_downhill_sportmen.jpg",
+    "content/posts/240922-schoolofcross2024.md",
     "content/posts/240907-deadgoat2024.md",
     "content/posts/240921-jimhornergrandprix2024.md",
-    "content/posts/240922-schoolofcross2024.md",
     "public/posts/schoolofcross2024/index.html",
     "public/posts/schoolofcross2024",
     "public/posts/jimhornergrandprix2024/index.html",
     "public/posts/jimhornergrandprix2024",
     "public/jhgp24_sportmen.jpg",
     "public/jhgp24_expertmen_runup.jpg",
-    "content/posts/cxseason2024.md",
     "static/jhgp24_expertmen_runup.jpg.~tmp",
     "static/jhgp24_expertmen_runup.jpg",
     "static/jhgp24_sportmen.jpg",
@@ -185,9 +196,6 @@
     "content/posts/240914-wccx2024.md",
     "static/wnw24_runup.jpg.~tmp",
     "public/tags/bow-cycle/index.xml",
-    "public/tags/bow-cycle/index.html",
-    "public/tags/bow-cycle",
-    "public/posts/wccx2024/index.html",
     "content/posts/231021-snakesladders2023.md",
     "content/posts/240730-breakdowns.md",
     "content/posts/240530-belonging.md",
@@ -201,10 +209,7 @@
     "content/posts/231007-bicicross2023.md",
     "content/posts/241005-bicicross2024.md",
     "content/posts/231001-puncheurcross2023.md",
-    "content/posts/240929-puncheurcross2024.md",
-    "content/posts/240928-hopnhurl2024.md",
     "content/posts/230930-hopnhurl2023.md",
-    "content/posts/230917-schoolofcross2023.md",
-    "content/posts/230924-driez2023.md"
+    "content/posts/230917-schoolofcross2023.md"
   ]
 }

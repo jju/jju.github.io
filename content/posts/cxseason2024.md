@@ -30,7 +30,7 @@ These are the real races. Ability categories go Novice, Sport, Expert, Open, unl
 * [Deadgoat Supercross](../deadgoat2024/)* & [Peloton CX](../peloton2024/)
 * [Western Challenge CX](../wccx2024/) & [Drie Zussen Superprestige](../driez2024/)
 * [Jim Horner Classic](../jimhornergrandprix2024/)* & [School of Cross](../schoolofcross2024/)*
-* Hop + Hurl](../hopnhurl2024/)* & Puncheur Cross](../puncheurcross2024/)
+* [Hop-N-Hurl](../hopnhurl2024/)* & [Puncheur Cross](../puncheurcross2024/)
 * Bicicross](../bicicross2024/) & Beans + Barley](../beans2024/)
 * Crosstoberfest Turduckenprestige](../crossbow2024/)
 * Velocity Cyclocross](../velocitycross2024/)* & Tubs on Tubs Provincials](../tubsontubs2024/)*

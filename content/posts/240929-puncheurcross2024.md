@@ -1,65 +1,69 @@
 +++
 categories = ['cycling']
 date = '2024-09-29'
-description = ""
+description = "more from voyageur park"
 slug = 'puncheurcross2024'
 tags = ['cx', 'races','voyageur park','puncheur','alberta', 'provincials','masters','junior','devon','dba']
 title = 'puncheur cross 2024'
-draft = true
+draft = false
 +++
 
-> * [Tech Guide](https://www.albertabicycle.ab.ca/uploads/files/DEVON%20BICYCLE%20ASSOCIATION%20PRESENTS%202023%20CYCLOCROSS%20PROVINCIAL%20RACE.pdf) 
+> * [Tech Guide](https://www.albertabicycle.ab.ca/uploads/files/2024%20Documents/2024%20Tech%20Guides/2024PUNCHEURSept%206.pdf) 
 > * Location: [Voyageur Park](../voyageurpark/) Devon
-> * Course: [stravalink](https://www.strava.com/segments/35564994)
+> * Course: [stravalink](http://www.strava.com/segments/37886098)
 
 
-
+Day two of the Devon races for 2024. I couldn't make it out, but I heard the runup was much nastier than the day before.
 # results
 
-* [Official Results](https://www.albertabicycle.ab.ca/uploads/files/2023%20Cross%20Results/DBA%20Provincials%202023.pdf)
-* [CrossResults](https://www.crossresults.com/race/11768)
+* [Official Results](https://zone4.ca/register.asp?id=35972)
+* [CrossResults](https://www.crossresults.com/race/12479)
 
 ## Podia
 ### Open Women
 
-1. Nico KNOLL
-2. Christiane BILODEAU
-3. Alexandra VOLSTAD
+1. Christiane BILODEAU[^1]
+2. Annie SCOTT
+3. Chantell WIDNEY
 
+[^1]: First place the day before and second place in 2023.
 ### Open Men
 
-1. Ryan MACLEAN
-2. Eric BERG
-3. Graham FRANCIS
+1. Finn BORSTMAYER[^2]
+2. Moritz ROMEIKE
+3. Andrew DAVIDSON
 
+[^2]: First place the day before.
 ### Expert Men
 
-1. Larix Hallett
-2. Luke PULFORD
-3. Adam ROBERTS
+1. Jared GERVAIS
+2. Robert BRUHA
+3. Jason REDFERN[^3]
+
+[^3]: [Velocity Cycling Club](../vcc/) woo!
 
 ### Sport Women
 
-1. Daena SIDNEY
-2. Sarah WELSH
-3. Hazel ROBERTS
+1. Alina CUSTODIO
+2. Morgan PINNOCK
+3. Emily YOUNG[^4]
 
+[^4]: Second place the day before.
 ### Sport Men
 
-1. Jack PURDY
-2. Josh BARKER
-3. Brendan CARDIFF[^6] 
+1. Eton KOHLENBERG[^5]
+2. Liam BATE
+3. Vaughn SHEARS
 
-[^6]: [Velocity Cycling Club](../vcc/) woo!
-
+[^5]: Third place the day before.
 ### Novice Men
 
-1. Warren NISHIMURA[^5]
-2. Matthew TEEL
-3. William LEMIEUX
+1. Aiden SANDMAIER[^6]
+2. Jamie MOORS
+3. Timothy UTTING[^7]
 
-[^5]: I saw Warren in the parking lot after our race, not knowing who he was and asked how his race went. He answered with a very charming joie de velo "I won! I haven't been on a podium in 20 years."
-
+[^6]: Second place the day before.
+[^7]: Third place the day before.
 ## my results
 
 * Did not race
