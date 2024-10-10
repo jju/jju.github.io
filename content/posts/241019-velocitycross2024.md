@@ -2,7 +2,7 @@
 categories = ['cycling']
 date = '2024-10-19'
 description = 'last pre-provincials race'
-slug = 'velocitycross2023'
+slug = 'velocitycross2024'
 tags = ['cx', 'races','strathcona science park','vcc','velocity cross','aba cx cup','edmonton']
 title = 'velocity cross 2024'
 draft = true
@@ -27,6 +27,9 @@ Last year [Sidney McGill](https://cyclocross24.com/rider/sidney-mcgill-/) was go
 2. Christiane BILODEAU
 3. Pepper HARLTON
 
+Shantel Koenig - Shantel has been killing it this season with two wins and five more podiums (and one DNF because of an impressively mangled rear derailleur)
+
+Emma Scott - With two early season wins (plus three podiums) in ten races, Emma isn't quite the force Shantel has been but she should do well.
 ### Open Men
 
 1. Andrew DAVIDSON

@@ -1,18 +1,18 @@
 +++
 categories = ['cycling']
-date = '2024-10-12'
-slug = 'crossbow2024'
+date = '2024-10-13'
+slug = 'crosstoberfest2024'
 tags = ['cx', 'races','crossbow semiprestige','cyclemeisters','bow cycle','aba cx cup','rutland park','calgary']
-title = 'crossbow semiprestige 2024'
+title = 'crosstoberfest turducken prestige 2024 day 2'
 draft = true
-description = ''
+description = 'a hangover race without an oompa band'
 +++
 
-> * [Tech Guide](https://docs.google.com/document/d/1-vppOEj72wRFW5r8uYQhWkwkS9hki_GaAUJAI207lvU/edit?usp=sharing)
+> * [Tech Guide](https://docs.google.com/document/d/1fn1lTNa-F_qtriTRZjFSrB7gfn2Q99jHeCfgeCX5D5o/edit)
 > * Location: Rutland Park, Calgary
 > * Course: [stravalink](http://www.strava.com/segments/35834847)
 
-In 2023 this race was postponed from earlier in the month because of some freakish weather. There was supposed to be a second race on the Sunday but with the rescheduling, that didn't happen.
+As part two of the Crosstoberfest Turducken Prestige I imagine this was going to see riders not at their sharpest.
 
 # results
 
@@ -60,4 +60,5 @@ In 2023 this race was postponed from earlier in the month because of some freaki
 
 # read more
 
+* [Crosstoberfest Turducken Prestige Day 1](../turducken2024/)
 * [Crossbow Semiprestige 2023](../crossbow2023/)
