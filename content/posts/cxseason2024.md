@@ -1,6 +1,6 @@
 +++
 categories = ['cycling']
-date = '2024-09-01'
+date = '2024-11-01'
 description = 'summary of racing Edmonton cyclocross in 2024'
 slug = 'cxseason2024'
 tags = ['aba cx cup', 'cx', 'races', 'wnw', 'edmonton']
@@ -38,7 +38,7 @@ These are the real races. Ability categories go Novice, Sport, Expert, Open, unl
 * [Hardcore Hop-N-Hurl](../hopnhurl2024/)* & [Puncheur Cross](../puncheurcross2024/)
 * [Bicicross](../bicicross2024/) & [Terrascape Beans + Barley](../beans2024/)
 * Crosstoberfest Turduckenprestige](../crossbow2024/)
-* Velocity Cyclocross](../velocitycross2024/)* & Tubs on Tubs Provincials](../tubsontubs2024/)*
+* [Velocity Cyclocross](../velocitycross2024/)* & [Tubs on Tubs Provincials](../tubsontubs2024/)*
 * Snakes + Ladders](../snakesladders2024/)
 
 ### Best[^3] ABA Cup Racers

@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/241019-velocitycross2024.md",
+                "file": "content/posts/qudbuds.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "qudbuds"
             }
           }
         ]
@@ -34,7 +36,9 @@
                 "file": "content/posts/cxseason2024.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "cxseason2024"
             }
           }
         ]
@@ -57,7 +61,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -72,7 +78,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -80,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -103,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/241019-velocitycross2024.md",
+                "file": "content/posts/cxseason2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for cxseason2024"
             }
           },
           {
@@ -120,10 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/241019-velocitycross2024.md",
+                "file": "content/posts/cxseason2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from cxseason2024"
             }
           },
           {
@@ -134,7 +148,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -143,8 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/241019-velocitycross2024.md"
-              }
+                "file": "content/posts/cxseason2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of cxseason2024"
             }
           }
         ]
@@ -166,10 +184,13 @@
   },
   "active": "704fb00ecd052f2b",
   "lastOpenFiles": [
+    "content/posts/cxseason2024.md",
+    "content/posts/qudbuds.md",
+    "content/essays/cx.md",
+    "content/posts/241019-velocitycross2024.md",
     "content/posts/241013-crosstoberfest2024.md",
     "content/posts/241012-turducken2024.md",
     "content/posts/241005-bicicross2024.md",
-    "content/posts/cxseason2024.md",
     "public/posts/beans2024/index.html",
     "public/posts/beans2024",
     "public/posts/bicicross2024/index.html",
@@ -205,11 +226,8 @@
     "content/posts/241026-snakesladders2024.md",
     "content/posts/231111-crossbow2023.md",
     "content/posts/241020-tubsontubs2024.md",
-    "content/posts/241019-velocitycross2024.md",
     "content/posts/231008-beans2023.md",
     "content/posts/231007-bicicross2023.md",
-    "content/posts/231001-puncheurcross2023.md",
-    "content/posts/230930-hopnhurl2023.md",
-    "content/posts/230917-schoolofcross2023.md"
+    "content/posts/231001-puncheurcross2023.md"
   ]
 }
