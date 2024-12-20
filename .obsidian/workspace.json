@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/qudbuds.md",
+                "file": "content/posts/241214-yearthoughts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "qudbuds"
+              "title": "241214-yearthoughts"
+            }
+          },
+          {
+            "id": "76eca01f39b4e48e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8e3c7bbc96f0a01f",
@@ -33,12 +46,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/cxseason2024.md",
+                "file": "content/posts/ftt.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "cxseason2024"
+              "title": "ftt"
             }
           }
         ]
@@ -182,10 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "704fb00ecd052f2b",
+  "active": "76eca01f39b4e48e",
   "lastOpenFiles": [
-    "content/posts/cxseason2024.md",
     "content/posts/qudbuds.md",
+    "content/posts/ftt.md",
+    "content/posts/cxseason2024.md",
+    "content/posts/241214-yearthoughts.md",
+    "content/posts/qudbuds 1.md",
     "content/essays/cx.md",
     "content/posts/241019-velocitycross2024.md",
     "content/posts/241013-crosstoberfest2024.md",
@@ -225,9 +241,6 @@
     "content/posts/240530-belonging.md",
     "content/posts/241026-snakesladders2024.md",
     "content/posts/231111-crossbow2023.md",
-    "content/posts/241020-tubsontubs2024.md",
-    "content/posts/231008-beans2023.md",
-    "content/posts/231007-bicicross2023.md",
-    "content/posts/231001-puncheurcross2023.md"
+    "content/posts/241020-tubsontubs2024.md"
   ]
 }
