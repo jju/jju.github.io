@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/241214-yearthoughts.md",
+                "file": "content/posts/250131-64squares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241214-yearthoughts"
-            }
-          },
-          {
-            "id": "76eca01f39b4e48e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "250131-64squares"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8e3c7bbc96f0a01f",
@@ -46,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/ftt.md",
+                "file": "content/posts/240425-spring-again.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ftt"
+              "title": "240425-spring-again"
             }
           }
         ]
@@ -195,12 +182,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76eca01f39b4e48e",
+  "active": "704fb00ecd052f2b",
   "lastOpenFiles": [
-    "content/posts/qudbuds.md",
+    "content/posts/240425-spring-again.md",
+    "content/posts/240730-breakdowns.md",
+    "content/posts/250131-64squares.md",
     "content/posts/ftt.md",
-    "content/posts/cxseason2024.md",
     "content/posts/241214-yearthoughts.md",
+    "content/posts/qudbuds.md",
+    "content/posts/cxseason2024.md",
     "content/posts/qudbuds 1.md",
     "content/essays/cx.md",
     "content/posts/241019-velocitycross2024.md",
@@ -237,10 +227,7 @@
     "content/posts/230916-jimhornergrandprix2023.md",
     "content/posts/240914-wccx2024.md",
     "content/posts/231021-snakesladders2023.md",
-    "content/posts/240730-breakdowns.md",
     "content/posts/240530-belonging.md",
-    "content/posts/241026-snakesladders2024.md",
-    "content/posts/231111-crossbow2023.md",
-    "content/posts/241020-tubsontubs2024.md"
+    "content/posts/241026-snakesladders2024.md"
   ]
 }

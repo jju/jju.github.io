@@ -6,20 +6,34 @@
     <description>Recent content in categories on the dubious monk</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 09:34:14 -0700</lastBuildDate>
     <atom:link href="https://thedubiousmonk.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>cycling</title>
-      <link>https://thedubiousmonk.net/categories/cycling/</link>
-      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/categories/cycling/</guid>
+      <title>library</title>
+      <link>https://thedubiousmonk.net/categories/library/</link>
+      <pubDate>Fri, 31 Jan 2025 09:34:14 -0700</pubDate>
+      <guid>https://thedubiousmonk.net/categories/library/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>life</title>
+      <link>https://thedubiousmonk.net/categories/life/</link>
+      <pubDate>Fri, 31 Jan 2025 09:34:14 -0700</pubDate>
+      <guid>https://thedubiousmonk.net/categories/life/</guid>
       <description></description>
     </item>
     <item>
       <title>media</title>
       <link>https://thedubiousmonk.net/categories/media/</link>
-      <pubDate>Wed, 20 Mar 2024 10:40:58 -0600</pubDate>
+      <pubDate>Fri, 31 Jan 2025 09:34:14 -0700</pubDate>
       <guid>https://thedubiousmonk.net/categories/media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cycling</title>
+      <link>https://thedubiousmonk.net/categories/cycling/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/categories/cycling/</guid>
       <description></description>
     </item>
     <item>
@@ -27,20 +41,6 @@
       <link>https://thedubiousmonk.net/categories/work/</link>
       <pubDate>Wed, 20 Mar 2024 10:40:58 -0600</pubDate>
       <guid>https://thedubiousmonk.net/categories/work/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>life</title>
-      <link>https://thedubiousmonk.net/categories/life/</link>
-      <pubDate>Sat, 13 Jan 2024 12:12:08 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/categories/life/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>library</title>
-      <link>https://thedubiousmonk.net/categories/library/</link>
-      <pubDate>Mon, 01 Jun 2015 17:26:17 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/categories/library/</guid>
       <description></description>
     </item>
   </channel>
