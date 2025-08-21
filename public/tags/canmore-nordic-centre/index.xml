@@ -1,40 +1,477 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>canmore nordic centre on the dubious monk</title>
-    <link>https://thedubiousmonk.net/tags/canmore-nordic-centre/</link>
-    <description>Recent content in canmore nordic centre on the dubious monk</description>
-    <generator>Hugo</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thedubiousmonk.net/tags/canmore-nordic-centre/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>drie zussen superprestige 2024</title>
-      <link>https://thedubiousmonk.net/posts/driez2024/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/driez2024/</guid>
-      <description>Tech Guide Location: Canmore Nordic Centre Canmore Course: stravalink It looks like they used the same course as for the Saturday&amp;rsquo;s Western Challenge, which I heard was a bit more technical than the pure power you needed to put down in Cochrane the weekend before.&#xA;results ABA Results CrossResults Podia Open Women Christiane BILODEAU1 Shantel KOENIG2 Emma SCOTT3 Open Men Finn BORSTMAYER4 Mark FAGNAN5 Oskar STACK-MICHASIW Expert Men Moritz ROMEIKE6 Jared GERVAIS Devin ERFLE Sport Women Sophie ERFLE Elané FERGUSON Anna EGGERS Sport Men Emmett MACKLEM7 Lee WOOD Caleb WRIGHT Novice Men Luke OSTREM Maxime BRUN Reed MCARTHUR my results Did not race read more Western Challenge CX 2024 Drie Zussen Superprestige 2023 First place in 2023.</description>
-    </item>
-    <item>
-      <title>western cyclocross challenge 2024</title>
-      <link>https://thedubiousmonk.net/posts/wccx2024/</link>
-      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/wccx2024/</guid>
-      <description>Tech Guide Location: Canmore Nordic Centre Canmore Course: stravalink Western Challenge CX. This race is done in age groups to get points for call-ups for Nationals and what have you so it isn&amp;rsquo;t part of the Alberta Cup CX race series.&#xA;results ABA Results CrossResults Podia Elite/Open Women Christiane BILODEAU1 Quinn GERMAINE Ashton THOMSON Elite/Open Men Finn BORSTMAYER Rhett BATES Mark FAGNAN Junior Women Lydia STACK-MICHASIW Maria MCCARTNEY Dakota DIXON Just a note that last year&amp;rsquo;s Junior Women winner of this race, Nico Knoll is now racing CX in the USCX series.</description>
-    </item>
-    <item>
-      <title>drie zussen superprestige 2023</title>
-      <link>https://thedubiousmonk.net/posts/driez2023/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/driez2023/</guid>
-      <description> Tech Guide Location: Canmore Nordic Centre Canmore Course: stravalink ABA Cup race. Construction on the course. Looked beautiful in the mountains. This is where I&amp;rsquo;d like to go for a travelling race next year.&#xA;results ABA Results CrossResults Podia Open Women Christiane BILODEAU Nico KNOLL Kelsey DUFFIELD Open Men Mark FAGNAN Finn BORSTMAYER Eric BERG Expert Men Jacob PLAYFAIR Larix HALLETT Brett GREINER Sport Women Lydia STACK-MICHASIW Daena SIDNEY Kathryn SWEENEY Sport Men Patrick MCCRADY Nigel BAINES Sean SWEENEY Novice Men Petr HOLUB Mitchell ROBERTS Emmett MACKLEM my results Did not race read more bike stuff </description>
-    </item>
-    <item>
-      <title>western cyclocross challenge 2023</title>
-      <link>https://thedubiousmonk.net/posts/wccx2023/</link>
-      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/wccx2023/</guid>
-      <description> Tech Guide Location: Canmore Nordic Centre Canmore Course: stravalink Western Challenge CX. This race is done in age groups to get points for call-ups for Nationals and what have you.&#xA;results ABA Results CrossResults Podia Elite/Open Women Ella MYERS Christiane BILODEAU Francesca SEAL Elite/Open Men Eric BERG Ryan MACLEAN Manu MOORE Junior Women Nico KNOLL Maria MCCARTNEY Keely HAMILTON Junior Men Ben MORIN Colton ZABOLOTNEY Rhett BATES U17 Women Lydia STACK-MICHASIW Brooke BATES Ella EIDSVIK U17 Men Ethan WOOD Larix HALLETT Quinten MACKLEM U15 Women Hazel ROBERTS Eliza MCRAE U15 Men James CHALKLEY William KINDZIERSKI Finlay ROBERTS Masters Women 35-44 Pepper HARLTON Bridget LINDER Jenn PROCHE Masters Men 35-44 Andrew DAVIDSON Graham DIEHL Jesse BAUER Masters Women 45-54 Susanne MCARTHUR Shantel KOENIG Shawna DONALDSON Masters Men 45-54 Mark KNOLL Paul MARTIN David ROBERTS Masters Women 55-64 Rachel DUMONT Masters Men 55-64 Ed GARVIN Peter LAWRENCE Robert MARTENS Masters Men 65+ Gregory PATYCHUK Ken GERMAINE John ATTO my results Did not race read more Drie Zussen Superprestige 2023 </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>canmore nordic centre on the dubious monk</title><link>http://localhost:1313/tags/canmore-nordic-centre/</link><description>Recent content in canmore nordic centre on the dubious monk</description><generator>Hugo</generator><language>en-ca</language><lastBuildDate>Thu, 19 Sep 2024 10:14:20 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/canmore-nordic-centre/index.xml" rel="self" type="application/rss+xml"/><item><title>drie zussen superprestige 2024</title><link>http://localhost:1313/posts/driez2024/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/driez2024/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/document/d/18S9y7apR_uvVVCWvoTecFPEOV2W-M2eKMgCHafkdzVQ/edit">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: &lt;a href="../nordiccentre/">Canmore Nordic Centre&lt;/a> Canmore&lt;/li>
+&lt;li>Course: &lt;a href="http://strava.com/segments/35509790">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>It looks like they used the same course as for the Saturday&amp;rsquo;s &lt;a href="../wccx2024/">Western Challenge&lt;/a>, which I heard was a bit more technical than the pure power you needed to put down in Cochrane the weekend before.&lt;/p>
+&lt;h1 id="results">
+ results
+ 
+ &lt;a class="anchor" href="#results">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://zone4.ca/race/2024-09-15/82e84a50/results">ABA Results&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.crossresults.com/race/12391">CrossResults&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="podia">
+ Podia
+ 
+ &lt;a class="anchor" href="#podia">#&lt;/a>
+ 
+&lt;/h2>
+&lt;h3 id="open-women">
+ Open Women
+ 
+ &lt;a class="anchor" href="#open-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Christiane BILODEAU&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Shantel KOENIG&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Emma SCOTT&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/li>
+&lt;/ol>
+&lt;h3 id="open-men">
+ Open Men
+ 
+ &lt;a class="anchor" href="#open-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Finn BORSTMAYER&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Mark FAGNAN&lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Oskar STACK-MICHASIW&lt;/li>
+&lt;/ol>
+&lt;h3 id="expert-men">
+ Expert Men
+ 
+ &lt;a class="anchor" href="#expert-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Moritz ROMEIKE&lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Jared GERVAIS&lt;/li>
+&lt;li>Devin ERFLE&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-women">
+ Sport Women
+ 
+ &lt;a class="anchor" href="#sport-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Sophie ERFLE&lt;/li>
+&lt;li>Elané FERGUSON&lt;/li>
+&lt;li>Anna EGGERS&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-men">
+ Sport Men
+ 
+ &lt;a class="anchor" href="#sport-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Emmett MACKLEM&lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Lee WOOD&lt;/li>
+&lt;li>Caleb WRIGHT&lt;/li>
+&lt;/ol>
+&lt;h3 id="novice-men">
+ Novice Men
+ 
+ &lt;a class="anchor" href="#novice-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Luke OSTREM&lt;/li>
+&lt;li>Maxime BRUN&lt;/li>
+&lt;li>Reed MCARTHUR&lt;/li>
+&lt;/ol>
+&lt;h2 id="my-results">
+ my results
+ 
+ &lt;a class="anchor" href="#my-results">#&lt;/a>
+ 
+&lt;/h2>
+&lt;ul>
+&lt;li>Did not race&lt;/li>
+&lt;/ul>
+&lt;h1 id="read-more">
+ read more
+ 
+ &lt;a class="anchor" href="#read-more">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="../wccx2024/">Western Challenge CX 2024&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../driez2023/">Drie Zussen Superprestige 2023&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>First place in 2023. First place the day before.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p></description></item><item><title>western cyclocross challenge 2024</title><link>http://localhost:1313/posts/wccx2024/</link><pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/wccx2024/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/document/d/18S9y7apR_uvVVCWvoTecFPEOV2W-M2eKMgCHafkdzVQ/edit">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: &lt;a href="../nordiccentre/">Canmore Nordic Centre&lt;/a> Canmore&lt;/li>
+&lt;li>Course: &lt;a href="http://strava.com/segments/35509790">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>Western Challenge CX. This race is done in age groups to get points for call-ups for Nationals and what have you so it isn&amp;rsquo;t part of the Alberta Cup CX race series.&lt;/p>
+&lt;h1 id="results">
+ results
+ 
+ &lt;a class="anchor" href="#results">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://zone4.ca/race/2024-09-14/a0a0ac96/results">ABA Results&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.crossresults.com/race/12390">CrossResults&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="podia">
+ Podia
+ 
+ &lt;a class="anchor" href="#podia">#&lt;/a>
+ 
+&lt;/h2>
+&lt;h3 id="eliteopen-women">
+ Elite/Open Women
+ 
+ &lt;a class="anchor" href="#eliteopen-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Christiane BILODEAU&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Quinn GERMAINE&lt;/li>
+&lt;li>Ashton THOMSON&lt;/li>
+&lt;/ol>
+&lt;h3 id="eliteopen-men">
+ Elite/Open Men
+ 
+ &lt;a class="anchor" href="#eliteopen-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Finn BORSTMAYER&lt;/li>
+&lt;li>Rhett BATES&lt;/li>
+&lt;li>Mark FAGNAN&lt;/li>
+&lt;/ol>
+&lt;h3 id="junior-women">
+ Junior Women
+ 
+ &lt;a class="anchor" href="#junior-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Lydia STACK-MICHASIW&lt;/li>
+&lt;li>Maria MCCARTNEY&lt;/li>
+&lt;li>Dakota DIXON&lt;/li>
+&lt;/ol>
+&lt;p>Just a note that last year&amp;rsquo;s Junior Women winner of this race, &lt;a href="https://cyclocross24.com/rider/nico-knoll/">Nico Knoll&lt;/a> is now racing CX in the &lt;a href="https://uscx.us/">USCX series&lt;/a>.&lt;/p></description></item><item><title>drie zussen superprestige 2023</title><link>http://localhost:1313/posts/driez2023/</link><pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/driez2023/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/document/d/1mFXIVfe8Va_sB24oZAgKyfTCuMIbOAgo163IjusqNrw/edit">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: &lt;a href="../nordiccentre/">Canmore Nordic Centre&lt;/a> Canmore&lt;/li>
+&lt;li>Course: &lt;a href="http://strava.com/segments/35509790">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>ABA Cup race. Construction on the course. Looked beautiful in the mountains. This is where I&amp;rsquo;d like to go for a travelling race next year.&lt;/p>
+&lt;h1 id="results">
+ results
+ 
+ &lt;a class="anchor" href="#results">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://zone4.ca/race/2023-09-24/7bb203b8/results">ABA Results&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.crossresults.com/race/11722">CrossResults&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="podia">
+ Podia
+ 
+ &lt;a class="anchor" href="#podia">#&lt;/a>
+ 
+&lt;/h2>
+&lt;h3 id="open-women">
+ Open Women
+ 
+ &lt;a class="anchor" href="#open-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Christiane BILODEAU&lt;/li>
+&lt;li>Nico KNOLL&lt;/li>
+&lt;li>Kelsey DUFFIELD&lt;/li>
+&lt;/ol>
+&lt;h3 id="open-men">
+ Open Men
+ 
+ &lt;a class="anchor" href="#open-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Mark FAGNAN&lt;/li>
+&lt;li>Finn BORSTMAYER&lt;/li>
+&lt;li>Eric BERG&lt;/li>
+&lt;/ol>
+&lt;h3 id="expert-men">
+ Expert Men
+ 
+ &lt;a class="anchor" href="#expert-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Jacob PLAYFAIR&lt;/li>
+&lt;li>Larix HALLETT&lt;/li>
+&lt;li>Brett GREINER&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-women">
+ Sport Women
+ 
+ &lt;a class="anchor" href="#sport-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Lydia STACK-MICHASIW&lt;/li>
+&lt;li>Daena SIDNEY&lt;/li>
+&lt;li>Kathryn SWEENEY&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-men">
+ Sport Men
+ 
+ &lt;a class="anchor" href="#sport-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Patrick MCCRADY&lt;/li>
+&lt;li>Nigel BAINES&lt;/li>
+&lt;li>Sean SWEENEY&lt;/li>
+&lt;/ol>
+&lt;h3 id="novice-men">
+ Novice Men
+ 
+ &lt;a class="anchor" href="#novice-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Petr HOLUB&lt;/li>
+&lt;li>Mitchell ROBERTS&lt;/li>
+&lt;li>Emmett MACKLEM&lt;/li>
+&lt;/ol>
+&lt;h2 id="my-results">
+ my results
+ 
+ &lt;a class="anchor" href="#my-results">#&lt;/a>
+ 
+&lt;/h2>
+&lt;ul>
+&lt;li>Did not race&lt;/li>
+&lt;/ul>
+&lt;h1 id="read-more">
+ read more
+ 
+ &lt;a class="anchor" href="#read-more">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="../../categories/cycling/">bike stuff&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>western cyclocross challenge 2023</title><link>http://localhost:1313/posts/wccx2023/</link><pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/wccx2023/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/document/d/1mFXIVfe8Va_sB24oZAgKyfTCuMIbOAgo163IjusqNrw/edit">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: &lt;a href="../nordiccentre/">Canmore Nordic Centre&lt;/a> Canmore&lt;/li>
+&lt;li>Course: &lt;a href="http://strava.com/segments/35509790">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>Western Challenge CX. This race is done in age groups to get points for call-ups for Nationals and what have you.&lt;/p>
+&lt;h1 id="results">
+ results
+ 
+ &lt;a class="anchor" href="#results">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://zone4.ca/race/2023-09-22/9d817ca2/results">ABA Results&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.crossresults.com/race/11715">CrossResults&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="podia">
+ Podia
+ 
+ &lt;a class="anchor" href="#podia">#&lt;/a>
+ 
+&lt;/h2>
+&lt;h3 id="eliteopen-women">
+ Elite/Open Women
+ 
+ &lt;a class="anchor" href="#eliteopen-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Ella MYERS&lt;/li>
+&lt;li>Christiane BILODEAU&lt;/li>
+&lt;li>Francesca SEAL&lt;/li>
+&lt;/ol>
+&lt;h3 id="eliteopen-men">
+ Elite/Open Men
+ 
+ &lt;a class="anchor" href="#eliteopen-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Eric BERG&lt;/li>
+&lt;li>Ryan MACLEAN&lt;/li>
+&lt;li>Manu MOORE&lt;/li>
+&lt;/ol>
+&lt;h3 id="junior-women">
+ Junior Women
+ 
+ &lt;a class="anchor" href="#junior-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Nico KNOLL&lt;/li>
+&lt;li>Maria MCCARTNEY&lt;/li>
+&lt;li>Keely HAMILTON&lt;/li>
+&lt;/ol>
+&lt;h3 id="junior-men">
+ Junior Men
+ 
+ &lt;a class="anchor" href="#junior-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Ben MORIN&lt;/li>
+&lt;li>Colton ZABOLOTNEY&lt;/li>
+&lt;li>Rhett BATES&lt;/li>
+&lt;/ol>
+&lt;h3 id="u17-women">
+ U17 Women
+ 
+ &lt;a class="anchor" href="#u17-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Lydia STACK-MICHASIW&lt;/li>
+&lt;li>Brooke BATES&lt;/li>
+&lt;li>Ella EIDSVIK&lt;/li>
+&lt;/ol>
+&lt;h3 id="u17-men">
+ U17 Men
+ 
+ &lt;a class="anchor" href="#u17-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Ethan WOOD&lt;/li>
+&lt;li>Larix HALLETT&lt;/li>
+&lt;li>Quinten MACKLEM&lt;/li>
+&lt;/ol>
+&lt;h3 id="u15-women">
+ U15 Women
+ 
+ &lt;a class="anchor" href="#u15-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Hazel ROBERTS&lt;/li>
+&lt;li>Eliza MCRAE&lt;/li>
+&lt;/ol>
+&lt;h3 id="u15-men">
+ U15 Men
+ 
+ &lt;a class="anchor" href="#u15-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>James CHALKLEY&lt;/li>
+&lt;li>William KINDZIERSKI&lt;/li>
+&lt;li>Finlay ROBERTS&lt;/li>
+&lt;/ol>
+&lt;h3 id="masters-women-35-44">
+ Masters Women 35-44
+ 
+ &lt;a class="anchor" href="#masters-women-35-44">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Pepper HARLTON&lt;/li>
+&lt;li>Bridget LINDER&lt;/li>
+&lt;li>Jenn PROCHE&lt;/li>
+&lt;/ol>
+&lt;h3 id="masters-men-35-44">
+ Masters Men 35-44
+ 
+ &lt;a class="anchor" href="#masters-men-35-44">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Andrew DAVIDSON&lt;/li>
+&lt;li>Graham DIEHL&lt;/li>
+&lt;li>Jesse BAUER&lt;/li>
+&lt;/ol>
+&lt;h3 id="masters-women-45-54">
+ Masters Women 45-54
+ 
+ &lt;a class="anchor" href="#masters-women-45-54">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Susanne MCARTHUR&lt;/li>
+&lt;li>Shantel KOENIG&lt;/li>
+&lt;li>Shawna DONALDSON&lt;/li>
+&lt;/ol>
+&lt;h3 id="masters-men-45-54">
+ Masters Men 45-54
+ 
+ &lt;a class="anchor" href="#masters-men-45-54">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Mark KNOLL&lt;/li>
+&lt;li>Paul MARTIN&lt;/li>
+&lt;li>David ROBERTS&lt;/li>
+&lt;/ol>
+&lt;h3 id="masters-women-55-64">
+ Masters Women 55-64
+ 
+ &lt;a class="anchor" href="#masters-women-55-64">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Rachel DUMONT&lt;/li>
+&lt;/ol>
+&lt;h3 id="masters-men-55-64">
+ Masters Men 55-64
+ 
+ &lt;a class="anchor" href="#masters-men-55-64">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Ed GARVIN&lt;/li>
+&lt;li>Peter LAWRENCE&lt;/li>
+&lt;li>Robert MARTENS&lt;/li>
+&lt;/ol>
+&lt;h3 id="masters-men-65">
+ Masters Men 65+
+ 
+ &lt;a class="anchor" href="#masters-men-65">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Gregory PATYCHUK&lt;/li>
+&lt;li>Ken GERMAINE&lt;/li>
+&lt;li>John ATTO&lt;/li>
+&lt;/ol>
+&lt;h2 id="my-results">
+ my results
+ 
+ &lt;a class="anchor" href="#my-results">#&lt;/a>
+ 
+&lt;/h2>
+&lt;ul>
+&lt;li>Did not race&lt;/li>
+&lt;/ul>
+&lt;h1 id="read-more">
+ read more
+ 
+ &lt;a class="anchor" href="#read-more">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="../driez2023">Drie Zussen Superprestige 2023&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

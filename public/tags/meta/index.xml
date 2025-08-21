@@ -1,26 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>meta on the dubious monk</title>
-    <link>https://thedubiousmonk.net/tags/meta/</link>
-    <description>Recent content in meta on the dubious monk</description>
-    <generator>Hugo</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thedubiousmonk.net/tags/meta/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>thedubiousmonk</title>
-      <link>https://thedubiousmonk.net/</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/</guid>
-      <description>Welcome to the revised and resurrected dubious monk website.&#xA;I&amp;rsquo;m J Jack Unrau and this is where I&amp;rsquo;m collecting some of my writing.&#xA;If you aren&amp;rsquo;t interested in sorting through everything, I&amp;rsquo;d check out the list of categories or more fine-grained topics through the tags page.&#xA;I&amp;rsquo;m also on Mastodon and Flickr</description>
-    </item>
-    <item>
-      <title>reintroduction</title>
-      <link>https://thedubiousmonk.net/posts/240113-reintroduction/</link>
-      <pubDate>Sat, 13 Jan 2024 12:12:08 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/posts/240113-reintroduction/</guid>
-      <description>hello again I&amp;rsquo;m J Jack Unrau. I used to write on the internet some. I haven&amp;rsquo;t for several years. But the muscles should still work. I think.&#xA;The plan here is to fill in some gaps. I don&amp;rsquo;t believe I&amp;rsquo;ll be getting as library-ish as the old librarianaut blog ever was. There&amp;rsquo;ll be more about bikes than there ever used to be. I don&amp;rsquo;t think I&amp;rsquo;ll be writing too much about my kid, but we&amp;rsquo;ll see.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>meta on the dubious monk</title><link>http://localhost:1313/tags/meta/</link><description>Recent content in meta on the dubious monk</description><generator>Hugo</generator><language>en-ca</language><lastBuildDate>Fri, 02 Feb 2024 15:19:03 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/meta/index.xml" rel="self" type="application/rss+xml"/><item><title>thedubiousmonk</title><link>http://localhost:1313/</link><pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/</guid><description>&lt;p>Welcome to the revised and resurrected dubious monk website.&lt;/p>
+&lt;p>I&amp;rsquo;m J Jack Unrau and this is where I&amp;rsquo;m collecting some of my writing.&lt;/p>
+&lt;p>If you aren&amp;rsquo;t interested in sorting through everything, I&amp;rsquo;d check out the &lt;a href="http://localhost:1313/categories/">list of categories&lt;/a> or more fine-grained topics through the &lt;a href="http://localhost:1313/tags/">tags page&lt;/a>.&lt;/p>
+&lt;p>I&amp;rsquo;m also on &lt;a href="https://glammr.us/@dbsmnk">Mastodon&lt;/a> and &lt;a href="https://www.flickr.com/photos/hungry_j/">Flickr&lt;/a>&lt;/p></description></item><item><title>reintroduction</title><link>http://localhost:1313/posts/240113-reintroduction/</link><pubDate>Sat, 13 Jan 2024 12:12:08 -0700</pubDate><guid>http://localhost:1313/posts/240113-reintroduction/</guid><description>&lt;h2 id="hello-again">
+ hello again
+ 
+ &lt;a class="anchor" href="#hello-again">#&lt;/a>
+ 
+&lt;/h2>
+&lt;p>I&amp;rsquo;m J Jack Unrau. I used to write on the internet some. I haven&amp;rsquo;t for several years. But the muscles should still work. I think.&lt;/p>
+&lt;p>The plan here is to fill in some gaps. I don&amp;rsquo;t believe I&amp;rsquo;ll be getting as library-ish as &lt;a href="https://librarianaut.wordpress.com/">the old librarianaut blog&lt;/a> ever was. There&amp;rsquo;ll be more about &lt;a href="../../tags/cycling/">bikes&lt;/a> than there ever used to be. I don&amp;rsquo;t think I&amp;rsquo;ll be writing too much about my kid, but we&amp;rsquo;ll see.&lt;/p></description></item></channel></rss>

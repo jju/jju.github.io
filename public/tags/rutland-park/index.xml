@@ -1,19 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>rutland park on the dubious monk</title>
-    <link>https://thedubiousmonk.net/tags/rutland-park/</link>
-    <description>Recent content in rutland park on the dubious monk</description>
-    <generator>Hugo</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thedubiousmonk.net/tags/rutland-park/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>crossbow semiprestige 2023</title>
-      <link>https://thedubiousmonk.net/posts/crossbow2023/</link>
-      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/crossbow2023/</guid>
-      <description>Tech Guide Location: Rutland Park, Calgary Course: stravalink I missed out on writing this up at the end of the 2023 CX season, and now that 2024 has come around, I don&amp;rsquo;t have a bunch of the data I like to put in these race writeups. Nonetheless, here&amp;rsquo;s what I can find (thankfully I did do my CrossResults upload back when the race happened).&#xA;This race was postponed from earlier in the month because of some freakish weather.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>rutland park on the dubious monk</title><link>http://localhost:1313/tags/rutland-park/</link><description>Recent content in rutland park on the dubious monk</description><generator>Hugo</generator><language>en-ca</language><lastBuildDate>Thu, 19 Sep 2024 10:14:20 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/rutland-park/index.xml" rel="self" type="application/rss+xml"/><item><title>crossbow semiprestige 2023</title><link>http://localhost:1313/posts/crossbow2023/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/crossbow2023/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/document/d/1-vppOEj72wRFW5r8uYQhWkwkS9hki_GaAUJAI207lvU/edit?usp=sharing">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: Rutland Park, Calgary&lt;/li>
+&lt;li>Course: &lt;a href="http://www.strava.com/segments/35834847">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>I missed out on writing this up at the end of the 2023 &lt;a href="../cx/">CX&lt;/a> season, and now that 2024 has come around, I don&amp;rsquo;t have a bunch of the data I like to put in these race writeups. Nonetheless, here&amp;rsquo;s what I can find (thankfully I did do my CrossResults upload back when the race happened).&lt;/p>
+&lt;p>This race was postponed from earlier in the month because of some freakish weather. There was supposed to be a second race on the Sunday but with the rescheduling, that didn&amp;rsquo;t happen.&lt;/p></description></item></channel></rss>

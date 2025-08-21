@@ -1,47 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>vcc on the dubious monk</title>
-    <link>https://thedubiousmonk.net/tags/vcc/</link>
-    <description>Recent content in vcc on the dubious monk</description>
-    <generator>Hugo</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Thu, 30 May 2024 18:16:56 -0600</lastBuildDate>
-    <atom:link href="https://thedubiousmonk.net/tags/vcc/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>belonging</title>
-      <link>https://thedubiousmonk.net/posts/240530-belonging/</link>
-      <pubDate>Thu, 30 May 2024 18:16:56 -0600</pubDate>
-      <guid>https://thedubiousmonk.net/posts/240530-belonging/</guid>
-      <description>This week I&amp;rsquo;ve had some good rides. There was the Velocity social ride last Saturday in which I risked going with the fast group and I did not die. I was not the fastest in that group and I was working hard, but it went pretty well. It was my second fastest time for 50k.&#xA;I&amp;rsquo;ve been to both the (uncancelled) Fat Tire Tuesday races down in Terwillegar park and have been very slow on my mountain bike.</description>
-    </item>
-    <item>
-      <title>spring again</title>
-      <link>https://thedubiousmonk.net/posts/240425-spring-again/</link>
-      <pubDate>Thu, 25 Apr 2024 13:26:03 -0600</pubDate>
-      <guid>https://thedubiousmonk.net/posts/240425-spring-again/</guid>
-      <description>It is almost the end of April in 2024 and my Strava account says I&amp;rsquo;m in better shape than I was at any point last year. I&amp;rsquo;ve been out for a couple of VCC rides this season where it&amp;rsquo;s been about 11 degrees and I wore my tights and seemed to fit in pretty well.&#xA;In the first week there was a fast group and a slow group, which I definitely knew I should stick with (Strava number notwithstanding).</description>
-    </item>
-    <item>
-      <title>velocity cycling club</title>
-      <link>https://thedubiousmonk.net/posts/vcc/</link>
-      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/vcc/</guid>
-      <description>Velocity Cycling Club is the group I ride with. There are a few clubs in the Edmonton area that I could have joined. I was going to join ERTC (Edmonton Road and Track Club) back in 2020 but doing things in groups wasn&amp;rsquo;t feasible that year. I ended up with VCC mostly because a couple of the older guys from their club were friendly at a few of my 2022 cyclocross races.</description>
-    </item>
-    <item>
-      <title>velocity cross 2023 - smoked out</title>
-      <link>https://thedubiousmonk.net/posts/velocitycross2023/</link>
-      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/velocitycross2023/</guid>
-      <description>Tech Guide Location: Strathcona Science Park Course: stravalink (shared with Tubs on Tubs) Sidney McGill was going to be racing in the Open Men category and I was really excited to see her, and to race in the Novice Men, but by 7am the AQHI was over 10 and no one wanted to get blacklung for a race (also the Alberta Bicycle Association won&amp;rsquo;t let you do anything if the index is over 7).</description>
-    </item>
-    <item>
-      <title>velocity criterium 2023</title>
-      <link>https://thedubiousmonk.net/posts/velocitycrit2023/</link>
-      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/velocitycrit2023/</guid>
-      <description>Our club put on a criterium and in my effort to try out a few different kinds of racing (despite being a slowpoke) I entered. I rode in the Citizen class again because that&amp;rsquo;s the type of license I got for the season. This time there were three riders instead of two at the Stieda race earlier. The other guys (despite being in Citizen where all genders can enter, we were all dudes) had raced the day before with the iGregari SugarBoddy Criterium, which was on the same course but in the opposite direction.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>vcc on the dubious monk</title><link>http://localhost:1313/tags/vcc/</link><description>Recent content in vcc on the dubious monk</description><generator>Hugo</generator><language>en-ca</language><lastBuildDate>Mon, 03 Jun 2024 14:17:18 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/vcc/index.xml" rel="self" type="application/rss+xml"/><item><title>belonging</title><link>http://localhost:1313/posts/240530-belonging/</link><pubDate>Thu, 30 May 2024 18:16:56 -0600</pubDate><guid>http://localhost:1313/posts/240530-belonging/</guid><description>&lt;p>This week I&amp;rsquo;ve had some good rides. There was the &lt;a href="../vcc/">Velocity&lt;/a> social ride last Saturday in which I risked going with the fast group and I did not die. I was not the fastest in that group and I was working hard, but it went pretty well. It was my second fastest time for 50k.&lt;/p>
+&lt;p>I&amp;rsquo;ve been to both the (uncancelled) &lt;a href="../ftt/">Fat Tire Tuesday&lt;/a> races down in &lt;a href="../terwillegarpark/">Terwillegar park&lt;/a> and have been very slow on my mountain bike. I do tend to prefer riding that bike for the joy of movement rather than pushing pushing pushing myself, but it&amp;rsquo;s a good non-comfort-zone kind of experience. And getting smoked by teenagers gives me good practice for the &lt;a href="../cx/">cyclocross&lt;/a> season.&lt;/p></description></item><item><title>spring again</title><link>http://localhost:1313/posts/240425-spring-again/</link><pubDate>Thu, 25 Apr 2024 13:26:03 -0600</pubDate><guid>http://localhost:1313/posts/240425-spring-again/</guid><description>&lt;p>It is almost the end of April in 2024 and my Strava account says I&amp;rsquo;m in better shape than I was at any point last year. I&amp;rsquo;ve been out for a couple of &lt;a href="../vcc/">VCC&lt;/a> rides this season where it&amp;rsquo;s been about 11 degrees and I wore my tights and seemed to fit in pretty well.&lt;/p>
+&lt;p>In the first week there was a fast group and a slow group, which I definitely knew I should stick with (Strava number notwithstanding). My suspicions were justified the next week when chatting with one of the riders who&amp;rsquo;d been in the first week fast group. Apparently their average speed wasn&amp;rsquo;t that crazy, but they&amp;rsquo;re so strong in the wind. Some of them used to be Cat 1&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> racers so yeah, best shape of my life is still going to leave me in a puddle by the side of the road keeping up with them.&lt;/p></description></item><item><title>velocity cycling club</title><link>http://localhost:1313/posts/vcc/</link><pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/vcc/</guid><description>&lt;p>&lt;a href="https://velocitycyclingclub.ca">Velocity Cycling Club&lt;/a> is the group I ride with. There are a few clubs in the Edmonton area that I could have joined. I was going to join &lt;a href="https://ertc.org/">ERTC (Edmonton Road and Track Club)&lt;/a> back in 2020 but doing things in groups wasn&amp;rsquo;t feasible that year. I ended up with VCC mostly because a couple of the older guys from their club were friendly at a few of my &lt;a href="cxseason2022.md">2022 cyclocross races&lt;/a>. Also, nice jerseys without extraneous advertising.&lt;/p></description></item><item><title>velocity cross 2023 - smoked out</title><link>http://localhost:1313/posts/velocitycross2023/</link><pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/velocitycross2023/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://www.albertabicycle.ab.ca/uploads/files/Velocity-CX-Tech-Guide-2023_v3.pdf">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: &lt;a href="../strathconasciencepark/">Strathcona Science Park&lt;/a>&lt;/li>
+&lt;li>Course: &lt;a href="https://www.strava.com/segments/35335653">stravalink&lt;/a> (shared with &lt;a href="../tubsontubs2023/">Tubs on Tubs&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>&lt;a href="https://cyclocross24.com/rider/sidney-mcgill-/">Sidney McGill&lt;/a> was going to be racing in the Open Men category and I was really excited to see her, and to race in the Novice Men, but by 7am the AQHI was over 10 and no one wanted to get blacklung for a race (also the Alberta Bicycle Association won&amp;rsquo;t let you do anything if the index is over 7). It sucked, but there wasn&amp;rsquo;t anything else to do about it.&lt;/p></description></item><item><title>velocity criterium 2023</title><link>http://localhost:1313/posts/velocitycrit2023/</link><pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/velocitycrit2023/</guid><description>&lt;p>Our &lt;a href="../vcc/">club&lt;/a> put on a criterium and in my effort to try out a few different kinds of racing (despite being a slowpoke) I entered. I rode in the Citizen class again because that&amp;rsquo;s the type of license I got for the season. This time there were three riders instead of two at the &lt;a href="../stiedaclassic2023/">Stieda&lt;/a> race earlier. The other guys (despite being in Citizen where all genders can enter, we were all dudes) had raced the day before with the iGregari SugarBoddy Criterium, which was on the same course but in the opposite direction.&lt;/p></description></item></channel></rss>

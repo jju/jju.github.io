@@ -1,19 +1,111 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>sundre on the dubious monk</title>
-    <link>https://thedubiousmonk.net/tags/sundre/</link>
-    <description>Recent content in sundre on the dubious monk</description>
-    <generator>Hugo</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thedubiousmonk.net/tags/sundre/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>snakes &amp; ladders III 2023</title>
-      <link>https://thedubiousmonk.net/posts/snakesladders2023/</link>
-      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/snakesladders2023/</guid>
-      <description>Tech Guide Location: Snakes Head Natural Area, Sundre Course: stravalink I missed out on writing this up at the end of the 2023 CX season, and now that 2024 has come around, I don&amp;rsquo;t have a bunch of the data I like to put in these race writeups. Nonetheless, here&amp;rsquo;s what I can find (thankfully I did do my CrossResults upload back when the race happened).&#xA;results CrossResults Podia Open Women Francesca SEAL Susanne MCARTHUR Quinn FLATER Open Men Mark FAGNAN Andrew DAVIDSON Scott DESMARAIS Expert Men Adam ROBERTS Brendan CARDIFF1 Jason PROCHE Sport Women Kathryn SWEENEY Hazel ROBERTS Madeline MAGLEO Sport Men Josh BARKER Sean SWEENEY Carl MILLER Novice Men Cor SINKE William KINDZIERSKI Arun WARD my results did not race read more Velocity Cycling Club woo!</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sundre on the dubious monk</title><link>http://localhost:1313/tags/sundre/</link><description>Recent content in sundre on the dubious monk</description><generator>Hugo</generator><language>en-ca</language><lastBuildDate>Thu, 19 Sep 2024 10:14:20 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/sundre/index.xml" rel="self" type="application/rss+xml"/><item><title>snakes &amp; ladders III 2023</title><link>http://localhost:1313/posts/snakesladders2023/</link><pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/snakesladders2023/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/document/d/1XyrN2tg1PjTT6lNv1o3xg7ECCAtbaQT-mj0UxuwGTmE/edit?usp=sharing">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: Snakes Head Natural Area, Sundre&lt;/li>
+&lt;li>Course: &lt;a href="http://www.strava.com/segments/35705305">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>I missed out on writing this up at the end of the 2023 &lt;a href="../cx/">CX&lt;/a> season, and now that 2024 has come around, I don&amp;rsquo;t have a bunch of the data I like to put in these race writeups. Nonetheless, here&amp;rsquo;s what I can find (thankfully I did do my CrossResults upload back when the race happened).&lt;/p>
+&lt;h1 id="results">
+ results
+ 
+ &lt;a class="anchor" href="#results">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://www.crossresults.com/race/11919">CrossResults&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="podia">
+ Podia
+ 
+ &lt;a class="anchor" href="#podia">#&lt;/a>
+ 
+&lt;/h2>
+&lt;h3 id="open-women">
+ Open Women
+ 
+ &lt;a class="anchor" href="#open-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Francesca SEAL&lt;/li>
+&lt;li>Susanne MCARTHUR&lt;/li>
+&lt;li>Quinn FLATER&lt;/li>
+&lt;/ol>
+&lt;h3 id="open-men">
+ Open Men
+ 
+ &lt;a class="anchor" href="#open-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Mark FAGNAN&lt;/li>
+&lt;li>Andrew DAVIDSON&lt;/li>
+&lt;li>Scott DESMARAIS&lt;/li>
+&lt;/ol>
+&lt;h3 id="expert-men">
+ Expert Men
+ 
+ &lt;a class="anchor" href="#expert-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Adam ROBERTS&lt;/li>
+&lt;li>Brendan CARDIFF&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Jason PROCHE&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-women">
+ Sport Women
+ 
+ &lt;a class="anchor" href="#sport-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Kathryn SWEENEY&lt;/li>
+&lt;li>Hazel ROBERTS&lt;/li>
+&lt;li>Madeline MAGLEO&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-men">
+ Sport Men
+ 
+ &lt;a class="anchor" href="#sport-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Josh BARKER&lt;/li>
+&lt;li>Sean SWEENEY&lt;/li>
+&lt;li>Carl MILLER&lt;/li>
+&lt;/ol>
+&lt;h3 id="novice-men">
+ Novice Men
+ 
+ &lt;a class="anchor" href="#novice-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Cor SINKE&lt;/li>
+&lt;li>William KINDZIERSKI&lt;/li>
+&lt;li>Arun WARD&lt;/li>
+&lt;/ol>
+&lt;h2 id="my-results">
+ my results
+ 
+ &lt;a class="anchor" href="#my-results">#&lt;/a>
+ 
+&lt;/h2>
+&lt;ul>
+&lt;li>did not race&lt;/li>
+&lt;/ul>
+&lt;h1 id="read-more">
+ read more
+ 
+ &lt;a class="anchor" href="#read-more">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a href="../vcc/">Velocity Cycling Club&lt;/a> woo!&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p></description></item></channel></rss>

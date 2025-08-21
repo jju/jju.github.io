@@ -1,33 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>places on the dubious monk</title>
-    <link>https://thedubiousmonk.net/tags/places/</link>
-    <description>Recent content in places on the dubious monk</description>
-    <generator>Hugo</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thedubiousmonk.net/tags/places/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>terwillegar park</title>
-      <link>https://thedubiousmonk.net/posts/terwillegarpark/</link>
-      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/terwillegarpark/</guid>
-      <description>Terwillegar Park is a park in southwest Edmonton. It has a pile of trails and is a great off-leash area for doggos.&#xA;There&amp;rsquo;s a good amount of doubletrack that follows along by the river and countless little ins and out singletrack bits through the trees. One of the downsides of the park is that the soil is very clay-based so it gets super rutty if people ride it before letting it dry out.</description>
-    </item>
-    <item>
-      <title>capilano park</title>
-      <link>https://thedubiousmonk.net/posts/capilanopark/</link>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/capilanopark/</guid>
-      <description>Capilano Park is a park in the city of Edmonton, where I wouldn&amp;rsquo;t actually expect a cx race to work, but it does.&#xA;As far as the singletrack in the park goes, this is where you connect up with Goldbar Park and the cool trails in there. I generally prefer riding Eastbound.&#xA;races Jim Horner Grand Prix 2023 School of Cross 2023 Midweek CX Series 2023 </description>
-    </item>
-    <item>
-      <title>strathcona science park</title>
-      <link>https://thedubiousmonk.net/posts/strathconasciencepark/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/strathconasciencepark/</guid>
-      <description>Strathcona Science Park is a provincial park just outside Edmonton. It&amp;rsquo;s rutted and full of gopher holes and apparently has toxic seepage in places. There&amp;rsquo;s no sandy area but it does have a big downhill with long stairs for a runup.&#xA;This is my &amp;ldquo;home course&amp;rdquo; because I used to live just across the river, so it&amp;rsquo;s a convenient place to practice my cx race techniques, do laps to build my stamina and just generally rip around.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>places on the dubious monk</title><link>http://localhost:1313/tags/places/</link><description>Recent content in places on the dubious monk</description><generator>Hugo</generator><language>en-ca</language><lastBuildDate>Fri, 28 Jun 2024 08:14:04 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/places/index.xml" rel="self" type="application/rss+xml"/><item><title>terwillegar park</title><link>http://localhost:1313/posts/terwillegarpark/</link><pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/terwillegarpark/</guid><description>&lt;p>Terwillegar Park is a park in southwest Edmonton. It has a pile of trails and is a great off-leash area for doggos.&lt;/p>
+&lt;p>There&amp;rsquo;s a good amount of doubletrack that follows along by the river and countless little ins and out singletrack bits through the trees. One of the downsides of the park is that the soil is very clay-based so it gets super rutty if people ride it before letting it dry out. There are a few dry-baked stretches that remind me of what some of that Moab-style slickrock looks like, but it isn&amp;rsquo;t as much fun to ride.&lt;/p></description></item><item><title>capilano park</title><link>http://localhost:1313/posts/capilanopark/</link><pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/capilanopark/</guid><description>&lt;p>Capilano Park is a park in the city of Edmonton, where I wouldn&amp;rsquo;t actually expect a &lt;a href="../cx/">cx&lt;/a> race to work, but it does.&lt;/p>
+&lt;p>As far as the singletrack in the park goes, this is where you connect up with Goldbar Park and the cool trails in there. I generally prefer riding Eastbound.&lt;/p>
+&lt;h1 id="races">
+ races
+ 
+ &lt;a class="anchor" href="#races">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>Jim Horner Grand Prix &lt;a href="../../posts/jimhornergrandprix2023/">2023&lt;/a>&lt;/li>
+&lt;li>School of Cross &lt;a href="../race/schoolofcross2023/">2023&lt;/a>&lt;/li>
+&lt;li>Midweek CX Series &lt;a href="../wnw2023/">2023&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>strathcona science park</title><link>http://localhost:1313/posts/strathconasciencepark/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/strathconasciencepark/</guid><description>&lt;p>Strathcona Science Park is a provincial park just outside Edmonton. It&amp;rsquo;s rutted and full of gopher holes and apparently has toxic seepage in places. There&amp;rsquo;s no sandy area but it does have a big downhill with long stairs for a runup.&lt;/p>
+&lt;p>This is my &amp;ldquo;home course&amp;rdquo; because I used to live just across the river, so it&amp;rsquo;s a convenient place to practice my &lt;a href="../cx/">cx&lt;/a> race techniques, do laps to build my stamina and just generally rip around.&lt;/p></description></item></channel></rss>

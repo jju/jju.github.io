@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>tolkien on the dubious monk</title>
-    <link>https://thedubiousmonk.net/tags/tolkien/</link>
-    <description>Recent content in tolkien on the dubious monk</description>
-    <generator>Hugo</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Fri, 24 Aug 2018 15:37:36 -0700</lastBuildDate>
-    <atom:link href="https://thedubiousmonk.net/tags/tolkien/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>edmonton and legends of exile</title>
-      <link>https://thedubiousmonk.net/posts/180824-feanor/</link>
-      <pubDate>Fri, 24 Aug 2018 15:37:36 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/posts/180824-feanor/</guid>
-      <description>The smoke from wildfires has been darkening our skies in Edmonton, and I realized when biking between the flames of the Suncor refineries that the grim brown greyness, the miasma of grit, this is what it feels like to live in Edmonton compared to Nanaimo. It isn&amp;rsquo;t always so externalized but even on the days when the sky is clear this is a foul place to be exiled.&#xA;I&amp;rsquo;m reading The Silmarillion these days and I didn&amp;rsquo;t realize how much I didn&amp;rsquo;t know about Tolkien&amp;rsquo;s elves.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tolkien on the dubious monk</title><link>http://localhost:1313/tags/tolkien/</link><description>Recent content in tolkien on the dubious monk</description><generator>Hugo</generator><language>en-ca</language><lastBuildDate>Fri, 02 Feb 2024 15:19:03 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/tolkien/index.xml" rel="self" type="application/rss+xml"/><item><title>edmonton and legends of exile</title><link>http://localhost:1313/posts/180824-feanor/</link><pubDate>Fri, 24 Aug 2018 15:37:36 -0700</pubDate><guid>http://localhost:1313/posts/180824-feanor/</guid><description>&lt;p>The smoke from wildfires has been darkening our skies in Edmonton, and I realized when biking between the flames of the Suncor refineries that the grim brown greyness, the miasma of grit, this is what it feels like to live in Edmonton compared to Nanaimo. It isn&amp;rsquo;t always so externalized but even on the days when the sky is clear this is a foul place to be exiled.&lt;/p>
+&lt;p>I&amp;rsquo;m reading &lt;em>The Silmarillion&lt;/em> these days and I didn&amp;rsquo;t realize how much I didn&amp;rsquo;t know about Tolkien&amp;rsquo;s elves. I&amp;rsquo;m hurt by and see my own follies in Feanor&amp;rsquo;s foolish oaths that lead to exile and ruin. That it&amp;rsquo;s told in high-spoken language makes it feel more significant than my bullshit.&lt;/p></description></item></channel></rss>

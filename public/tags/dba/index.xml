@@ -1,26 +1,114 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>dba on the dubious monk</title>
-    <link>https://thedubiousmonk.net/tags/dba/</link>
-    <description>Recent content in dba on the dubious monk</description>
-    <generator>Hugo</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thedubiousmonk.net/tags/dba/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>puncheur cross 2024</title>
-      <link>https://thedubiousmonk.net/posts/puncheurcross2024/</link>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/puncheurcross2024/</guid>
-      <description>Tech Guide Location: Voyageur Park Devon Course: stravalink Day two of the Devon races for 2024. I couldn&amp;rsquo;t make it out, but I heard the runup was much nastier than the day before.&#xA;results Official Results CrossResults Podia Open Women Christiane BILODEAU1 Annie SCOTT Chantell WIDNEY Open Men Finn BORSTMAYER2 Moritz ROMEIKE Andrew DAVIDSON Expert Men Jared GERVAIS Robert BRUHA Jason REDFERN3 Sport Women Alina CUSTODIO Morgan PINNOCK Emily YOUNG4 Sport Men Eton KOHLENBERG5 Liam BATE Vaughn SHEARS Novice Men Aiden SANDMAIER6 Jamie MOORS Timothy UTTING7 my results Did not race read more Hop N Hurl 2024 My 2022 Experience at Puncheur Cross My 2023 Experience at Hop N Hurl First place the day before and second place in 2023.</description>
-    </item>
-    <item>
-      <title>puncheur cross 2022</title>
-      <link>https://thedubiousmonk.net/posts/puncheurcross2022/</link>
-      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/puncheurcross2022/</guid>
-      <description>I loved the Devon Puncheur race. I also love that it got a writeup entitled The Best Grassroots Cyclocross Race You&amp;rsquo;ve Never Heard of1 I hadn&amp;rsquo;t been to Devon, which is just southwest of Edmonton, before this race, but Voyageur Park was a really nice example of this region&amp;rsquo;s river valley terrain. The course went through the trees, around a flat corkscrew feature, down by the river and was my introduction to sand on a &amp;lsquo;cross course.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dba on the dubious monk</title><link>http://localhost:1313/tags/dba/</link><description>Recent content in dba on the dubious monk</description><generator>Hugo</generator><language>en-ca</language><lastBuildDate>Tue, 01 Oct 2024 15:58:20 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/dba/index.xml" rel="self" type="application/rss+xml"/><item><title>puncheur cross 2024</title><link>http://localhost:1313/posts/puncheurcross2024/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/puncheurcross2024/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://www.albertabicycle.ab.ca/uploads/files/2024%20Documents/2024%20Tech%20Guides/2024PUNCHEURSept%206.pdf">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: &lt;a href="../voyageurpark/">Voyageur Park&lt;/a> Devon&lt;/li>
+&lt;li>Course: &lt;a href="http://www.strava.com/segments/37886098">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>Day two of the Devon races for 2024. I couldn&amp;rsquo;t make it out, but I heard the runup was much nastier than the day before.&lt;/p>
+&lt;h1 id="results">
+ results
+ 
+ &lt;a class="anchor" href="#results">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://zone4.ca/register.asp?id=35972">Official Results&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.crossresults.com/race/12479">CrossResults&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="podia">
+ Podia
+ 
+ &lt;a class="anchor" href="#podia">#&lt;/a>
+ 
+&lt;/h2>
+&lt;h3 id="open-women">
+ Open Women
+ 
+ &lt;a class="anchor" href="#open-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Christiane BILODEAU&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Annie SCOTT&lt;/li>
+&lt;li>Chantell WIDNEY&lt;/li>
+&lt;/ol>
+&lt;h3 id="open-men">
+ Open Men
+ 
+ &lt;a class="anchor" href="#open-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Finn BORSTMAYER&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Moritz ROMEIKE&lt;/li>
+&lt;li>Andrew DAVIDSON&lt;/li>
+&lt;/ol>
+&lt;h3 id="expert-men">
+ Expert Men
+ 
+ &lt;a class="anchor" href="#expert-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Jared GERVAIS&lt;/li>
+&lt;li>Robert BRUHA&lt;/li>
+&lt;li>Jason REDFERN&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-women">
+ Sport Women
+ 
+ &lt;a class="anchor" href="#sport-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Alina CUSTODIO&lt;/li>
+&lt;li>Morgan PINNOCK&lt;/li>
+&lt;li>Emily YOUNG&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-men">
+ Sport Men
+ 
+ &lt;a class="anchor" href="#sport-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Eton KOHLENBERG&lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Liam BATE&lt;/li>
+&lt;li>Vaughn SHEARS&lt;/li>
+&lt;/ol>
+&lt;h3 id="novice-men">
+ Novice Men
+ 
+ &lt;a class="anchor" href="#novice-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Aiden SANDMAIER&lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Jamie MOORS&lt;/li>
+&lt;li>Timothy UTTING&lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/li>
+&lt;/ol>
+&lt;h2 id="my-results">
+ my results
+ 
+ &lt;a class="anchor" href="#my-results">#&lt;/a>
+ 
+&lt;/h2>
+&lt;ul>
+&lt;li>Did not race&lt;/li>
+&lt;/ul>
+&lt;h1 id="read-more">
+ read more
+ 
+ &lt;a class="anchor" href="#read-more">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="../hopnhurl2024/">Hop N Hurl 2024&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../puncheurcross2022/">My 2022 Experience at Puncheur Cross&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../hopnhurl2023/">My 2023 Experience at Hop N Hurl&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>First place the day before and second place in 2023.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p></description></item><item><title>puncheur cross 2022</title><link>http://localhost:1313/posts/puncheurcross2022/</link><pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/puncheurcross2022/</guid><description>&lt;p>I loved the Devon Puncheur race. I also love that it got a writeup entitled &lt;a href="https://www.swagman.ca/blogs/news/the-best-grassroots-cyclocross-race-you-ve-never-heard-of">The Best Grassroots Cyclocross Race You&amp;rsquo;ve Never Heard of&lt;/a>&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> I hadn&amp;rsquo;t been to Devon, which is just southwest of Edmonton, before this race, but Voyageur Park was a really nice example of this region&amp;rsquo;s river valley terrain. The course went through the trees, around a flat corkscrew feature, down by the river and was my introduction to sand on a &amp;lsquo;cross course.&lt;/p></description></item></channel></rss>

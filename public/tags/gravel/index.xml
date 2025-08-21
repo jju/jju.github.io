@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>gravel on the dubious monk</title>
-    <link>https://thedubiousmonk.net/tags/gravel/</link>
-    <description>Recent content in gravel on the dubious monk</description>
-    <generator>Hugo</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Sat, 20 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thedubiousmonk.net/tags/gravel/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>the range gravel race 2024</title>
-      <link>https://thedubiousmonk.net/posts/range2024/</link>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/range2024/</guid>
-      <description>Tech Guide Location: Claresholm, Alberta Course: ridewithgpslink Back when I was thinking about the bike riding I wanted to do this year, a gravel event was on my mind. The idea with a gravel race is it&amp;rsquo;s a long route on dirt roads away from traffic. There&amp;rsquo;s a mass start and though there are fast people &amp;ldquo;racing&amp;rdquo; the event there will be far more just out there doing the ride, trying to finish and have a good time1.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>gravel on the dubious monk</title><link>http://localhost:1313/tags/gravel/</link><description>Recent content in gravel on the dubious monk</description><generator>Hugo</generator><language>en-ca</language><lastBuildDate>Fri, 26 Jul 2024 18:53:35 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/gravel/index.xml" rel="self" type="application/rss+xml"/><item><title>the range gravel race 2024</title><link>http://localhost:1313/posts/range2024/</link><pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/range2024/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1m_ig9gbwKDrp5MkyKR5UxKFIy1NHP1OJ/view?usp=drive_web">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: Claresholm, Alberta&lt;/li>
+&lt;li>Course: &lt;a href="https://ridewithgps.com/routes/45140215">ridewithgpslink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>Back when I was thinking about the bike riding I wanted to do this year, a gravel event was on my mind. The idea with a gravel race is it&amp;rsquo;s a long route on dirt roads away from traffic. There&amp;rsquo;s a mass start and though there are fast people &amp;ldquo;racing&amp;rdquo; the event there will be far more just out there doing the ride, trying to finish and have a good time&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p></description></item></channel></rss>

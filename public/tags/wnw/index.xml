@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>wnw on the dubious monk</title>
-    <link>https://thedubiousmonk.net/tags/wnw/</link>
-    <description>Recent content in wnw on the dubious monk</description>
-    <generator>Hugo</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thedubiousmonk.net/tags/wnw/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>my 2024 cx season summary</title>
-      <link>https://thedubiousmonk.net/posts/cxseason2024/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/cxseason2024/</guid>
-      <description>The cyclocross season starts in September for us in Edmonton. Some years we&amp;rsquo;ve (apparently) had snow right for the first races. There are kind of three aspects to the season for me. A bunch of training, the casual races and the sanctioned Alberta Cup races.&#xA;Training is training. I ride up and down hills and in parks.&#xA;Wednesday Night Worlds Much like the Fat Tire Tuesday races, Edmonton has a series of $5 cx races in &amp;lsquo;cross season.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>wnw on the dubious monk</title><link>http://localhost:1313/tags/wnw/</link><description>Recent content in wnw on the dubious monk</description><generator>Hugo</generator><language>en-ca</language><lastBuildDate>Fri, 20 Dec 2024 13:30:06 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/wnw/index.xml" rel="self" type="application/rss+xml"/><item><title>my 2024 cx season summary</title><link>http://localhost:1313/posts/cxseason2024/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/cxseason2024/</guid><description>&lt;p>The cyclocross season starts in September for us in Edmonton. Some years we&amp;rsquo;ve (apparently) had snow right for the first races. There are kind of three aspects to the season for me. A bunch of training, the casual races and the sanctioned Alberta Cup races.&lt;/p>
+&lt;p>Training is training. I ride up and down hills and in parks.&lt;/p>
+&lt;h2 id="wednesday-night-worlds">
+ Wednesday Night Worlds
+ 
+ &lt;a class="anchor" href="#wednesday-night-worlds">#&lt;/a>
+ 
+&lt;/h2>
+&lt;p>Much like the &lt;a href="../ftt/">Fat Tire Tuesday&lt;/a> races, Edmonton has a series of $5 cx races in &amp;lsquo;cross season. The A group starts a minute before the B group which starts a minute before the C group and everyone races for about 25 minutes.&lt;/p></description></item></channel></rss>

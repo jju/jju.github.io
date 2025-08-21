@@ -1,54 +1,134 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>capilano park on the dubious monk</title>
-    <link>https://thedubiousmonk.net/tags/capilano-park/</link>
-    <description>Recent content in capilano park on the dubious monk</description>
-    <generator>Hugo</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Sun, 22 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thedubiousmonk.net/tags/capilano-park/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>school of cross 2024</title>
-      <link>https://thedubiousmonk.net/posts/schoolofcross2024/</link>
-      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/schoolofcross2024/</guid>
-      <description>Tech Guide Location: Capilano Park Edmonton Course: stravalink Part two of the first Edmonton race weekend saw way more people (in my race at least). The course went backwards compared to Jim Horner the previous day. This was good for me because it meant we had a non-technical climb right after the start, and that&amp;rsquo;s something I&amp;rsquo;m pretty decent at. It also meant that the switchbacks we&amp;rsquo;d been climbing on Saturday were now a descent.</description>
-    </item>
-    <item>
-      <title>jim horner grand prix 2024</title>
-      <link>https://thedubiousmonk.net/posts/jimhornergrandprix2024/</link>
-      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/jimhornergrandprix2024/</guid>
-      <description>Tech Guide Location: Capilano Park Edmonton Course: stravalink 1&#xA;The Jim Horner Grand Prix of Cyclo-cross was my first Edmonton race of the season, and it went well. Unlike last year we had clear skies with no Air Quality warnings so all the races happened.&#xA;Being in Novice Men, I had an early start while the grass was still dewy and wet. The course opened with a bunch of twisty turns including an uphill off-camber thing (see the picture above of the Sport Men tackling it).</description>
-    </item>
-    <item>
-      <title>school of cross 2023</title>
-      <link>https://thedubiousmonk.net/posts/schoolofcross2023/</link>
-      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/schoolofcross2023/</guid>
-      <description>Tech Guide Location: Capilano Park Edmonton Course: stravalink Like the previous day&amp;rsquo;s Jim Horner Grand Prix ERTC&amp;rsquo;s School of Cross (p/b Blindman Brewing) 2023 race happened in Capilano Park. The air quality was a bit better on the day so only one race was cancelled (Open Women).&#xA;results ABA Results CrossResults Podia Open Men Mark FAGNAN Graham FRANCIS Ryan MCLEAN Expert Men Paulo ALVES 1 Jacob PLAYFAIR Randy PERRY Sport Women Rachel DUMONT [^3] Kristin BAKER Madeline MAGLEO Sport Men Ethan MCGHAN Ryan ARYCHUK Colin WEIR CHABA Novice Men Quinten MACKLEM2 Emmett MACKLEM Evan KINDZIERSKI my results Did not race read more Earned promotion up to Open Men, with his second win (in a row, following JHGP) in Expert.</description>
-    </item>
-    <item>
-      <title>jim horner grand prix 2023</title>
-      <link>https://thedubiousmonk.net/posts/jimhornergrandprix2023/</link>
-      <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/jimhornergrandprix2023/</guid>
-      <description>Tech Guide Location: Capilano Park Edmonton Course: stravalink I was so happy this race wasn&amp;rsquo;t taking place in Argyll Park this year. I hated the downhill that someone broke a collarbone on last year and lost so much time on it. Capilano Park was near my house and I could practice on it. But I didn&amp;rsquo;t practice hard enough on wet enough grass, because hoo boy did I not do well on that terrain.</description>
-    </item>
-    <item>
-      <title>capilano park</title>
-      <link>https://thedubiousmonk.net/posts/capilanopark/</link>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/capilanopark/</guid>
-      <description>Capilano Park is a park in the city of Edmonton, where I wouldn&amp;rsquo;t actually expect a cx race to work, but it does.&#xA;As far as the singletrack in the park goes, this is where you connect up with Goldbar Park and the cool trails in there. I generally prefer riding Eastbound.&#xA;races Jim Horner Grand Prix 2023 School of Cross 2023 Midweek CX Series 2023 </description>
-    </item>
-    <item>
-      <title>midweek racing</title>
-      <link>https://thedubiousmonk.net/posts/wnw2023/</link>
-      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/wnw2023/</guid>
-      <description>As part of my season preparations I decided to at least try the midweek cx racing that goes on in Edmonton. It&amp;rsquo;s a bit weird because it&amp;rsquo;s so casual and hard to find information about. There are people asking questions in the Alberta CX Facebook group and you get a response with a screenshot from somewhere(?) giving a schedule. It seems that the people who know, know.&#xA;And holy crap did a lot of people know about it last night!</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>capilano park on the dubious monk</title><link>http://localhost:1313/tags/capilano-park/</link><description>Recent content in capilano park on the dubious monk</description><generator>Hugo</generator><language>en-ca</language><lastBuildDate>Fri, 27 Sep 2024 14:23:03 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/capilano-park/index.xml" rel="self" type="application/rss+xml"/><item><title>school of cross 2024</title><link>http://localhost:1313/posts/schoolofcross2024/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/schoolofcross2024/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://www.ertc.org/soc">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: &lt;a href="http://localhost:1313/../capilanopark/">Capilano Park&lt;/a> Edmonton&lt;/li>
+&lt;li>Course: &lt;a href="https://www.strava.com/segments/37856148">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>Part two of the first Edmonton race weekend saw way more people (in my race at least). The course went backwards compared to &lt;a href="../jimhornergrandprix2024/">Jim Horner&lt;/a> the previous day. This was good for me because it meant we had a non-technical climb right after the start, and that&amp;rsquo;s something I&amp;rsquo;m pretty decent at. It also meant that the switchbacks we&amp;rsquo;d been climbing on Saturday were now a descent. I&amp;rsquo;m never super great at these kinds of things and in the pre-ride lots of people were testing and re-testing the lines&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. After one wipeout when I was trying to cut it too close, I settled on unclipping my inside foot and dabbing a touch as I went around the steepest part. The best part of this feature was that it would be at the end of the lap so it wouldn&amp;rsquo;t be a huge mass of riders hitting it at the same time.&lt;/p></description></item><item><title>jim horner grand prix 2024</title><link>http://localhost:1313/posts/jimhornergrandprix2024/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/jimhornergrandprix2024/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://www.juventus.ab.ca/jim-horner-grand-prix-of-cyclocross">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: &lt;a href="../capilanopark/">Capilano Park&lt;/a> Edmonton&lt;/li>
+&lt;li>Course: &lt;a href="https://www.strava.com/segments/37842619">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>&lt;img src="http://localhost:1313/jhgp24_sportmen.jpg" alt="Sport Men crowd" title="Crowd of riders bunched up going up a grassy embankment."/>&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/p>
+&lt;p>The Jim Horner Grand Prix of Cyclo-cross was my first Edmonton race of the season, and it went well. Unlike last year we had clear skies with no Air Quality warnings so all the races happened.&lt;/p>
+&lt;p>Being in Novice Men, I had an early start while the grass was still dewy and wet. The course opened with a bunch of twisty turns including an uphill off-camber thing (see the picture above of the Sport Men tackling it). I did that switchback okay in practice, but on the opening lap I totally wiped out, delaying a bunch of people behind me. Once that was out of the way though, I had a good race. I was following some people and eventually passed them. I couldn&amp;rsquo;t quite get in touch with the leaders of the race but I had a pretty good run.&lt;/p></description></item><item><title>school of cross 2023</title><link>http://localhost:1313/posts/schoolofcross2023/</link><pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/schoolofcross2023/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://www.ertc.org/soc">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: &lt;a href="http://localhost:1313/../capilanopark/">Capilano Park&lt;/a> Edmonton&lt;/li>
+&lt;li>Course: &lt;a href="https://www.strava.com/segments/35458353">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>Like the previous day&amp;rsquo;s &lt;a href="../jimhornergrandprix2023/">Jim Horner Grand Prix&lt;/a> ERTC&amp;rsquo;s School of Cross (p/b Blindman Brewing) 2023 race happened in &lt;a href="../capilanopark/">Capilano Park&lt;/a>. The air quality was a bit better on the day so only one race was cancelled (Open Women).&lt;/p>
+&lt;h1 id="results">
+ results
+ 
+ &lt;a class="anchor" href="#results">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://zone4.ca/race/2023-09-17/8cc6d07c/results">ABA Results&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.crossresults.com/race/11690">CrossResults&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="podia">
+ Podia
+ 
+ &lt;a class="anchor" href="#podia">#&lt;/a>
+ 
+&lt;/h2>
+&lt;h3 id="open-men">
+ Open Men
+ 
+ &lt;a class="anchor" href="#open-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Mark FAGNAN&lt;/li>
+&lt;li>Graham FRANCIS&lt;/li>
+&lt;li>Ryan MCLEAN&lt;/li>
+&lt;/ol>
+&lt;h3 id="expert-men">
+ Expert Men
+ 
+ &lt;a class="anchor" href="#expert-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Paulo ALVES &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Jacob PLAYFAIR&lt;/li>
+&lt;li>Randy PERRY&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-women">
+ Sport Women
+ 
+ &lt;a class="anchor" href="#sport-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Rachel DUMONT [^3]&lt;/li>
+&lt;li>Kristin BAKER&lt;/li>
+&lt;li>Madeline MAGLEO&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-men">
+ Sport Men
+ 
+ &lt;a class="anchor" href="#sport-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Ethan MCGHAN&lt;/li>
+&lt;li>Ryan ARYCHUK&lt;/li>
+&lt;li>Colin WEIR CHABA&lt;/li>
+&lt;/ol>
+&lt;h3 id="novice-men">
+ Novice Men
+ 
+ &lt;a class="anchor" href="#novice-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Quinten MACKLEM&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Emmett MACKLEM&lt;/li>
+&lt;li>Evan KINDZIERSKI&lt;/li>
+&lt;/ol>
+&lt;h2 id="my-results">
+ my results
+ 
+ &lt;a class="anchor" href="#my-results">#&lt;/a>
+ 
+&lt;/h2>
+&lt;ul>
+&lt;li>Did not race&lt;/li>
+&lt;/ul>
+&lt;h1 id="read-more">
+ read more
+ 
+ &lt;a class="anchor" href="#read-more">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>Earned promotion up to Open Men, with his second win (in a row, following &lt;a href="../jimhornergrandprix2023/">JHGP&lt;/a>) in Expert.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p></description></item><item><title>jim horner grand prix 2023</title><link>http://localhost:1313/posts/jimhornergrandprix2023/</link><pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/jimhornergrandprix2023/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://www.juventus.ab.ca/jim-horner-grand-prix-of-cyclocross">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: &lt;a href="../capilanopark/">Capilano Park&lt;/a> Edmonton&lt;/li>
+&lt;li>Course: &lt;a href="https://www.strava.com/segments/35448229">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>I was so happy this race wasn&amp;rsquo;t taking place in &lt;a href="../argyllpark/">Argyll Park&lt;/a> this year. I hated the downhill that someone broke a collarbone on last year and lost so much time on it. &lt;a href="../capilanopark/">Capilano Park&lt;/a> was near my house and I could practice on it. But I didn&amp;rsquo;t practice hard enough on wet enough grass, because hoo boy did I not do well on that terrain.&lt;/p></description></item><item><title>capilano park</title><link>http://localhost:1313/posts/capilanopark/</link><pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/capilanopark/</guid><description>&lt;p>Capilano Park is a park in the city of Edmonton, where I wouldn&amp;rsquo;t actually expect a &lt;a href="../cx/">cx&lt;/a> race to work, but it does.&lt;/p>
+&lt;p>As far as the singletrack in the park goes, this is where you connect up with Goldbar Park and the cool trails in there. I generally prefer riding Eastbound.&lt;/p>
+&lt;h1 id="races">
+ races
+ 
+ &lt;a class="anchor" href="#races">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>Jim Horner Grand Prix &lt;a href="../../posts/jimhornergrandprix2023/">2023&lt;/a>&lt;/li>
+&lt;li>School of Cross &lt;a href="../race/schoolofcross2023/">2023&lt;/a>&lt;/li>
+&lt;li>Midweek CX Series &lt;a href="../wnw2023/">2023&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>midweek racing</title><link>http://localhost:1313/posts/wnw2023/</link><pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/wnw2023/</guid><description>&lt;p>As part of my &lt;a href="../230829-prepping-a-season/">season preparations&lt;/a> I decided to at least try the midweek &lt;a href="../cx/">cx&lt;/a> racing that goes on in Edmonton. It&amp;rsquo;s a bit weird because it&amp;rsquo;s so casual and hard to find information about. There are people asking questions in the Alberta CX Facebook group and you get a response with a screenshot from somewhere(?) giving a schedule. It seems that the people who know, know.&lt;/p>
+&lt;p>And holy crap did a lot of people know about it last night!&lt;/p></description></item></channel></rss>

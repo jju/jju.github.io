@@ -1,47 +1,341 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>calgary on the dubious monk</title>
-    <link>https://thedubiousmonk.net/tags/calgary/</link>
-    <description>Recent content in calgary on the dubious monk</description>
-    <generator>Hugo</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thedubiousmonk.net/tags/calgary/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>terrascape beans &#43; barley 2024</title>
-      <link>https://thedubiousmonk.net/posts/beans2024/</link>
-      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/beans2024/</guid>
-      <description>Tech Guide Location: Richmond Green Park, Calgary Course: stravalink Day two of a weekend&amp;rsquo;s racing in Calgary. It looked like a beautiful day for &amp;lsquo;cross racing from the Facebook pictures I&amp;rsquo;ve seen.&#xA;results ABA Results CrossResults Podia Open Women Annie SCOTT1 Shantel KOENIG2 Justine SAGAN Open Men Mark FAGNAN3 Finn BORSTMAYER4 Andrew DAVIDSON5 Expert Men Quinten MACKLEM Brendan CARDIFF6 Bredy SHEARS Sport Women Sophie ERFLE7 Elané FERGUSON Gail OREILLY8 Sport Men Caleb WRIGHT Liam BATE Emmett MACKLEM9 Novice Men Finlay ROBERTS10 Christian HEINTZE Spencer ELLIS my results did not race read more Bicicross 2024 Beans + Barley 2023 First place the day before.</description>
-    </item>
-    <item>
-      <title>bicicross 2024</title>
-      <link>https://thedubiousmonk.net/posts/bicicross2024/</link>
-      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/bicicross2024/</guid>
-      <description>Tech Guide Location: Richmond Green Park, Calgary Course: stravalink At one point in my season planning, I was going to be attending this race, but then things changed and I ended up working an evening shift the night before, which meant I&amp;rsquo;d need to get up at 4am to get to Calgary the next day, which wasn&amp;rsquo;t happening. It looked like a beautiful day for &amp;lsquo;cross racing from the Facebook pictures I&amp;rsquo;ve seen.</description>
-    </item>
-    <item>
-      <title>crossbow semiprestige 2023</title>
-      <link>https://thedubiousmonk.net/posts/crossbow2023/</link>
-      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/crossbow2023/</guid>
-      <description>Tech Guide Location: Rutland Park, Calgary Course: stravalink I missed out on writing this up at the end of the 2023 CX season, and now that 2024 has come around, I don&amp;rsquo;t have a bunch of the data I like to put in these race writeups. Nonetheless, here&amp;rsquo;s what I can find (thankfully I did do my CrossResults upload back when the race happened).&#xA;This race was postponed from earlier in the month because of some freakish weather.</description>
-    </item>
-    <item>
-      <title>terrascape beans &#43; barley 2023</title>
-      <link>https://thedubiousmonk.net/posts/beans2023/</link>
-      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/beans2023/</guid>
-      <description>Tech Guide Location: Richmond Green Park, Calgary Course: stravalink I missed out on writing this up at the end of the 2023 CX season, and now that 2024 has come around, I don&amp;rsquo;t have a bunch of the data I like to put in these race writeups. Nonetheless, here&amp;rsquo;s what I can find (thankfully I did do my CrossResults upload back when the race happened).&#xA;results CrossResults Podia Open Women Jenaya FRANCIS Nico KNOLL Francesca SEAL Open Men Eric BERG Ryan MACLEAN Mark FAGNAN Expert Men Larix HALLETT Emile VOGEL-NAKAMURA Spencer POOTZ Sport Women Tayte PROULX-ROYDS Hazel ROBERTS Kathryn SWEENEY Sport Men Joel DYCK Sean SWEENEY Brendan CARDIFF1 Novice Men Cor SINKE William LEMIEUX Emmet MACKLEM my results did not race read more Velocity Cycling Club woo!</description>
-    </item>
-    <item>
-      <title>bicicross 2023</title>
-      <link>https://thedubiousmonk.net/posts/bicicross2023/</link>
-      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/bicicross2023/</guid>
-      <description> Tech Guide Location: Richmond Green Park, Calgary Course: stravalink I missed out on writing this up at the end of the 2023 CX season, and now that 2024 has come around, I don&amp;rsquo;t have a bunch of the data I like to put in these race writeups. Nonetheless, here&amp;rsquo;s what I can find (thankfully I did do my CrossResults upload back when the race happened).&#xA;results CrossResults Podia Open Women Jenaya FRANCIS Nico KNOLL Kelsey DUFFIELD Open Men Eric BERG Andrew DAVIDSON Mark FAGNAN Expert Men Emile VOGEL-NAKAMURA Larix HALLETT Spencer POOTZ Sport Women Tayte PROULX-ROYDS Kathryn SWEENEY Hazel ROBERTS Sport Men Joel DYCK Clarke ELLIS Sean SWEENEY Novice Men William LEMIEUX Carson BROWN Douglas GRAY my results did not race read more </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>calgary on the dubious monk</title><link>http://localhost:1313/tags/calgary/</link><description>Recent content in calgary on the dubious monk</description><generator>Hugo</generator><language>en-ca</language><lastBuildDate>Tue, 08 Oct 2024 15:26:10 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/calgary/index.xml" rel="self" type="application/rss+xml"/><item><title>terrascape beans + barley 2024</title><link>http://localhost:1313/posts/beans2024/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/beans2024/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/document/d/14TC_JQ_0UHXIeUC2A2GDj4qrjsn_0yLm/edit?usp=sharing&amp;amp;ouid=117246394648172247399&amp;amp;rtpof=true&amp;amp;sd=true">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: Richmond Green Park, Calgary&lt;/li>
+&lt;li>Course: &lt;a href="http://www.strava.com/segments/35616154">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>Day two of a weekend&amp;rsquo;s racing in Calgary. It looked like a beautiful day for &amp;lsquo;cross racing from the Facebook pictures I&amp;rsquo;ve seen.&lt;/p>
+&lt;h1 id="results">
+ results
+ 
+ &lt;a class="anchor" href="#results">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://zone4.ca/race/2024-10-06/8c865736/results">ABA Results&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.crossresults.com/race/12493">CrossResults&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="podia">
+ Podia
+ 
+ &lt;a class="anchor" href="#podia">#&lt;/a>
+ 
+&lt;/h2>
+&lt;h3 id="open-women">
+ Open Women
+ 
+ &lt;a class="anchor" href="#open-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Annie SCOTT&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Shantel KOENIG&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Justine SAGAN&lt;/li>
+&lt;/ol>
+&lt;h3 id="open-men">
+ Open Men
+ 
+ &lt;a class="anchor" href="#open-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Mark FAGNAN&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Finn BORSTMAYER&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Andrew DAVIDSON&lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>&lt;/li>
+&lt;/ol>
+&lt;h3 id="expert-men">
+ Expert Men
+ 
+ &lt;a class="anchor" href="#expert-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Quinten MACKLEM&lt;/li>
+&lt;li>Brendan CARDIFF&lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Bredy SHEARS&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-women">
+ Sport Women
+ 
+ &lt;a class="anchor" href="#sport-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Sophie ERFLE&lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Elané FERGUSON&lt;/li>
+&lt;li>Gail OREILLY&lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup>&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-men">
+ Sport Men
+ 
+ &lt;a class="anchor" href="#sport-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Caleb WRIGHT&lt;/li>
+&lt;li>Liam BATE&lt;/li>
+&lt;li>Emmett MACKLEM&lt;sup id="fnref:9">&lt;a href="#fn:9" class="footnote-ref" role="doc-noteref">9&lt;/a>&lt;/sup>&lt;/li>
+&lt;/ol>
+&lt;h3 id="novice-men">
+ Novice Men
+ 
+ &lt;a class="anchor" href="#novice-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Finlay ROBERTS&lt;sup id="fnref:10">&lt;a href="#fn:10" class="footnote-ref" role="doc-noteref">10&lt;/a>&lt;/sup>&lt;/li>
+&lt;li>Christian HEINTZE&lt;/li>
+&lt;li>Spencer ELLIS&lt;/li>
+&lt;/ol>
+&lt;h2 id="my-results">
+ my results
+ 
+ &lt;a class="anchor" href="#my-results">#&lt;/a>
+ 
+&lt;/h2>
+&lt;ul>
+&lt;li>did not race&lt;/li>
+&lt;/ul>
+&lt;h1 id="read-more">
+ read more
+ 
+ &lt;a class="anchor" href="#read-more">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="../bicicross2024/">Bicicross 2024&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../beans2023/">Beans + Barley 2023&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>First place the day before.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p></description></item><item><title>bicicross 2024</title><link>http://localhost:1313/posts/bicicross2024/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/bicicross2024/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/document/d/14TC_JQ_0UHXIeUC2A2GDj4qrjsn_0yLm/edit?usp=sharing&amp;amp;ouid=117246394648172247399&amp;amp;rtpof=true&amp;amp;sd=true">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: Richmond Green Park, Calgary&lt;/li>
+&lt;li>Course: &lt;a href="http://www.strava.com/segments/32906963">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>At one point in my season planning, I was going to be attending this race, but then things changed and I ended up working an evening shift the night before, which meant I&amp;rsquo;d need to get up at 4am to get to Calgary the next day, which wasn&amp;rsquo;t happening. It looked like a beautiful day for &amp;lsquo;cross racing from the Facebook pictures I&amp;rsquo;ve seen.&lt;/p></description></item><item><title>crossbow semiprestige 2023</title><link>http://localhost:1313/posts/crossbow2023/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/crossbow2023/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/document/d/1-vppOEj72wRFW5r8uYQhWkwkS9hki_GaAUJAI207lvU/edit?usp=sharing">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: Rutland Park, Calgary&lt;/li>
+&lt;li>Course: &lt;a href="http://www.strava.com/segments/35834847">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>I missed out on writing this up at the end of the 2023 &lt;a href="../cx/">CX&lt;/a> season, and now that 2024 has come around, I don&amp;rsquo;t have a bunch of the data I like to put in these race writeups. Nonetheless, here&amp;rsquo;s what I can find (thankfully I did do my CrossResults upload back when the race happened).&lt;/p>
+&lt;p>This race was postponed from earlier in the month because of some freakish weather. There was supposed to be a second race on the Sunday but with the rescheduling, that didn&amp;rsquo;t happen.&lt;/p></description></item><item><title>terrascape beans + barley 2023</title><link>http://localhost:1313/posts/beans2023/</link><pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/beans2023/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/document/d/14TC_JQ_0UHXIeUC2A2GDj4qrjsn_0yLm/edit?usp=drive_link&amp;amp;ouid=112771773257821591715&amp;amp;rtpof=true&amp;amp;sd=true">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: Richmond Green Park, Calgary&lt;/li>
+&lt;li>Course: &lt;a href="http://www.strava.com/segments/35616154">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>I missed out on writing this up at the end of the 2023 &lt;a href="../cx/">CX&lt;/a> season, and now that 2024 has come around, I don&amp;rsquo;t have a bunch of the data I like to put in these race writeups. Nonetheless, here&amp;rsquo;s what I can find (thankfully I did do my CrossResults upload back when the race happened).&lt;/p>
+&lt;h1 id="results">
+ results
+ 
+ &lt;a class="anchor" href="#results">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://www.crossresults.com/race/11830">CrossResults&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="podia">
+ Podia
+ 
+ &lt;a class="anchor" href="#podia">#&lt;/a>
+ 
+&lt;/h2>
+&lt;h3 id="open-women">
+ Open Women
+ 
+ &lt;a class="anchor" href="#open-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Jenaya FRANCIS&lt;/li>
+&lt;li>Nico KNOLL&lt;/li>
+&lt;li>Francesca SEAL&lt;/li>
+&lt;/ol>
+&lt;h3 id="open-men">
+ Open Men
+ 
+ &lt;a class="anchor" href="#open-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Eric BERG&lt;/li>
+&lt;li>Ryan MACLEAN&lt;/li>
+&lt;li>Mark FAGNAN&lt;/li>
+&lt;/ol>
+&lt;h3 id="expert-men">
+ Expert Men
+ 
+ &lt;a class="anchor" href="#expert-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Larix HALLETT&lt;/li>
+&lt;li>Emile VOGEL-NAKAMURA&lt;/li>
+&lt;li>Spencer POOTZ&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-women">
+ Sport Women
+ 
+ &lt;a class="anchor" href="#sport-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Tayte PROULX-ROYDS&lt;/li>
+&lt;li>Hazel ROBERTS&lt;/li>
+&lt;li>Kathryn SWEENEY&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-men">
+ Sport Men
+ 
+ &lt;a class="anchor" href="#sport-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Joel DYCK&lt;/li>
+&lt;li>Sean SWEENEY&lt;/li>
+&lt;li>Brendan CARDIFF&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/li>
+&lt;/ol>
+&lt;h3 id="novice-men">
+ Novice Men
+ 
+ &lt;a class="anchor" href="#novice-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Cor SINKE&lt;/li>
+&lt;li>William LEMIEUX&lt;/li>
+&lt;li>Emmet MACKLEM&lt;/li>
+&lt;/ol>
+&lt;h2 id="my-results">
+ my results
+ 
+ &lt;a class="anchor" href="#my-results">#&lt;/a>
+ 
+&lt;/h2>
+&lt;ul>
+&lt;li>did not race&lt;/li>
+&lt;/ul>
+&lt;h1 id="read-more">
+ read more
+ 
+ &lt;a class="anchor" href="#read-more">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a href="../vcc/">Velocity Cycling Club&lt;/a> woo!&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p></description></item><item><title>bicicross 2023</title><link>http://localhost:1313/posts/bicicross2023/</link><pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/bicicross2023/</guid><description>&lt;blockquote class='book-hint '>
+ &lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/document/d/14TC_JQ_0UHXIeUC2A2GDj4qrjsn_0yLm/edit?usp=drive_link&amp;amp;ouid=112771773257821591715&amp;amp;rtpof=true&amp;amp;sd=true">Tech Guide&lt;/a>&lt;/li>
+&lt;li>Location: Richmond Green Park, Calgary&lt;/li>
+&lt;li>Course: &lt;a href="http://www.strava.com/segments/32906963">stravalink&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>&lt;p>I missed out on writing this up at the end of the 2023 &lt;a href="../cx/">CX&lt;/a> season, and now that 2024 has come around, I don&amp;rsquo;t have a bunch of the data I like to put in these race writeups. Nonetheless, here&amp;rsquo;s what I can find (thankfully I did do my CrossResults upload back when the race happened).&lt;/p>
+&lt;h1 id="results">
+ results
+ 
+ &lt;a class="anchor" href="#results">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://www.crossresults.com/race/11805">CrossResults&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="podia">
+ Podia
+ 
+ &lt;a class="anchor" href="#podia">#&lt;/a>
+ 
+&lt;/h2>
+&lt;h3 id="open-women">
+ Open Women
+ 
+ &lt;a class="anchor" href="#open-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Jenaya FRANCIS&lt;/li>
+&lt;li>Nico KNOLL&lt;/li>
+&lt;li>Kelsey DUFFIELD&lt;/li>
+&lt;/ol>
+&lt;h3 id="open-men">
+ Open Men
+ 
+ &lt;a class="anchor" href="#open-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Eric BERG&lt;/li>
+&lt;li>Andrew DAVIDSON&lt;/li>
+&lt;li>Mark FAGNAN&lt;/li>
+&lt;/ol>
+&lt;h3 id="expert-men">
+ Expert Men
+ 
+ &lt;a class="anchor" href="#expert-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Emile VOGEL-NAKAMURA&lt;/li>
+&lt;li>Larix HALLETT&lt;/li>
+&lt;li>Spencer POOTZ&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-women">
+ Sport Women
+ 
+ &lt;a class="anchor" href="#sport-women">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Tayte PROULX-ROYDS&lt;/li>
+&lt;li>Kathryn SWEENEY&lt;/li>
+&lt;li>Hazel ROBERTS&lt;/li>
+&lt;/ol>
+&lt;h3 id="sport-men">
+ Sport Men
+ 
+ &lt;a class="anchor" href="#sport-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>Joel DYCK&lt;/li>
+&lt;li>Clarke ELLIS&lt;/li>
+&lt;li>Sean SWEENEY&lt;/li>
+&lt;/ol>
+&lt;h3 id="novice-men">
+ Novice Men
+ 
+ &lt;a class="anchor" href="#novice-men">#&lt;/a>
+ 
+&lt;/h3>
+&lt;ol>
+&lt;li>William LEMIEUX&lt;/li>
+&lt;li>Carson BROWN&lt;/li>
+&lt;li>Douglas GRAY&lt;/li>
+&lt;/ol>
+&lt;h2 id="my-results">
+ my results
+ 
+ &lt;a class="anchor" href="#my-results">#&lt;/a>
+ 
+&lt;/h2>
+&lt;ul>
+&lt;li>did not race&lt;/li>
+&lt;/ul>
+&lt;h1 id="read-more">
+ read more
+ 
+ &lt;a class="anchor" href="#read-more">#&lt;/a>
+ 
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul></description></item></channel></rss>
