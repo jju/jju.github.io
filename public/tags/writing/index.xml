@@ -1,8 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>writing on the dubious monk</title><link>http://localhost:1313/tags/writing/</link><description>Recent content in writing on the dubious monk</description><generator>Hugo</generator><language>en-ca</language><lastBuildDate>Fri, 02 Feb 2024 15:19:03 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/writing/index.xml" rel="self" type="application/rss+xml"/><item><title>reintroduction</title><link>http://localhost:1313/posts/240113-reintroduction/</link><pubDate>Sat, 13 Jan 2024 12:12:08 -0700</pubDate><guid>http://localhost:1313/posts/240113-reintroduction/</guid><description>&lt;h2 id="hello-again">
- hello again
- 
- &lt;a class="anchor" href="#hello-again">#&lt;/a>
- 
-&lt;/h2>
-&lt;p>I&amp;rsquo;m J Jack Unrau. I used to write on the internet some. I haven&amp;rsquo;t for several years. But the muscles should still work. I think.&lt;/p>
-&lt;p>The plan here is to fill in some gaps. I don&amp;rsquo;t believe I&amp;rsquo;ll be getting as library-ish as &lt;a href="https://librarianaut.wordpress.com/">the old librarianaut blog&lt;/a> ever was. There&amp;rsquo;ll be more about &lt;a href="../../tags/cycling/">bikes&lt;/a> than there ever used to be. I don&amp;rsquo;t think I&amp;rsquo;ll be writing too much about my kid, but we&amp;rsquo;ll see.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writing on the dubious monk</title>
+    <link>https://thedubiousmonk.net/tags/writing/</link>
+    <description>Recent content in writing on the dubious monk</description>
+    <generator>Hugo</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Fri, 02 Feb 2024 15:19:03 -0700</lastBuildDate>
+    <atom:link href="https://thedubiousmonk.net/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>reintroduction</title>
+      <link>https://thedubiousmonk.net/posts/240113-reintroduction/</link>
+      <pubDate>Sat, 13 Jan 2024 12:12:08 -0700</pubDate>
+      <guid>https://thedubiousmonk.net/posts/240113-reintroduction/</guid>
+      <description>&lt;h2 id=&#34;hello-again&#34;&gt;&#xD;&#xA;  hello again&#xD;&#xA;  &#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hello-again&#34;&gt;#&lt;/a&gt;&#xD;&#xA;  &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;I&amp;rsquo;m J Jack Unrau. I used to write on the internet some. I haven&amp;rsquo;t for several years. But the muscles should still work. I think.&lt;/p&gt;&#xA;&lt;p&gt;The plan here is to fill in some gaps. I don&amp;rsquo;t believe I&amp;rsquo;ll be getting as library-ish as &lt;a href=&#34;https://librarianaut.wordpress.com/&#34;&gt;the old librarianaut blog&lt;/a&gt; ever was. There&amp;rsquo;ll be more about &lt;a href=&#34;../../tags/cycling/&#34;&gt;bikes&lt;/a&gt; than there ever used to be. I don&amp;rsquo;t think I&amp;rsquo;ll be writing too much about my kid, but we&amp;rsquo;ll see.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

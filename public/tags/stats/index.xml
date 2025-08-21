@@ -1,3 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>stats on the dubious monk</title><link>http://localhost:1313/tags/stats/</link><description>Recent content in stats on the dubious monk</description><generator>Hugo</generator><language>en-ca</language><lastBuildDate>Fri, 02 Feb 2024 15:19:03 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/stats/index.xml" rel="self" type="application/rss+xml"/><item><title>'cross is coming (2023 edition)</title><link>http://localhost:1313/posts/230824-cross-anticipation/</link><pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/230824-cross-anticipation/</guid><description>&lt;p>It is August and &amp;lsquo;Cross is Coming&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. I&amp;rsquo;m getting excited because cyclocross&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> is for whatever reason my favourite kind of bike racing.&lt;/p>
-&lt;p>I say &amp;ldquo;for whatever reason&amp;rdquo; because it doesn&amp;rsquo;t seem intuitive to me that this would be my favourite. I&amp;rsquo;m not a big powerful rider pushing massive watts. I fall over a lot riding around on rough terrain. I don&amp;rsquo;t like being cold and wet.&lt;/p>
-&lt;p>But yet, when I did my first cyclocross race I enjoyed it. I came back &lt;a href="../cxseason2022/">last year to do more&lt;/a>. And even though I&amp;rsquo;m in the slowest category racing against kids and old guys, I really like it. I feel exhausted at the end of a race but I want to do it again.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stats on the dubious monk</title>
+    <link>https://thedubiousmonk.net/tags/stats/</link>
+    <description>Recent content in stats on the dubious monk</description>
+    <generator>Hugo</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Fri, 02 Feb 2024 15:19:03 -0700</lastBuildDate>
+    <atom:link href="https://thedubiousmonk.net/tags/stats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#39;cross is coming (2023 edition)</title>
+      <link>https://thedubiousmonk.net/posts/230824-cross-anticipation/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/posts/230824-cross-anticipation/</guid>
+      <description>&lt;p&gt;It is August and &amp;lsquo;Cross is Coming&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. I&amp;rsquo;m getting excited because cyclocross&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; is for whatever reason my favourite kind of bike racing.&lt;/p&gt;&#xA;&lt;p&gt;I say &amp;ldquo;for whatever reason&amp;rdquo; because it doesn&amp;rsquo;t seem intuitive to me that this would be my favourite. I&amp;rsquo;m not a big powerful rider pushing massive watts. I fall over a lot riding around on rough terrain. I don&amp;rsquo;t like being cold and wet.&lt;/p&gt;&#xA;&lt;p&gt;But yet, when I did my first cyclocross race I enjoyed it. I came back &lt;a href=&#34;../cxseason2022/&#34;&gt;last year to do more&lt;/a&gt;. And even though I&amp;rsquo;m in the slowest category racing against kids and old guys, I really like it. I feel exhausted at the end of a race but I want to do it again.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

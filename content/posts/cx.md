@@ -17,4 +17,5 @@ Further reading of my personal responses with cyclocross can be found under the 
 
 * [Cyclocross Season Summary 2022](../cxseason2022/)
 * [Cyclocross Season Summary 2023](../cxseason2023/)
+* [Cyclocross Season Summary 2024](../cxseason2024/)
 

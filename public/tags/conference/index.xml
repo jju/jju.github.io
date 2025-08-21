@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>conference on the dubious monk</title><link>http://localhost:1313/tags/conference/</link><description>Recent content in conference on the dubious monk</description><generator>Hugo</generator><language>en-ca</language><lastBuildDate>Fri, 02 Feb 2024 15:19:03 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/conference/index.xml" rel="self" type="application/rss+xml"/><item><title>winning awards</title><link>http://localhost:1313/posts/150601-winning-awards/</link><pubDate>Mon, 01 Jun 2015 17:26:17 +0000</pubDate><guid>http://localhost:1313/posts/150601-winning-awards/</guid><description>&lt;p>Around our workplace there&amp;rsquo;s a joke that we should all be putting &amp;ldquo;award-winning librarian&amp;rdquo; in our bios when we show up in the outside world. After all, who is to say that the participation award from your grade 4 track meet isn&amp;rsquo;t what made you the professional you are today?&lt;/p>
-&lt;p>I&amp;rsquo;ve totally done it though. I called myself award-winning in the bio for a talk Jason and I gave at the Vancouver Island Library Staff Conference a few weeks ago, because I really did win an award for making radio back in journalism school. It seemed relevant as part of my radio librarian bona fides. But whatever.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conference on the dubious monk</title>
+    <link>https://thedubiousmonk.net/tags/conference/</link>
+    <description>Recent content in conference on the dubious monk</description>
+    <generator>Hugo</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Fri, 02 Feb 2024 15:19:03 -0700</lastBuildDate>
+    <atom:link href="https://thedubiousmonk.net/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>winning awards</title>
+      <link>https://thedubiousmonk.net/posts/150601-winning-awards/</link>
+      <pubDate>Mon, 01 Jun 2015 17:26:17 +0000</pubDate>
+      <guid>https://thedubiousmonk.net/posts/150601-winning-awards/</guid>
+      <description>&lt;p&gt;Around our workplace there&amp;rsquo;s a joke that we should all be putting &amp;ldquo;award-winning librarian&amp;rdquo; in our bios when we show up in the outside world. After all, who is to say that the participation award from your grade 4 track meet isn&amp;rsquo;t what made you the professional you are today?&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve totally done it though. I called myself award-winning in the bio for a talk Jason and I gave at the Vancouver Island Library Staff Conference a few weeks ago, because I really did win an award for making radio back in journalism school. It seemed relevant as part of my radio librarian bona fides. But whatever.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
