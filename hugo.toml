@@ -8,6 +8,10 @@ titleCaseStyle = 'none'
 #  information on 'doc' type pages.
 enableGitInfo = true
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [[params.topmenu]]
   name = "about"
   url = "about/"
