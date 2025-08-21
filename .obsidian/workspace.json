@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/250131-64squares.md",
+                "file": "content/posts/241020-tubsontubs2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250131-64squares"
+              "title": "241020-tubsontubs2024"
             }
           }
         ]
@@ -60,7 +60,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,16 +185,16 @@
   },
   "active": "704fb00ecd052f2b",
   "lastOpenFiles": [
+    "content/posts/241019-velocitycross2024.md",
+    "content/posts/241214-yearthoughts.md",
+    "content/posts/250131-64squares.md",
     "content/posts/240425-spring-again.md",
     "content/posts/240730-breakdowns.md",
-    "content/posts/250131-64squares.md",
     "content/posts/ftt.md",
-    "content/posts/241214-yearthoughts.md",
     "content/posts/qudbuds.md",
     "content/posts/cxseason2024.md",
     "content/posts/qudbuds 1.md",
     "content/essays/cx.md",
-    "content/posts/241019-velocitycross2024.md",
     "content/posts/241013-crosstoberfest2024.md",
     "content/posts/241012-turducken2024.md",
     "content/posts/241005-bicicross2024.md",
