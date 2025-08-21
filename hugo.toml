@@ -1,7 +1,7 @@
 baseURL = 'https://thedubiousmonk.net/'
 languageCode = 'en-ca'
 title = 'the dubious monk'
-theme = 'tale'
+theme = 'paperesque'
 titleCaseStyle = 'none'
 
 [[params.topmenu]]
