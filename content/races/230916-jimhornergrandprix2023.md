@@ -8,6 +8,8 @@ title = 'jim horner grand prix 2023'
 draft = false
 +++
 
+## Race Info
+
 > * [Tech Guide](https://www.juventus.ab.ca/jim-horner-grand-prix-of-cyclocross) 
 > * Location: [Capilano Park](../capilanopark/) Edmonton
 > * Course: [stravalink](https://www.strava.com/segments/35448229)
@@ -34,12 +36,10 @@ By the last lap I'd passed a few people and was well-ensconced in my 12th place 
 
 Later in the day the smoke took over, so the Open Women category had a shortened race, and the Open Men didn't take to the field, which makes for a disappointing season.
 
-# results
+## Results
 
 * [ABA Results](https://zone4.ca/race/2023-09-16/6f1c068e/results)
 * [CrossResults](https://www.crossresults.com/race/11683)
-
-## Podia
 
 ### Open Women
 
@@ -73,10 +73,10 @@ Later in the day the smoke took over, so the Open Women category had a shortened
 2. Evan KINDZIERSKI
 3. Benjamin UTTING
 
-## my results
+### My Results
 
-* 12th place (out of 24)
+* 12th place (out of 24) - Novice Men
 
-# read more
+## Read More
 
 * [My 2022 Experience of Jim Horner](../jimhornergrandprix2022/)

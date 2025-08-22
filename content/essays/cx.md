@@ -9,11 +9,13 @@ weight = 1
 date = '2024-02-14'
 +++
 
+# CX
+
 Cyclocross (also cyclo-cross, 'cross or cx) is my favourite discipline of riding bikes. There are a bunch of reasons for that, which I'll be detailing below, along with some history and further reading[^1] by people who know more than me.
 
 [^1]: Further reading on *this* site (which will be more personal responses and the like) can be found under the [cx tag](../../tags/cx/).
 
-# cyclocross as a sport
+## Cyclocross as a Sport
 
 So you know about riding a bike right? Bikes have two wheels and pedals and handlebars to steer. The important thing you learn as a kid is how to balance and then off you go. You ride around on the sidewalk, on the road, in fields, through the woods and maybe build a ramp and do some sick jumps. You're just riding a bike. 
 
@@ -29,7 +31,7 @@ One of the things that makes it awesome is its compactness. A good cyclocross co
 
 That's as a spectator, but as a rider what I love is how fucking hard it can be. You're riding a bike really inefficiently purely for the absurd joy of doing it. There's no pretense of transportation, just effort and technique. But it's also a manageable length of time. Elite races are only an hour long. When I race (in the slowpoke category) we're only talking 45 minutes. That feels endless when your legs are burning and lungs are popping, but it really isn't. You're constantly managing that amount of fatigue, and knowing it's only a set amount of time you can go harder and really push your limits. Also, knowing that if something happens to you or your bike you're walking distance from your car is pretty helpful too.
 
-# cyclocross course features
+## Cyclocross Course Features
 
 According to the UCI[^5]'s rule 5.1.012:
 
@@ -51,7 +53,7 @@ The markings referred to there are usually long ribbons of tape attached to pole
 
 So that's what a 'cross course looks like. It sounds so simple, but that leaves out all the cool bits.
 
-## the steep stuff
+### Steep Stuff
 
 If a CX course is supposed to be 90% rideable, what makes something unrideable? Sometimes it's just a really steep bit. Climbing up a short "wall" of dirt might be doable if you had a lot of momentum coming in, but these courses are twisty so often you're coming in relatively slowly, making hopping off the bike, shouldering it and scrambling up the hill the most practical approach.
 
@@ -71,22 +73,24 @@ In my experience (as a terrible old fearful cx rider) the really steep downhills
 
 That slipperiness makes a real difference in races though. Even if something isn't too steep to ride if it's dry, if it's wet or muddy and you'd be fighting your tires the whole way up, you often see even good riders just running up a hill instead of messing about.
 
-## barriers
+### Barriers
 
 Barriers in cyclocross are low walls across the course that people have to get off their bike to jump over, or if they're good enough bike handlers they can hop their bikes over them. Not everyone even in the pro ranks hops the planks, but it sure looks cool when they do.
 
 At one of the ABA races in 2023, someone tried to hop the barrier and hit it which bent the heck out of it. The next day's race one of the organizers told everyone in the novice class that there are only a couple of people who could clear the barriers with a bunnyhop at the race and none of them were in our class. So don't do it!
 
-## just using tape
+### Just Using Tape
 
 When courses have a big open flattish area sometimes course designers weave the tape around to make corkscrewy paths to ride around. Making 'cross riders do sharp turns slows people down and means you're doing a bunch of sharp accelerations.
 
-# further reading
+## Further Reading
 
 * [How to build a good cyclocross course](https://resultsboy.medium.com/how-to-build-a-good-cyclocross-course-41b6fc1b2b6d)
 
-## cyclocross and me
+### Cyclocross and Me
 
 * [Cyclocross Season Summary 2022](../../posts/cxseason2022/)
 * [Cyclocross Season Summary 2023](../../posts/cxseason2023/)
+* [Cyclocross Season Summary 2024](../../posts/cxseason2024/)
+* [Cyclocross Season Summary 2025](../../posts/cxseason2025/)
 

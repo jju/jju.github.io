@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>coach on the dubious monk</title>
-    <link>https://thedubiousmonk.net/tags/coach/</link>
+    <link>http://localhost:1313/tags/coach/</link>
     <description>Recent content in coach on the dubious monk</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <lastBuildDate>Tue, 30 Apr 2024 23:01:12 -0600</lastBuildDate>
-    <atom:link href="https://thedubiousmonk.net/tags/coach/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/coach/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>go team optimism</title>
-      <link>https://thedubiousmonk.net/posts/230530-coaching/</link>
+      <link>http://localhost:1313/posts/230530-coaching/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/posts/230530-coaching/</guid>
+      <guid>http://localhost:1313/posts/230530-coaching/</guid>
       <description>&lt;p&gt;I joined &lt;a href=&#34;../vcc/&#34;&gt;a cycling club&lt;/a&gt; in 2023 and we have a coach. I have never had a coach before. I haven&amp;rsquo;t ever really done sports so I don&amp;rsquo;t know what a coach is supposed to do. But Kevin seems earnest and nice and is trying so hard to be helpful.&lt;/p&gt;&#xA;&lt;p&gt;Before this season&amp;rsquo;s &lt;a href=&#34;../stiedaclassic2023/&#34;&gt;first race&lt;/a&gt; he held a racers&amp;rsquo; meeting to go over the course using veloviewer and to talk about tactics and what we should be doing before a race. I was at work that night, so I asked if he&amp;rsquo;d be able to record it and he did. He talked about wind directions and planning and prep and where to attack the group if we had the legs.&lt;/p&gt;</description>
     </item>
   </channel>

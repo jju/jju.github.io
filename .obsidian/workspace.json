@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/240720-range2024.md",
+                "file": "content/races/230709-velocitycrit2023.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "240720-range2024"
+              "title": "230709-velocitycrit2023"
+            }
+          },
+          {
+            "id": "3883ea62df12137b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/cx.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cx"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8e3c7bbc96f0a01f",
@@ -33,15 +48,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/capilanopark.md",
+                "file": "content/races/241020-tubsontubs2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "capilanopark"
+              "title": "241020-tubsontubs2024"
+            }
+          },
+          {
+            "id": "cc11e9d3dcfd45f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/races/241012-turducken2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "241012-turducken2024"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,44 +214,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0298405bdf62e922",
+  "active": "3883ea62df12137b",
   "lastOpenFiles": [
-    "public/tags/bikeedmonton/page/1/index.html",
-    "public/tags/bikeedmonton/page/1",
-    "public/tags/bikeedmonton/index.xml",
-    "public/tags/bikeedmonton/index.html",
-    "public/tags/bikeedmonton/page",
-    "public/tags/bikeedmonton",
-    "public/posts/250821-before-cross-comes/index.html",
-    "public/posts/250821-before-cross-comes",
-    "public/en.search.min.d6a953528111e42f31d82cde26f28e42edfcc81648c11382a75b8ec22145b4d9.js",
-    "public/en.search-data.min.255903d47787bd80e0f387ddf452c2339c14e8985c7c792de691a27997703429.json",
-    "content/posts/250821-before-cross-comes.md",
-    "content/posts/capilanopark.md",
-    "content/posts/vcc.md",
-    "content/posts/240914-wccx2024.md",
-    "content/posts/240720-range2024.md",
-    "content/posts/240202-watching-cross.md",
-    "content/posts/240320-watching-startrek.md",
-    "content/posts/241026-snakesladders2024.md",
-    "content/posts/241214-yearthoughts.md",
-    "content/posts/cxseason2024.md",
-    "content/posts/240425-spring-again.md",
-    "themes/hugo-book/layouts/_partials/posts/links/edit.html",
-    "content/posts/cxseason2025.md",
-    "content/posts/cxseason2023.md",
-    "content/posts/cx.md",
-    "content/posts/250131-64squares.md",
-    "content/posts/241020-tubsontubs2024.md",
-    "content/posts/241019-velocitycross2024.md",
-    "content/posts/240730-breakdowns.md",
-    "content/posts/ftt.md",
-    "content/posts/qudbuds.md",
-    "content/posts/qudbuds 1.md",
+    "content/_index.md",
     "content/essays/cx.md",
-    "content/posts/241013-crosstoberfest2024.md",
-    "content/posts/241012-turducken2024.md",
-    "content/posts/241005-bicicross2024.md",
+    "content/races/230916-jimhornergrandprix2023.md",
+    "public/en.search.min.635d5cf1b6f747e9130745235dc6239b20dc36c26a8a9624077d53814011a2b4.js",
+    "public/en.search-data.min.89d29c7b9c7d073d2a5b02cec3f58bcb0d82484a7556a3beac697002aab678ee.json",
+    "public/races/jimhornergrandprix2023/index.html",
+    "public/races/jimhornergrandprix2023",
+    "content/races/241012-turducken2024.md",
+    "themes/hugo-book/layouts/races/single.html",
+    "themes/hugo-book/layouts/races/list.html",
+    "themes/hugo-book/layouts/races",
+    "themes/hugo-book/layouts/posts - Copy/single.html",
+    "themes/hugo-book/layouts/posts - Copy/list.html",
+    "themes/hugo-book/layouts/posts - Copy",
+    "themes/hugo-book/archetypes/races.md",
+    "themes/hugo-book/archetypes/posts - Copy.md",
+    "content/races/230527-stiedaclassic2023.md",
+    "content/races/230709-velocitycrit2023.md",
+    "content/races/230917-schoolofcross2023.md",
+    "content/races/231015-babywaltercross2023.md",
+    "content/races/231111-crossbow2023.md",
+    "content/races/240720-range2024.md",
+    "content/races/241020-tubsontubs2024.md",
+    "content/races/240928-hopnhurl2024.md",
+    "content/about/index.md",
+    "content/races/240929-puncheurcross2024.md",
+    "content/posts/241214-yearthoughts.md",
+    "content/races/241026-snakesladders2024.md",
+    "content/races/241019-velocitycross2024.md",
+    "content/races/240907-deadgoat2024.md",
+    "content/races/240915-driez2024.md",
+    "content/races/240921-jimhornergrandprix2024.md",
+    "content/races/240922-schoolofcross2024.md",
+    "content/races/241005-bicicross2024.md",
+    "content/races/241006-beans2024.md",
+    "content/races/241013-crosstoberfest2024.md",
     "public/hopnhurl24_sandpit_sportmen.jpg",
     "public/hopnhurl24_downhill_sportmen.jpg",
     "static/hopnhurl24_sandpit_sportmen.jpg",

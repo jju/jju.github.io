@@ -1,9 +1,9 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+title = "{{ .Name | humanize | title }}"
+slug = ""
 date = {{ .Date }}
+categories = "['']"
+tags = "['','']"
+description = ""
 draft = true
-slug = ''
-categories = ['','']
-tags = ['','']
-description = ''
 +++

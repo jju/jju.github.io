@@ -5,7 +5,6 @@ slug = 'cx'
 tags = ['cx', 'races']
 title = 'cyclocross'
 draft = false
-weight = 1
 date = '2024-01-27'
 +++
 

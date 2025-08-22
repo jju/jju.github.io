@@ -66,8 +66,8 @@ In the end I didn't crack the top 5 (which is my dreamy goal for a race this sea
 ### Sport Men
 
 1. Ryan ARYCHUK[^10]
-Eton KOHLENBERG
-Craig VERMETTE
+2. Eton KOHLENBERG
+3. Craig VERMETTE
 
 [^10]: First place the day before, second place in 2023.
 
@@ -77,15 +77,11 @@ Craig VERMETTE
 2. Aiden SANDMAIER[^12]
 3. Timothy UTTING
 
-Quinten MACKLEM[^2]
-2. Emmett MACKLEM
-3. Evan KINDZIERSKI
-
 [^11]: Earned promotion up to Sport Men, with his second win (in a row, following [JHGP](../jimhornergrandprix2024/)) in Novice.
 [^12]: Second place the day before.
 ## my results
 
-* 10th place (out of 21)
+* 10th place (out of 21) - Novice Men
 
 # read more
 

@@ -74,7 +74,7 @@ I then spent the rest of the day hanging out at the bike races, which was fun. I
 
 ## my results
 
-* 6th place (out of 12)
+* 6th place (out of 12) - Novice Men
 
 # read more
 
