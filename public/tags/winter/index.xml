@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>winter on the dubious monk</title>
-    <link>http://localhost:1313/tags/winter/</link>
+    <link>https://thedubiousmonk.net/tags/winter/</link>
     <description>Recent content in winter on the dubious monk</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <lastBuildDate>Fri, 02 Feb 2024 15:19:03 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/winter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thedubiousmonk.net/tags/winter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>back on the bike</title>
-      <link>http://localhost:1313/posts/240126-back-on-the-bike/</link>
+      <link>https://thedubiousmonk.net/posts/240126-back-on-the-bike/</link>
       <pubDate>Fri, 26 Jan 2024 11:19:49 -0700</pubDate>
-      <guid>http://localhost:1313/posts/240126-back-on-the-bike/</guid>
+      <guid>https://thedubiousmonk.net/posts/240126-back-on-the-bike/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m riding my bike again. It&amp;rsquo;s been a few months off dealing with some other issues, but I&amp;rsquo;m making my legs go &amp;lsquo;round in circles again. The big difference compared with last winter is that I&amp;rsquo;m riding indoors.&lt;/p&gt;&#xA;&lt;p&gt;I got a Wahoo smart trainer in fall when the &lt;a href=&#34;../../tags/cx/&#34;&gt;cyclocross&lt;/a&gt; season was getting smoked out and it was dangerous to go outside and breathe heavily. It was heavily on sale because it isn&amp;rsquo;t a full-on smart trainer that replaces your rear wheel and has a computer out front built in. It&amp;rsquo;s the kind that rolls against your rear tire&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

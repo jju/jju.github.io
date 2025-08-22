@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sports on the dubious monk</title>
-    <link>http://localhost:1313/tags/sports/</link>
+    <link>https://thedubiousmonk.net/tags/sports/</link>
     <description>Recent content in sports on the dubious monk</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <lastBuildDate>Fri, 31 Jan 2025 13:15:27 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/sports/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thedubiousmonk.net/tags/sports/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>thinking about 64 squares</title>
-      <link>http://localhost:1313/posts/250131-64squares/</link>
+      <link>https://thedubiousmonk.net/posts/250131-64squares/</link>
       <pubDate>Fri, 31 Jan 2025 09:34:14 -0700</pubDate>
-      <guid>http://localhost:1313/posts/250131-64squares/</guid>
+      <guid>https://thedubiousmonk.net/posts/250131-64squares/</guid>
       <description>&lt;p&gt;I feel like I&amp;rsquo;ve been trying to focus a bit this past year. When I come home to a quiet house (four days a week) there are many things I could do. Watch shows, read books, cook interesting meals, go out and spend money being around people. But when I have all those options the tendency I have is to just kind of waste it. To work on that I&amp;rsquo;ve got three main things I&amp;rsquo;m working on filling my time with: bikes, books, and chess.&lt;/p&gt;</description>
     </item>
   </channel>

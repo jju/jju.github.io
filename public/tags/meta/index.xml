@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>meta on the dubious monk</title>
-    <link>http://localhost:1313/tags/meta/</link>
+    <link>https://thedubiousmonk.net/tags/meta/</link>
     <description>Recent content in meta on the dubious monk</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 02 Feb 2024 15:19:03 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Aug 2025 11:32:31 -0600</lastBuildDate>
+    <atom:link href="https://thedubiousmonk.net/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>thedubiousmonk</title>
-      <link>http://localhost:1313/</link>
+      <link>https://thedubiousmonk.net/</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/</guid>
-      <description>&lt;p&gt;Welcome to the revised and resurrected dubious monk website.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m J Jack Unrau and this is where I&amp;rsquo;m collecting some of my writing.&lt;/p&gt;&#xA;&lt;p&gt;If you aren&amp;rsquo;t interested in sorting through everything, I&amp;rsquo;d check out the &lt;a href=&#34;http://localhost:1313/categories/&#34;&gt;list of categories&lt;/a&gt; or more fine-grained topics through the &lt;a href=&#34;http://localhost:1313/tags/&#34;&gt;tags page&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m also on &lt;a href=&#34;https://glammr.us/@dbsmnk&#34;&gt;Mastodon&lt;/a&gt; and &lt;a href=&#34;https://www.flickr.com/photos/hungry_j/&#34;&gt;Flickr&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://thedubiousmonk.net/</guid>
+      <description>&lt;p&gt;Welcome to the revised and resurrected dubious monk website.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m J Jack Unrau and this is where I&amp;rsquo;m collecting some of my writing.&lt;/p&gt;&#xA;&lt;p&gt;The bloggish stuff is organized as &lt;a href=&#34;https://thedubiousmonk.net/posts/&#34;&gt;posts&lt;/a&gt;. If you aren&amp;rsquo;t interested in sorting through everything, I&amp;rsquo;d check out the &lt;a href=&#34;https://thedubiousmonk.net/categories/&#34;&gt;list of categories&lt;/a&gt; or more fine-grained topics through the &lt;a href=&#34;https://thedubiousmonk.net/tags/&#34;&gt;tags page&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m also on &lt;a href=&#34;https://glammr.us/@dbsmnk&#34;&gt;Mastodon&lt;/a&gt; and &lt;a href=&#34;https://www.flickr.com/photos/hungry_j/&#34;&gt;Flickr&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>reintroduction</title>
-      <link>http://localhost:1313/posts/240113-reintroduction/</link>
+      <link>https://thedubiousmonk.net/posts/240113-reintroduction/</link>
       <pubDate>Sat, 13 Jan 2024 12:12:08 -0700</pubDate>
-      <guid>http://localhost:1313/posts/240113-reintroduction/</guid>
+      <guid>https://thedubiousmonk.net/posts/240113-reintroduction/</guid>
       <description>&lt;h2 id=&#34;hello-again&#34;&gt;&#xD;&#xA;  hello again&#xD;&#xA;  &#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hello-again&#34;&gt;#&lt;/a&gt;&#xD;&#xA;  &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;I&amp;rsquo;m J Jack Unrau. I used to write on the internet some. I haven&amp;rsquo;t for several years. But the muscles should still work. I think.&lt;/p&gt;&#xA;&lt;p&gt;The plan here is to fill in some gaps. I don&amp;rsquo;t believe I&amp;rsquo;ll be getting as library-ish as &lt;a href=&#34;https://librarianaut.wordpress.com/&#34;&gt;the old librarianaut blog&lt;/a&gt; ever was. There&amp;rsquo;ll be more about &lt;a href=&#34;../../tags/cycling/&#34;&gt;bikes&lt;/a&gt; than there ever used to be. I don&amp;rsquo;t think I&amp;rsquo;ll be writing too much about my kid, but we&amp;rsquo;ll see.&lt;/p&gt;</description>
     </item>
   </channel>

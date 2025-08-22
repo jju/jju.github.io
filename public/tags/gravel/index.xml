@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gravel on the dubious monk</title>
-    <link>http://localhost:1313/tags/gravel/</link>
+    <link>https://thedubiousmonk.net/tags/gravel/</link>
     <description>Recent content in gravel on the dubious monk</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 20 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/gravel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Aug 2025 11:32:31 -0600</lastBuildDate>
+    <atom:link href="https://thedubiousmonk.net/tags/gravel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>the range gravel race 2024</title>
-      <link>http://localhost:1313/races/range2024/</link>
+      <link>https://thedubiousmonk.net/races/range2024/</link>
       <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/races/range2024/</guid>
+      <guid>https://thedubiousmonk.net/races/range2024/</guid>
       <description>&lt;blockquote class=&#39;book-hint &#39;&gt;&#xD;&#xA;  &lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1m_ig9gbwKDrp5MkyKR5UxKFIy1NHP1OJ/view?usp=drive_web&#34;&gt;Tech Guide&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Location: Claresholm, Alberta&lt;/li&gt;&#xA;&lt;li&gt;Course: &lt;a href=&#34;https://ridewithgps.com/routes/45140215&#34;&gt;ridewithgpslink&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;/blockquote&gt;&lt;p&gt;Back when I was thinking about the bike riding I wanted to do this year, a gravel event was on my mind. The idea with a gravel race is it&amp;rsquo;s a long route on dirt roads away from traffic. There&amp;rsquo;s a mass start and though there are fast people &amp;ldquo;racing&amp;rdquo; the event there will be far more just out there doing the ride, trying to finish and have a good time&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
