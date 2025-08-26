@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/races/250719-range2025.md",
+                "file": "content/posts/vcc.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "250719-range2025"
+              "title": "vcc"
             }
           }
         ]
@@ -199,11 +199,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc11e9d3dcfd45f8",
+  "active": "3883ea62df12137b",
   "lastOpenFiles": [
+    "content/posts/valemount.md",
+    "content/posts/terwillegarpark.md",
+    "content/posts/strathconasciencepark.md",
+    "content/posts/qudbuds.md",
+    "content/posts/hinton.md",
+    "content/posts/ftt.md",
+    "content/posts/cx.md",
+    "content/posts/capilanopark.md",
+    "content/posts/cxseason2022.md",
+    "content/races/250719-range2025.md",
+    "content/races/241012-turducken2024.md",
     "public/en.search.min.35dfdc7adc68a786e6f297362f4c6aded81eba78da3964dd42a9e947eed68ec5.js",
     "public/en.search-data.min.eab22e225352bd52a8ce949bda9128d53c937ebbae91ddff6487912dc772b477.json",
-    "content/races/250719-range2025.md",
     "content/races/230916-jimhornergrandprix2023.md",
     "content/races/230917-schoolofcross2023.md",
     "content/races/230923-wccx2023.md",
@@ -219,13 +229,6 @@
     "content/races/240921-jimhornergrandprix2024.md",
     "content/races/240922-schoolofcross2024.md",
     "content/races/240928-hopnhurl2024.md",
-    "content/races/240929-puncheurcross2024.md",
-    "content/races/241005-bicicross2024.md",
-    "content/races/241012-turducken2024.md",
-    "content/races/241013-crosstoberfest2024.md",
-    "content/races/241019-velocitycross2024.md",
-    "content/races/241026-snakesladders2024.md",
-    "content/races/241020-tubsontubs2024.md",
     "static/range2025_creek_Cody_Shimizu-867.jpg",
     "static/range2025_wall_Cody_Shimizu-414.jpg",
     "public/races/range2025/index.html",
@@ -233,13 +236,10 @@
     "public/en.search.min.291c56101673b2b51f5eae53af14ecd7b091a2999a24b81b5fd8d1aa3725c3b1.js",
     "public/en.search-data.min.5ed0eb70b4750314b07a2850a12a24516cd6703f605d44ca6791eb830d9e658f.json",
     "static/range2025_start_Cody_Shimizu-104.jpg",
-    "content/races/230709-velocitycrit2023.md",
-    "content/races/_index.md",
     "public/en.search.min.6b1018d6551275935da3d3acdef332df3a752acdf49f6afb495b112adf3255b0.js",
     "public/en.search-data.min.74c9a353a6d6e820cce8d95c6ecd466f53d19ff69e1130ac25c9d8b677a1619a.json",
     "public/essays/_index-1/index.html",
     "public/essays/_index-1",
-    "public/posts/_index-1/index.html",
     "public/hopnhurl24_sandpit_sportmen.jpg",
     "public/hopnhurl24_downhill_sportmen.jpg",
     "static/hopnhurl24_sandpit_sportmen.jpg",

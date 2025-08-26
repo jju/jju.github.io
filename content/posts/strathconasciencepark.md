@@ -6,6 +6,7 @@ tags = ['cx', 'places','strathcona science park','mtb','edmonton']
 title = 'strathcona science park'
 date = '2022-09-01'
 draft = false
+bookHidden = true
 +++
 
 Strathcona Science Park is a provincial park just outside Edmonton. It's rutted and full of gopher holes and apparently has toxic seepage in places. There's no sandy area but it does have a big downhill with long stairs for a runup.

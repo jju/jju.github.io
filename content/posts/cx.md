@@ -6,6 +6,7 @@ tags = ['cx', 'races']
 title = 'cyclocross'
 draft = false
 date = '2024-01-27'
+bookHidden = true
 +++
 
 Cyclocross (also cyclo-cross, 'cross or cx) is my favourite discipline of riding bikes. In its contemporary form you ride your bike around in a field and sometimes have to get off your bike and carry it because the hills are too steep or there are stairs or someone put a bunch of boards across the track. I often think of it as the least efficient way of using your bike. It's awesome.

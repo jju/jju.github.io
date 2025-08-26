@@ -6,6 +6,7 @@ tags = ['cx','places','capilano park','mtb','edmonton']
 title = 'capilano park'
 date = '2023-09-15'
 draft = false
+bookHidden = true
 +++
 
 Capilano Park is a park in the city of Edmonton, where I wouldn't actually expect a [cx](../cx/) race to work, but it does.
