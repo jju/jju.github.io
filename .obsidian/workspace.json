@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "704fb00ecd052f2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/races/230709-velocitycrit2023.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "230709-velocitycrit2023"
-            }
-          },
-          {
             "id": "3883ea62df12137b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/races/_index.md",
+                "file": "content/races/250719-range2025.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "250719-range2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8e3c7bbc96f0a01f",
@@ -214,52 +199,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a015225e632994a",
+  "active": "cc11e9d3dcfd45f8",
   "lastOpenFiles": [
+    "public/en.search.min.35dfdc7adc68a786e6f297362f4c6aded81eba78da3964dd42a9e947eed68ec5.js",
+    "public/en.search-data.min.eab22e225352bd52a8ce949bda9128d53c937ebbae91ddff6487912dc772b477.json",
+    "content/races/250719-range2025.md",
+    "content/races/230916-jimhornergrandprix2023.md",
+    "content/races/230917-schoolofcross2023.md",
+    "content/races/230923-wccx2023.md",
+    "content/races/230924-driez2023.md",
+    "content/races/230930-hopnhurl2023.md",
+    "content/races/231001-puncheurcross2023.md",
+    "content/races/231007-bicicross2023.md",
+    "content/races/231008-beans2023.md",
+    "content/races/231014-babywaltercross2023.md",
+    "content/races/231015-babywaltercross2023.md",
+    "content/races/231021-snakesladders2023.md",
+    "content/races/240915-driez2024.md",
+    "content/races/240921-jimhornergrandprix2024.md",
+    "content/races/240922-schoolofcross2024.md",
+    "content/races/240928-hopnhurl2024.md",
+    "content/races/240929-puncheurcross2024.md",
+    "content/races/241005-bicicross2024.md",
+    "content/races/241012-turducken2024.md",
+    "content/races/241013-crosstoberfest2024.md",
+    "content/races/241019-velocitycross2024.md",
+    "content/races/241026-snakesladders2024.md",
+    "content/races/241020-tubsontubs2024.md",
+    "static/range2025_creek_Cody_Shimizu-867.jpg",
+    "static/range2025_wall_Cody_Shimizu-414.jpg",
+    "public/races/range2025/index.html",
+    "public/races/range2025",
+    "public/en.search.min.291c56101673b2b51f5eae53af14ecd7b091a2999a24b81b5fd8d1aa3725c3b1.js",
+    "public/en.search-data.min.5ed0eb70b4750314b07a2850a12a24516cd6703f605d44ca6791eb830d9e658f.json",
+    "static/range2025_start_Cody_Shimizu-104.jpg",
+    "content/races/230709-velocitycrit2023.md",
+    "content/races/_index.md",
     "public/en.search.min.6b1018d6551275935da3d3acdef332df3a752acdf49f6afb495b112adf3255b0.js",
     "public/en.search-data.min.74c9a353a6d6e820cce8d95c6ecd466f53d19ff69e1130ac25c9d8b677a1619a.json",
-    "content/posts/_index.md",
-    "content/essays/_index.md",
-    "content/about/_index.md",
     "public/essays/_index-1/index.html",
     "public/essays/_index-1",
     "public/posts/_index-1/index.html",
-    "public/posts/_index-1",
-    "content/essays/cx.md",
-    "public/races/page/2/index.html",
-    "public/races/page/4/index.html",
-    "public/races/page/3/index.html",
-    "public/races/page/1/index.html",
-    "public/races/page/2",
-    "content/races/_index.md",
-    "content/races/220509-stiedaclassic2022.md",
-    "content/_index.md",
-    "content/posts/cx.md",
-    "content/races/230916-jimhornergrandprix2023.md",
-    "content/races/241012-turducken2024.md",
-    "themes/hugo-book/archetypes/races.md",
-    "themes/hugo-book/archetypes/posts - Copy.md",
-    "content/races/230527-stiedaclassic2023.md",
-    "content/races/230709-velocitycrit2023.md",
-    "content/races/230917-schoolofcross2023.md",
-    "content/races/231015-babywaltercross2023.md",
-    "content/races/231111-crossbow2023.md",
-    "content/races/240720-range2024.md",
-    "content/races/241020-tubsontubs2024.md",
-    "content/races/240928-hopnhurl2024.md",
-    "content/races/240929-puncheurcross2024.md",
-    "content/posts/241214-yearthoughts.md",
-    "content/races/241026-snakesladders2024.md",
-    "content/races/241019-velocitycross2024.md",
-    "content/races/240907-deadgoat2024.md",
     "public/hopnhurl24_sandpit_sportmen.jpg",
     "public/hopnhurl24_downhill_sportmen.jpg",
     "static/hopnhurl24_sandpit_sportmen.jpg",
     "static/hopnhurl24_downhill_sportmen.jpg",
     "public/jhgp24_sportmen.jpg",
     "public/jhgp24_expertmen_runup.jpg",
-    "static/jhgp24_expertmen_runup.jpg",
-    "static/jhgp24_sportmen.jpg",
-    "public/wnw24_runup.jpg"
+    "static/jhgp24_expertmen_runup.jpg"
   ]
 }
