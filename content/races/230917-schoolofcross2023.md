@@ -7,6 +7,7 @@ tags = ['cx', 'races','capilano park','school of cross','ertc','aba cx cup','edm
 title = 'school of cross 2023'
 draft = false
 +++
+## Race Info
 
 > * [Tech Guide](https://www.ertc.org/soc) 
 > * Location: [Capilano Park](/../capilanopark/) Edmonton
@@ -14,12 +15,10 @@ draft = false
 
 Like the previous day's [Jim Horner Grand Prix](../jimhornergrandprix2023/) ERTC's School of Cross (p/b Blindman Brewing) 2023 race happened in [Capilano Park](../capilanopark/). The air quality was a bit better on the day so only one race was cancelled (Open Women).
 
-# results
+## Results
 
 * [ABA Results](https://zone4.ca/race/2023-09-17/8cc6d07c/results)
 * [CrossResults](https://www.crossresults.com/race/11690)
-
-## Podia
 
 ### Open Men
 
@@ -58,10 +57,10 @@ Like the previous day's [Jim Horner Grand Prix](../jimhornergrandprix2023/) ERTC
 
 [^2]: Earned promotion up to Sport Men, with his second win (in a row, following [JHGP](../jimhornergrandprix2023/)) in Novice.
 
-## my results
+### My Results
 
 * Did not race
 
-# read more
+## Read More
 
-* 
+* [bike stuff](../../categories/cycling/)

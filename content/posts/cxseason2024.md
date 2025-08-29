@@ -32,14 +32,14 @@ Much like the [Fat Tire Tuesday](../ftt/) races, Edmonton has a series of $5 cx 
 
 These are the real races. Ability categories go Novice, Sport, Expert, Open, unless it's provincials or the Western Challenge, which is done by age categories since they are also qualifiers for things like Nationals. Races I participated in will have an asterisk below.
 
-* [Deadgoat Supercross](../deadgoat2024/)* & [Peloton "Lampy's Revenge" CX](../peloton2024/)
-* [Western Challenge CX](../wccx2024/) & [Drie Zussen Superprestige](../driez2024/)
-* [Juventus Jim Horner Grand Prix](../jimhornergrandprix2024/)* & [ERTC School of Cross](../schoolofcross2024/)*
-* [Hardcore Hop-N-Hurl](../hopnhurl2024/)* & [Puncheur Cross](../puncheurcross2024/)
-* [Bicicross](../bicicross2024/) & [Terrascape Beans + Barley](../beans2024/)
-* Crosstoberfest Turduckenprestige](../crossbow2024/)
-* [Velocity Cyclocross](../velocitycross2024/)* & [Tubs on Tubs Provincials](../tubsontubs2024/)*
-* [Snakes + Ladders](../snakesladders2024/)
+* [Deadgoat Supercross](../../races/deadgoat2024/)* & [Peloton "Lampy's Revenge" CX](../../races/peloton2024/)
+* [Western Challenge CX](../../races/wccx2024/) & [Drie Zussen Superprestige](../../races/driez2024/)
+* [Juventus Jim Horner Grand Prix](../../races/jimhornergrandprix2024/)* & [ERTC School of Cross](../../races/schoolofcross2024/)*
+* [Hardcore Hop-N-Hurl](../../races/hopnhurl2024/)* & [Puncheur Cross](../../races/puncheurcross2024/)
+* [Bicicross](../../races/bicicross2024/) & [Terrascape Beans + Barley](../../races/beans2024/)
+* [Crosstoberfest Turduckenprestige](../../races/crossbow2024/)
+* [Velocity Cyclocross](../../races/velocitycross2024/)* & [Tubs on Tubs Provincials](../../races/tubsontubs2024/)*
+* [Snakes + Ladders](../../races/snakesladders2024/)
 
 ### Best[^3] ABA Cup Racers
 

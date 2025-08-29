@@ -7,6 +7,7 @@ tags = ['cx', 'races','strathcona science park','vcc','velocity cross','aba cx c
 title = 'velocity cross 2023 - smoked out'
 draft = false
 +++
+## Race Info
 
 > * [Tech Guide](https://www.albertabicycle.ab.ca/uploads/files/Velocity-CX-Tech-Guide-2023_v3.pdf)
 > * Location: [Strathcona Science Park](../strathconasciencepark/)
@@ -16,15 +17,15 @@ draft = false
 
 Next week the races are down in Cochrane and hopefully they have better luck. My next race will be the [Jim Horner Grand Prix](../jimhornergrandprix2023/).
 
-# results
+## Results
 
 * ~~Official Results~~
 * ~~CrossResults~~
+* None - Race Cancelled
 
-## podia
+### My Results
 
 * None - Race Cancelled
 
-## my results
+## Read More
 
-* None - Race Cancelled

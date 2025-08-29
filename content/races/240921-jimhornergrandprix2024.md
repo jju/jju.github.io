@@ -8,6 +8,8 @@ title = 'jim horner grand prix 2024'
 draft = false
 +++
 
+## Race Info
+
 > * [Tech Guide](https://www.juventus.ab.ca/jim-horner-grand-prix-of-cyclocross) 
 > * Location: [Capilano Park](../capilanopark/) Edmonton
 > * Course: [stravalink](https://www.strava.com/segments/37842619)

@@ -8,6 +8,8 @@ title = 'school of cross 2024'
 draft = false
 +++
 
+## Race Info
+
 > * [Tech Guide](https://www.ertc.org/soc) 
 > * Location: [Capilano Park](/../capilanopark/) Edmonton
 > * Course: [stravalink](https://www.strava.com/segments/37856148)

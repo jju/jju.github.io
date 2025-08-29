@@ -7,6 +7,7 @@ tags = ['cx', 'races','queen elizabeth park','baby walter','alberta cx collectiv
 title = 'baby walter cross 2023 - day 2'
 draft = false
 +++
+## Race Info
 
 > * [Tech Guide](https://www.ertc.org/bwcx) 
 > * Location: [Queen Elizabeth Park](../queenelizabethpark/) Edmonton
@@ -24,12 +25,10 @@ I was never really in the mix on this one, pretty sure I was defending 24th afte
 
 But even then I was having fun. Riding between the tape has been the happiest I've been this year
 
-# results
+## Results
 
 * [ABA Results](https://zone4.ca/race/2023-10-15/97a11ff0/results)
 * [CrossResults](https://www.crossresults.com/race/11892)
-
-## Podia
 
 ### Expert Men
 
@@ -67,11 +66,11 @@ But even then I was having fun. Riding between the tape has been the happiest I'
 2. Madeline MAGLEO
 3. Jen ASHTON
 
-## my results
+### My Results
 
-* 12th place (out of 18)
+* 12th place (out of 18) - Novice Men
 * 48:57 (with the mechanical on the final lap adding like 2 minutes to my time)
 
-# read more
+## Read More
 
 * [My 2022 Experience at Zombie Baby Walter Cross](../zombiebabywaltercross2022)

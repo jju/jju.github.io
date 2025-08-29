@@ -7,6 +7,8 @@ title = 'snakes & ladders III 2023'
 draft = true
 +++
 
+## Race Info
+
 > * [Tech Guide](https://docs.google.com/document/d/1XyrN2tg1PjTT6lNv1o3xg7ECCAtbaQT-mj0UxuwGTmE/edit?usp=sharing)
 > * Location: Snakes Head Natural Area, Sundre
 > * Course: [stravalink](http://www.strava.com/segments/35705305)

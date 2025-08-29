@@ -7,6 +7,7 @@ tags = ['cx', 'races','voyageur park','puncheur','alberta', 'provincials','maste
 title = 'puncheur cross 2023'
 draft = false
 +++
+## Race Info
 
 > * [Tech Guide](https://www.albertabicycle.ab.ca/uploads/files/DEVON%20BICYCLE%20ASSOCIATION%20PRESENTS%202023%20CYCLOCROSS%20PROVINCIAL%20RACE.pdf) 
 > * Location: [Voyageur Park](../voyageurpark/) Devon
@@ -16,12 +17,10 @@ This was Provincials for this year, which seems early.
 
 I wasn't at this race, but Nancy St-Hilaire has [good pictures on her SmugMug](https://nancyst-hilaire.smugmug.com/DBA-Puncheur-2023-CX-provincial-). 
 
-# results
+## Results
 
 * [Official Results](https://www.albertabicycle.ab.ca/uploads/files/2023%20Cross%20Results/DBA%20Provincials%202023.pdf)
 * [CrossResults](https://www.crossresults.com/race/11768)
-
-## Podia
 
 ### Open Women
 
@@ -118,10 +117,10 @@ I wasn't at this race, but Nancy St-Hilaire has [good pictures on her SmugMug](h
 2. Jett FENTON
 3. Arun WARD
 
-## my results
+### My Results
 
 * Did not race
 
-# read more
+## Read More
 
 * [My 2022 Experience at Puncheur Cross](../puncheurcross2022/)

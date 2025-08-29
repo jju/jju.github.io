@@ -6,6 +6,7 @@ tags = ['cx', 'races','snakes and ladders','cabc','aba cx cup','snake hill','sun
 title = 'snakes & ladders III 2023'
 draft = false
 +++
+## Race Info
 
 > * [Tech Guide](https://docs.google.com/document/d/1XyrN2tg1PjTT6lNv1o3xg7ECCAtbaQT-mj0UxuwGTmE/edit?usp=sharing)
 > * Location: Snakes Head Natural Area, Sundre
@@ -13,11 +14,9 @@ draft = false
 
 I missed out on writing this up at the end of the 2023 [CX](../cx/) season, and now that 2024 has come around, I don't have a bunch of the data I like to put in these race writeups. Nonetheless, here's what I can find (thankfully I did do my CrossResults upload back when the race happened).
 
-# results
+## Results
 
 * [CrossResults](https://www.crossresults.com/race/11919)
-
-## Podia
 
 ### Open Women
 
@@ -54,10 +53,10 @@ I missed out on writing this up at the end of the 2023 [CX](../cx/) season, and 
 2. William KINDZIERSKI
 3. Arun WARD
 
-## my results
+### My Results
 
 * did not race
 
-# read more
+## Read More
 
-* 
+* [bike stuff](../../categories/cycling/)

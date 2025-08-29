@@ -2,864 +2,864 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tags on the dubious monk</title>
-    <link>https://thedubiousmonk.net/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in tags on the dubious monk</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 26 Aug 2025 14:38:18 -0600</lastBuildDate>
-    <atom:link href="https://thedubiousmonk.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Aug 2025 14:49:04 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bikeedmonton</title>
-      <link>https://thedubiousmonk.net/tags/bikeedmonton/</link>
+      <link>http://localhost:1313/tags/bikeedmonton/</link>
       <pubDate>Thu, 21 Aug 2025 12:58:02 -0600</pubDate>
-      <guid>https://thedubiousmonk.net/tags/bikeedmonton/</guid>
+      <guid>http://localhost:1313/tags/bikeedmonton/</guid>
       <description></description>
     </item>
     <item>
       <title>cx</title>
-      <link>https://thedubiousmonk.net/tags/cx/</link>
+      <link>http://localhost:1313/tags/cx/</link>
       <pubDate>Thu, 21 Aug 2025 12:58:02 -0600</pubDate>
-      <guid>https://thedubiousmonk.net/tags/cx/</guid>
+      <guid>http://localhost:1313/tags/cx/</guid>
       <description></description>
     </item>
     <item>
       <title>edmonton</title>
-      <link>https://thedubiousmonk.net/tags/edmonton/</link>
+      <link>http://localhost:1313/tags/edmonton/</link>
       <pubDate>Thu, 21 Aug 2025 12:58:02 -0600</pubDate>
-      <guid>https://thedubiousmonk.net/tags/edmonton/</guid>
+      <guid>http://localhost:1313/tags/edmonton/</guid>
       <description></description>
     </item>
     <item>
       <title>ftt</title>
-      <link>https://thedubiousmonk.net/tags/ftt/</link>
+      <link>http://localhost:1313/tags/ftt/</link>
       <pubDate>Thu, 21 Aug 2025 12:58:02 -0600</pubDate>
-      <guid>https://thedubiousmonk.net/tags/ftt/</guid>
+      <guid>http://localhost:1313/tags/ftt/</guid>
       <description></description>
     </item>
     <item>
       <title>mtb</title>
-      <link>https://thedubiousmonk.net/tags/mtb/</link>
+      <link>http://localhost:1313/tags/mtb/</link>
       <pubDate>Thu, 21 Aug 2025 12:58:02 -0600</pubDate>
-      <guid>https://thedubiousmonk.net/tags/mtb/</guid>
+      <guid>http://localhost:1313/tags/mtb/</guid>
       <description></description>
     </item>
     <item>
       <title>races</title>
-      <link>https://thedubiousmonk.net/tags/races/</link>
+      <link>http://localhost:1313/tags/races/</link>
       <pubDate>Thu, 21 Aug 2025 12:58:02 -0600</pubDate>
-      <guid>https://thedubiousmonk.net/tags/races/</guid>
+      <guid>http://localhost:1313/tags/races/</guid>
       <description></description>
     </item>
     <item>
       <title>vcc</title>
-      <link>https://thedubiousmonk.net/tags/vcc/</link>
+      <link>http://localhost:1313/tags/vcc/</link>
       <pubDate>Thu, 21 Aug 2025 12:58:02 -0600</pubDate>
-      <guid>https://thedubiousmonk.net/tags/vcc/</guid>
+      <guid>http://localhost:1313/tags/vcc/</guid>
       <description></description>
     </item>
     <item>
       <title>claresholm</title>
-      <link>https://thedubiousmonk.net/tags/claresholm/</link>
+      <link>http://localhost:1313/tags/claresholm/</link>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/claresholm/</guid>
+      <guid>http://localhost:1313/tags/claresholm/</guid>
       <description></description>
     </item>
     <item>
       <title>gravel</title>
-      <link>https://thedubiousmonk.net/tags/gravel/</link>
+      <link>http://localhost:1313/tags/gravel/</link>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/gravel/</guid>
+      <guid>http://localhost:1313/tags/gravel/</guid>
       <description></description>
     </item>
     <item>
       <title>race reports</title>
-      <link>https://thedubiousmonk.net/tags/race-reports/</link>
+      <link>http://localhost:1313/tags/race-reports/</link>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/race-reports/</guid>
+      <guid>http://localhost:1313/tags/race-reports/</guid>
       <description></description>
     </item>
     <item>
       <title>books</title>
-      <link>https://thedubiousmonk.net/tags/books/</link>
+      <link>http://localhost:1313/tags/books/</link>
       <pubDate>Fri, 31 Jan 2025 09:34:14 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/books/</guid>
+      <guid>http://localhost:1313/tags/books/</guid>
       <description></description>
     </item>
     <item>
       <title>chess</title>
-      <link>https://thedubiousmonk.net/tags/chess/</link>
+      <link>http://localhost:1313/tags/chess/</link>
       <pubDate>Fri, 31 Jan 2025 09:34:14 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/chess/</guid>
+      <guid>http://localhost:1313/tags/chess/</guid>
       <description></description>
     </item>
     <item>
       <title>games</title>
-      <link>https://thedubiousmonk.net/tags/games/</link>
+      <link>http://localhost:1313/tags/games/</link>
       <pubDate>Fri, 31 Jan 2025 09:34:14 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/games/</guid>
+      <guid>http://localhost:1313/tags/games/</guid>
       <description></description>
     </item>
     <item>
       <title>sports</title>
-      <link>https://thedubiousmonk.net/tags/sports/</link>
+      <link>http://localhost:1313/tags/sports/</link>
       <pubDate>Fri, 31 Jan 2025 09:34:14 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/sports/</guid>
+      <guid>http://localhost:1313/tags/sports/</guid>
       <description></description>
     </item>
     <item>
       <title>aba cx cup</title>
-      <link>https://thedubiousmonk.net/tags/aba-cx-cup/</link>
+      <link>http://localhost:1313/tags/aba-cx-cup/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/aba-cx-cup/</guid>
+      <guid>http://localhost:1313/tags/aba-cx-cup/</guid>
       <description></description>
     </item>
     <item>
       <title>wnw</title>
-      <link>https://thedubiousmonk.net/tags/wnw/</link>
+      <link>http://localhost:1313/tags/wnw/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/wnw/</guid>
+      <guid>http://localhost:1313/tags/wnw/</guid>
       <description></description>
     </item>
     <item>
       <title>beans n barley</title>
-      <link>https://thedubiousmonk.net/tags/beans-n-barley/</link>
+      <link>http://localhost:1313/tags/beans-n-barley/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/beans-n-barley/</guid>
+      <guid>http://localhost:1313/tags/beans-n-barley/</guid>
       <description></description>
     </item>
     <item>
       <title>calgary</title>
-      <link>https://thedubiousmonk.net/tags/calgary/</link>
+      <link>http://localhost:1313/tags/calgary/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/calgary/</guid>
+      <guid>http://localhost:1313/tags/calgary/</guid>
       <description></description>
     </item>
     <item>
       <title>richmond green park</title>
-      <link>https://thedubiousmonk.net/tags/richmond-green-park/</link>
+      <link>http://localhost:1313/tags/richmond-green-park/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/richmond-green-park/</guid>
+      <guid>http://localhost:1313/tags/richmond-green-park/</guid>
       <description></description>
     </item>
     <item>
       <title>terrascape</title>
-      <link>https://thedubiousmonk.net/tags/terrascape/</link>
+      <link>http://localhost:1313/tags/terrascape/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/terrascape/</guid>
+      <guid>http://localhost:1313/tags/terrascape/</guid>
       <description></description>
     </item>
     <item>
       <title>bicicross</title>
-      <link>https://thedubiousmonk.net/tags/bicicross/</link>
+      <link>http://localhost:1313/tags/bicicross/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/bicicross/</guid>
+      <guid>http://localhost:1313/tags/bicicross/</guid>
       <description></description>
     </item>
     <item>
       <title>bicisport</title>
-      <link>https://thedubiousmonk.net/tags/bicisport/</link>
+      <link>http://localhost:1313/tags/bicisport/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/bicisport/</guid>
+      <guid>http://localhost:1313/tags/bicisport/</guid>
       <description></description>
     </item>
     <item>
       <title>alberta</title>
-      <link>https://thedubiousmonk.net/tags/alberta/</link>
+      <link>http://localhost:1313/tags/alberta/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/alberta/</guid>
+      <guid>http://localhost:1313/tags/alberta/</guid>
       <description></description>
     </item>
     <item>
       <title>dba</title>
-      <link>https://thedubiousmonk.net/tags/dba/</link>
+      <link>http://localhost:1313/tags/dba/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/dba/</guid>
+      <guid>http://localhost:1313/tags/dba/</guid>
       <description></description>
     </item>
     <item>
       <title>devon</title>
-      <link>https://thedubiousmonk.net/tags/devon/</link>
+      <link>http://localhost:1313/tags/devon/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/devon/</guid>
+      <guid>http://localhost:1313/tags/devon/</guid>
       <description></description>
     </item>
     <item>
       <title>junior</title>
-      <link>https://thedubiousmonk.net/tags/junior/</link>
+      <link>http://localhost:1313/tags/junior/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/junior/</guid>
+      <guid>http://localhost:1313/tags/junior/</guid>
       <description></description>
     </item>
     <item>
       <title>masters</title>
-      <link>https://thedubiousmonk.net/tags/masters/</link>
+      <link>http://localhost:1313/tags/masters/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/masters/</guid>
+      <guid>http://localhost:1313/tags/masters/</guid>
       <description></description>
     </item>
     <item>
       <title>provincials</title>
-      <link>https://thedubiousmonk.net/tags/provincials/</link>
+      <link>http://localhost:1313/tags/provincials/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/provincials/</guid>
+      <guid>http://localhost:1313/tags/provincials/</guid>
       <description></description>
     </item>
     <item>
       <title>puncheur</title>
-      <link>https://thedubiousmonk.net/tags/puncheur/</link>
+      <link>http://localhost:1313/tags/puncheur/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/puncheur/</guid>
+      <guid>http://localhost:1313/tags/puncheur/</guid>
       <description></description>
     </item>
     <item>
       <title>voyageur park</title>
-      <link>https://thedubiousmonk.net/tags/voyageur-park/</link>
+      <link>http://localhost:1313/tags/voyageur-park/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/voyageur-park/</guid>
+      <guid>http://localhost:1313/tags/voyageur-park/</guid>
       <description></description>
     </item>
     <item>
       <title>hardcore cc</title>
-      <link>https://thedubiousmonk.net/tags/hardcore-cc/</link>
+      <link>http://localhost:1313/tags/hardcore-cc/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/hardcore-cc/</guid>
+      <guid>http://localhost:1313/tags/hardcore-cc/</guid>
       <description></description>
     </item>
     <item>
       <title>hop n hurl</title>
-      <link>https://thedubiousmonk.net/tags/hop-n-hurl/</link>
+      <link>http://localhost:1313/tags/hop-n-hurl/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/hop-n-hurl/</guid>
+      <guid>http://localhost:1313/tags/hop-n-hurl/</guid>
       <description></description>
     </item>
     <item>
       <title>capilano park</title>
-      <link>https://thedubiousmonk.net/tags/capilano-park/</link>
+      <link>http://localhost:1313/tags/capilano-park/</link>
       <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/capilano-park/</guid>
+      <guid>http://localhost:1313/tags/capilano-park/</guid>
       <description></description>
     </item>
     <item>
       <title>ertc</title>
-      <link>https://thedubiousmonk.net/tags/ertc/</link>
+      <link>http://localhost:1313/tags/ertc/</link>
       <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/ertc/</guid>
+      <guid>http://localhost:1313/tags/ertc/</guid>
       <description></description>
     </item>
     <item>
       <title>school of cross</title>
-      <link>https://thedubiousmonk.net/tags/school-of-cross/</link>
+      <link>http://localhost:1313/tags/school-of-cross/</link>
       <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/school-of-cross/</guid>
+      <guid>http://localhost:1313/tags/school-of-cross/</guid>
       <description></description>
     </item>
     <item>
       <title>jim horner</title>
-      <link>https://thedubiousmonk.net/tags/jim-horner/</link>
+      <link>http://localhost:1313/tags/jim-horner/</link>
       <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/jim-horner/</guid>
+      <guid>http://localhost:1313/tags/jim-horner/</guid>
       <description></description>
     </item>
     <item>
       <title>juventus</title>
-      <link>https://thedubiousmonk.net/tags/juventus/</link>
+      <link>http://localhost:1313/tags/juventus/</link>
       <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/juventus/</guid>
+      <guid>http://localhost:1313/tags/juventus/</guid>
       <description></description>
     </item>
     <item>
       <title>bow cycle</title>
-      <link>https://thedubiousmonk.net/tags/bow-cycle/</link>
+      <link>http://localhost:1313/tags/bow-cycle/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/bow-cycle/</guid>
+      <guid>http://localhost:1313/tags/bow-cycle/</guid>
       <description></description>
     </item>
     <item>
       <title>canmore</title>
-      <link>https://thedubiousmonk.net/tags/canmore/</link>
+      <link>http://localhost:1313/tags/canmore/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/canmore/</guid>
+      <guid>http://localhost:1313/tags/canmore/</guid>
       <description></description>
     </item>
     <item>
       <title>canmore nordic centre</title>
-      <link>https://thedubiousmonk.net/tags/canmore-nordic-centre/</link>
+      <link>http://localhost:1313/tags/canmore-nordic-centre/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/canmore-nordic-centre/</guid>
+      <guid>http://localhost:1313/tags/canmore-nordic-centre/</guid>
       <description></description>
     </item>
     <item>
       <title>cyclemeisters</title>
-      <link>https://thedubiousmonk.net/tags/cyclemeisters/</link>
+      <link>http://localhost:1313/tags/cyclemeisters/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/cyclemeisters/</guid>
+      <guid>http://localhost:1313/tags/cyclemeisters/</guid>
       <description></description>
     </item>
     <item>
       <title>drie zussen</title>
-      <link>https://thedubiousmonk.net/tags/drie-zussen/</link>
+      <link>http://localhost:1313/tags/drie-zussen/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/drie-zussen/</guid>
+      <guid>http://localhost:1313/tags/drie-zussen/</guid>
       <description></description>
     </item>
     <item>
       <title>rmcc</title>
-      <link>https://thedubiousmonk.net/tags/rmcc/</link>
+      <link>http://localhost:1313/tags/rmcc/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/rmcc/</guid>
+      <guid>http://localhost:1313/tags/rmcc/</guid>
       <description></description>
     </item>
     <item>
       <title>canada</title>
-      <link>https://thedubiousmonk.net/tags/canada/</link>
+      <link>http://localhost:1313/tags/canada/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/canada/</guid>
+      <guid>http://localhost:1313/tags/canada/</guid>
       <description></description>
     </item>
     <item>
       <title>western challenge</title>
-      <link>https://thedubiousmonk.net/tags/western-challenge/</link>
+      <link>http://localhost:1313/tags/western-challenge/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/western-challenge/</guid>
+      <guid>http://localhost:1313/tags/western-challenge/</guid>
       <description></description>
     </item>
     <item>
       <title>cochrane</title>
-      <link>https://thedubiousmonk.net/tags/cochrane/</link>
+      <link>http://localhost:1313/tags/cochrane/</link>
       <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/cochrane/</guid>
+      <guid>http://localhost:1313/tags/cochrane/</guid>
       <description></description>
     </item>
     <item>
       <title>peloton</title>
-      <link>https://thedubiousmonk.net/tags/peloton/</link>
+      <link>http://localhost:1313/tags/peloton/</link>
       <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/peloton/</guid>
+      <guid>http://localhost:1313/tags/peloton/</guid>
       <description></description>
     </item>
     <item>
       <title>southern baptist seminary</title>
-      <link>https://thedubiousmonk.net/tags/southern-baptist-seminary/</link>
+      <link>http://localhost:1313/tags/southern-baptist-seminary/</link>
       <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/southern-baptist-seminary/</guid>
+      <guid>http://localhost:1313/tags/southern-baptist-seminary/</guid>
       <description></description>
     </item>
     <item>
       <title>deadgoat</title>
-      <link>https://thedubiousmonk.net/tags/deadgoat/</link>
+      <link>http://localhost:1313/tags/deadgoat/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/deadgoat/</guid>
+      <guid>http://localhost:1313/tags/deadgoat/</guid>
       <description></description>
     </item>
     <item>
       <title>plrr</title>
-      <link>https://thedubiousmonk.net/tags/plrr/</link>
+      <link>http://localhost:1313/tags/plrr/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/plrr/</guid>
+      <guid>http://localhost:1313/tags/plrr/</guid>
       <description></description>
     </item>
     <item>
       <title>road</title>
-      <link>https://thedubiousmonk.net/tags/road/</link>
+      <link>http://localhost:1313/tags/road/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/road/</guid>
+      <guid>http://localhost:1313/tags/road/</guid>
       <description></description>
     </item>
     <item>
       <title>club</title>
-      <link>https://thedubiousmonk.net/tags/club/</link>
+      <link>http://localhost:1313/tags/club/</link>
       <pubDate>Thu, 30 May 2024 18:16:56 -0600</pubDate>
-      <guid>https://thedubiousmonk.net/tags/club/</guid>
+      <guid>http://localhost:1313/tags/club/</guid>
       <description></description>
     </item>
     <item>
       <title>hills</title>
-      <link>https://thedubiousmonk.net/tags/hills/</link>
+      <link>http://localhost:1313/tags/hills/</link>
       <pubDate>Thu, 30 May 2024 18:16:56 -0600</pubDate>
-      <guid>https://thedubiousmonk.net/tags/hills/</guid>
+      <guid>http://localhost:1313/tags/hills/</guid>
       <description></description>
     </item>
     <item>
       <title>places</title>
-      <link>https://thedubiousmonk.net/tags/places/</link>
+      <link>http://localhost:1313/tags/places/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/places/</guid>
+      <guid>http://localhost:1313/tags/places/</guid>
       <description></description>
     </item>
     <item>
       <title>terwillegar park</title>
-      <link>https://thedubiousmonk.net/tags/terwillegar-park/</link>
+      <link>http://localhost:1313/tags/terwillegar-park/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/terwillegar-park/</guid>
+      <guid>http://localhost:1313/tags/terwillegar-park/</guid>
       <description></description>
     </item>
     <item>
       <title>relationship</title>
-      <link>https://thedubiousmonk.net/tags/relationship/</link>
+      <link>http://localhost:1313/tags/relationship/</link>
       <pubDate>Wed, 20 Mar 2024 10:40:58 -0600</pubDate>
-      <guid>https://thedubiousmonk.net/tags/relationship/</guid>
+      <guid>http://localhost:1313/tags/relationship/</guid>
       <description></description>
     </item>
     <item>
       <title>star trek</title>
-      <link>https://thedubiousmonk.net/tags/star-trek/</link>
+      <link>http://localhost:1313/tags/star-trek/</link>
       <pubDate>Wed, 20 Mar 2024 10:40:58 -0600</pubDate>
-      <guid>https://thedubiousmonk.net/tags/star-trek/</guid>
+      <guid>http://localhost:1313/tags/star-trek/</guid>
       <description></description>
     </item>
     <item>
       <title>tv</title>
-      <link>https://thedubiousmonk.net/tags/tv/</link>
+      <link>http://localhost:1313/tags/tv/</link>
       <pubDate>Wed, 20 Mar 2024 10:40:58 -0600</pubDate>
-      <guid>https://thedubiousmonk.net/tags/tv/</guid>
+      <guid>http://localhost:1313/tags/tv/</guid>
       <description></description>
     </item>
     <item>
       <title>technology</title>
-      <link>https://thedubiousmonk.net/tags/technology/</link>
+      <link>http://localhost:1313/tags/technology/</link>
       <pubDate>Fri, 02 Feb 2024 12:12:31 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/technology/</guid>
+      <guid>http://localhost:1313/tags/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>crit</title>
-      <link>https://thedubiousmonk.net/tags/crit/</link>
+      <link>http://localhost:1313/tags/crit/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/crit/</guid>
+      <guid>http://localhost:1313/tags/crit/</guid>
       <description></description>
     </item>
     <item>
       <title>meta</title>
-      <link>https://thedubiousmonk.net/tags/meta/</link>
+      <link>http://localhost:1313/tags/meta/</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/meta/</guid>
+      <guid>http://localhost:1313/tags/meta/</guid>
       <description></description>
     </item>
     <item>
       <title>tech</title>
-      <link>https://thedubiousmonk.net/tags/tech/</link>
+      <link>http://localhost:1313/tags/tech/</link>
       <pubDate>Fri, 26 Jan 2024 11:19:49 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/tech/</guid>
+      <guid>http://localhost:1313/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>training</title>
-      <link>https://thedubiousmonk.net/tags/training/</link>
+      <link>http://localhost:1313/tags/training/</link>
       <pubDate>Fri, 26 Jan 2024 11:19:49 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/training/</guid>
+      <guid>http://localhost:1313/tags/training/</guid>
       <description></description>
     </item>
     <item>
       <title>winter</title>
-      <link>https://thedubiousmonk.net/tags/winter/</link>
+      <link>http://localhost:1313/tags/winter/</link>
       <pubDate>Fri, 26 Jan 2024 11:19:49 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/winter/</guid>
+      <guid>http://localhost:1313/tags/winter/</guid>
       <description></description>
     </item>
     <item>
       <title>kid</title>
-      <link>https://thedubiousmonk.net/tags/kid/</link>
+      <link>http://localhost:1313/tags/kid/</link>
       <pubDate>Sat, 13 Jan 2024 12:12:08 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/kid/</guid>
+      <guid>http://localhost:1313/tags/kid/</guid>
       <description></description>
     </item>
     <item>
       <title>writing</title>
-      <link>https://thedubiousmonk.net/tags/writing/</link>
+      <link>http://localhost:1313/tags/writing/</link>
       <pubDate>Sat, 13 Jan 2024 12:12:08 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/writing/</guid>
+      <guid>http://localhost:1313/tags/writing/</guid>
       <description></description>
     </item>
     <item>
       <title>crossbow semiprestige</title>
-      <link>https://thedubiousmonk.net/tags/crossbow-semiprestige/</link>
+      <link>http://localhost:1313/tags/crossbow-semiprestige/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/crossbow-semiprestige/</guid>
+      <guid>http://localhost:1313/tags/crossbow-semiprestige/</guid>
       <description></description>
     </item>
     <item>
       <title>rutland park</title>
-      <link>https://thedubiousmonk.net/tags/rutland-park/</link>
+      <link>http://localhost:1313/tags/rutland-park/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/rutland-park/</guid>
+      <guid>http://localhost:1313/tags/rutland-park/</guid>
       <description></description>
     </item>
     <item>
       <title>cabc</title>
-      <link>https://thedubiousmonk.net/tags/cabc/</link>
+      <link>http://localhost:1313/tags/cabc/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/cabc/</guid>
+      <guid>http://localhost:1313/tags/cabc/</guid>
       <description></description>
     </item>
     <item>
       <title>snake hill</title>
-      <link>https://thedubiousmonk.net/tags/snake-hill/</link>
+      <link>http://localhost:1313/tags/snake-hill/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/snake-hill/</guid>
+      <guid>http://localhost:1313/tags/snake-hill/</guid>
       <description></description>
     </item>
     <item>
       <title>snakes and ladders</title>
-      <link>https://thedubiousmonk.net/tags/snakes-and-ladders/</link>
+      <link>http://localhost:1313/tags/snakes-and-ladders/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/snakes-and-ladders/</guid>
+      <guid>http://localhost:1313/tags/snakes-and-ladders/</guid>
       <description></description>
     </item>
     <item>
       <title>sundre</title>
-      <link>https://thedubiousmonk.net/tags/sundre/</link>
+      <link>http://localhost:1313/tags/sundre/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/sundre/</guid>
+      <guid>http://localhost:1313/tags/sundre/</guid>
       <description></description>
     </item>
     <item>
       <title>crash</title>
-      <link>https://thedubiousmonk.net/tags/crash/</link>
+      <link>http://localhost:1313/tags/crash/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/crash/</guid>
+      <guid>http://localhost:1313/tags/crash/</guid>
       <description></description>
     </item>
     <item>
       <title>alberta cx collective</title>
-      <link>https://thedubiousmonk.net/tags/alberta-cx-collective/</link>
+      <link>http://localhost:1313/tags/alberta-cx-collective/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/alberta-cx-collective/</guid>
+      <guid>http://localhost:1313/tags/alberta-cx-collective/</guid>
       <description></description>
     </item>
     <item>
       <title>baby walter</title>
-      <link>https://thedubiousmonk.net/tags/baby-walter/</link>
+      <link>http://localhost:1313/tags/baby-walter/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/baby-walter/</guid>
+      <guid>http://localhost:1313/tags/baby-walter/</guid>
       <description></description>
     </item>
     <item>
       <title>queen elizabeth park</title>
-      <link>https://thedubiousmonk.net/tags/queen-elizabeth-park/</link>
+      <link>http://localhost:1313/tags/queen-elizabeth-park/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/queen-elizabeth-park/</guid>
+      <guid>http://localhost:1313/tags/queen-elizabeth-park/</guid>
       <description></description>
     </item>
     <item>
       <title>stoics</title>
-      <link>https://thedubiousmonk.net/tags/stoics/</link>
+      <link>http://localhost:1313/tags/stoics/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/stoics/</guid>
+      <guid>http://localhost:1313/tags/stoics/</guid>
       <description></description>
     </item>
     <item>
       <title>strathcona science park</title>
-      <link>https://thedubiousmonk.net/tags/strathcona-science-park/</link>
+      <link>http://localhost:1313/tags/strathcona-science-park/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/strathcona-science-park/</guid>
+      <guid>http://localhost:1313/tags/strathcona-science-park/</guid>
       <description></description>
     </item>
     <item>
       <title>velocity cross</title>
-      <link>https://thedubiousmonk.net/tags/velocity-cross/</link>
+      <link>http://localhost:1313/tags/velocity-cross/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/velocity-cross/</guid>
+      <guid>http://localhost:1313/tags/velocity-cross/</guid>
       <description></description>
     </item>
     <item>
       <title>wildfires</title>
-      <link>https://thedubiousmonk.net/tags/wildfires/</link>
+      <link>http://localhost:1313/tags/wildfires/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/wildfires/</guid>
+      <guid>http://localhost:1313/tags/wildfires/</guid>
       <description></description>
     </item>
     <item>
       <title>prw</title>
-      <link>https://thedubiousmonk.net/tags/prw/</link>
+      <link>http://localhost:1313/tags/prw/</link>
       <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/prw/</guid>
+      <guid>http://localhost:1313/tags/prw/</guid>
       <description></description>
     </item>
     <item>
       <title>tubs on tubs</title>
-      <link>https://thedubiousmonk.net/tags/tubs-on-tubs/</link>
+      <link>http://localhost:1313/tags/tubs-on-tubs/</link>
       <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/tubs-on-tubs/</guid>
+      <guid>http://localhost:1313/tags/tubs-on-tubs/</guid>
       <description></description>
     </item>
     <item>
       <title>stats</title>
-      <link>https://thedubiousmonk.net/tags/stats/</link>
+      <link>http://localhost:1313/tags/stats/</link>
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/stats/</guid>
+      <guid>http://localhost:1313/tags/stats/</guid>
       <description></description>
     </item>
     <item>
       <title>coach</title>
-      <link>https://thedubiousmonk.net/tags/coach/</link>
+      <link>http://localhost:1313/tags/coach/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/coach/</guid>
+      <guid>http://localhost:1313/tags/coach/</guid>
       <description></description>
     </item>
     <item>
       <title>stieda</title>
-      <link>https://thedubiousmonk.net/tags/stieda/</link>
+      <link>http://localhost:1313/tags/stieda/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/stieda/</guid>
+      <guid>http://localhost:1313/tags/stieda/</guid>
       <description></description>
     </item>
     <item>
       <title>puncheur cross</title>
-      <link>https://thedubiousmonk.net/tags/puncheur-cross/</link>
+      <link>http://localhost:1313/tags/puncheur-cross/</link>
       <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/puncheur-cross/</guid>
+      <guid>http://localhost:1313/tags/puncheur-cross/</guid>
       <description></description>
     </item>
     <item>
       <title>argyll velodrome</title>
-      <link>https://thedubiousmonk.net/tags/argyll-velodrome/</link>
+      <link>http://localhost:1313/tags/argyll-velodrome/</link>
       <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/argyll-velodrome/</guid>
+      <guid>http://localhost:1313/tags/argyll-velodrome/</guid>
       <description></description>
     </item>
     <item>
       <title>photography</title>
-      <link>https://thedubiousmonk.net/tags/photography/</link>
+      <link>http://localhost:1313/tags/photography/</link>
       <pubDate>Tue, 01 Jan 2019 11:14:52 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/photography/</guid>
+      <guid>http://localhost:1313/tags/photography/</guid>
       <description></description>
     </item>
     <item>
       <title>privacy</title>
-      <link>https://thedubiousmonk.net/tags/privacy/</link>
+      <link>http://localhost:1313/tags/privacy/</link>
       <pubDate>Tue, 01 Jan 2019 11:14:52 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/privacy/</guid>
+      <guid>http://localhost:1313/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>exile</title>
-      <link>https://thedubiousmonk.net/tags/exile/</link>
+      <link>http://localhost:1313/tags/exile/</link>
       <pubDate>Fri, 24 Aug 2018 15:37:36 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/exile/</guid>
+      <guid>http://localhost:1313/tags/exile/</guid>
       <description></description>
     </item>
     <item>
       <title>refineries</title>
-      <link>https://thedubiousmonk.net/tags/refineries/</link>
+      <link>http://localhost:1313/tags/refineries/</link>
       <pubDate>Fri, 24 Aug 2018 15:37:36 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/refineries/</guid>
+      <guid>http://localhost:1313/tags/refineries/</guid>
       <description></description>
     </item>
     <item>
       <title>silmarillion</title>
-      <link>https://thedubiousmonk.net/tags/silmarillion/</link>
+      <link>http://localhost:1313/tags/silmarillion/</link>
       <pubDate>Fri, 24 Aug 2018 15:37:36 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/silmarillion/</guid>
+      <guid>http://localhost:1313/tags/silmarillion/</guid>
       <description></description>
     </item>
     <item>
       <title>tolkien</title>
-      <link>https://thedubiousmonk.net/tags/tolkien/</link>
+      <link>http://localhost:1313/tags/tolkien/</link>
       <pubDate>Fri, 24 Aug 2018 15:37:36 -0700</pubDate>
-      <guid>https://thedubiousmonk.net/tags/tolkien/</guid>
+      <guid>http://localhost:1313/tags/tolkien/</guid>
       <description></description>
     </item>
     <item>
       <title>moving</title>
-      <link>https://thedubiousmonk.net/tags/moving/</link>
+      <link>http://localhost:1313/tags/moving/</link>
       <pubDate>Fri, 28 Oct 2016 02:20:36 -0800</pubDate>
-      <guid>https://thedubiousmonk.net/tags/moving/</guid>
+      <guid>http://localhost:1313/tags/moving/</guid>
       <description></description>
     </item>
     <item>
       <title>nanaimo</title>
-      <link>https://thedubiousmonk.net/tags/nanaimo/</link>
+      <link>http://localhost:1313/tags/nanaimo/</link>
       <pubDate>Fri, 28 Oct 2016 02:20:36 -0800</pubDate>
-      <guid>https://thedubiousmonk.net/tags/nanaimo/</guid>
+      <guid>http://localhost:1313/tags/nanaimo/</guid>
       <description></description>
     </item>
     <item>
       <title>work</title>
-      <link>https://thedubiousmonk.net/tags/work/</link>
+      <link>http://localhost:1313/tags/work/</link>
       <pubDate>Fri, 28 Oct 2016 02:20:36 -0800</pubDate>
-      <guid>https://thedubiousmonk.net/tags/work/</guid>
+      <guid>http://localhost:1313/tags/work/</guid>
       <description></description>
     </item>
     <item>
       <title>award</title>
-      <link>https://thedubiousmonk.net/tags/award/</link>
+      <link>http://localhost:1313/tags/award/</link>
       <pubDate>Mon, 01 Jun 2015 17:26:17 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/award/</guid>
+      <guid>http://localhost:1313/tags/award/</guid>
       <description></description>
     </item>
     <item>
       <title>bcla</title>
-      <link>https://thedubiousmonk.net/tags/bcla/</link>
+      <link>http://localhost:1313/tags/bcla/</link>
       <pubDate>Mon, 01 Jun 2015 17:26:17 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/bcla/</guid>
+      <guid>http://localhost:1313/tags/bcla/</guid>
       <description></description>
     </item>
     <item>
       <title>bclc2015</title>
-      <link>https://thedubiousmonk.net/tags/bclc2015/</link>
+      <link>http://localhost:1313/tags/bclc2015/</link>
       <pubDate>Mon, 01 Jun 2015 17:26:17 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/bclc2015/</guid>
+      <guid>http://localhost:1313/tags/bclc2015/</guid>
       <description></description>
     </item>
     <item>
       <title>conference</title>
-      <link>https://thedubiousmonk.net/tags/conference/</link>
+      <link>http://localhost:1313/tags/conference/</link>
       <pubDate>Mon, 01 Jun 2015 17:26:17 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/conference/</guid>
+      <guid>http://localhost:1313/tags/conference/</guid>
       <description></description>
     </item>
     <item>
       <title>librarians on the radio</title>
-      <link>https://thedubiousmonk.net/tags/librarians-on-the-radio/</link>
+      <link>http://localhost:1313/tags/librarians-on-the-radio/</link>
       <pubDate>Mon, 01 Jun 2015 17:26:17 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/librarians-on-the-radio/</guid>
+      <guid>http://localhost:1313/tags/librarians-on-the-radio/</guid>
       <description></description>
     </item>
     <item>
       <title>lotr</title>
-      <link>https://thedubiousmonk.net/tags/lotr/</link>
+      <link>http://localhost:1313/tags/lotr/</link>
       <pubDate>Mon, 01 Jun 2015 17:26:17 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/lotr/</guid>
+      <guid>http://localhost:1313/tags/lotr/</guid>
       <description></description>
     </item>
     <item>
       <title>radio</title>
-      <link>https://thedubiousmonk.net/tags/radio/</link>
+      <link>http://localhost:1313/tags/radio/</link>
       <pubDate>Mon, 01 Jun 2015 17:26:17 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/radio/</guid>
+      <guid>http://localhost:1313/tags/radio/</guid>
       <description></description>
     </item>
     <item>
       <title>recognition</title>
-      <link>https://thedubiousmonk.net/tags/recognition/</link>
+      <link>http://localhost:1313/tags/recognition/</link>
       <pubDate>Mon, 01 Jun 2015 17:26:17 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/recognition/</guid>
+      <guid>http://localhost:1313/tags/recognition/</guid>
       <description></description>
     </item>
     <item>
       <title>storytime</title>
-      <link>https://thedubiousmonk.net/tags/storytime/</link>
+      <link>http://localhost:1313/tags/storytime/</link>
       <pubDate>Mon, 01 Jun 2015 17:26:17 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/storytime/</guid>
+      <guid>http://localhost:1313/tags/storytime/</guid>
       <description></description>
     </item>
     <item>
       <title>virl</title>
-      <link>https://thedubiousmonk.net/tags/virl/</link>
+      <link>http://localhost:1313/tags/virl/</link>
       <pubDate>Mon, 01 Jun 2015 17:26:17 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/virl/</guid>
+      <guid>http://localhost:1313/tags/virl/</guid>
       <description></description>
     </item>
     <item>
       <title>campbell river</title>
-      <link>https://thedubiousmonk.net/tags/campbell-river/</link>
+      <link>http://localhost:1313/tags/campbell-river/</link>
       <pubDate>Sun, 31 Aug 2014 05:36:49 -0800</pubDate>
-      <guid>https://thedubiousmonk.net/tags/campbell-river/</guid>
+      <guid>http://localhost:1313/tags/campbell-river/</guid>
       <description></description>
     </item>
     <item>
       <title>access copyright</title>
-      <link>https://thedubiousmonk.net/tags/access-copyright/</link>
+      <link>http://localhost:1313/tags/access-copyright/</link>
       <pubDate>Thu, 20 Sep 2012 04:44:18 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/access-copyright/</guid>
+      <guid>http://localhost:1313/tags/access-copyright/</guid>
       <description></description>
     </item>
     <item>
       <title>creative commons</title>
-      <link>https://thedubiousmonk.net/tags/creative-commons/</link>
+      <link>http://localhost:1313/tags/creative-commons/</link>
       <pubDate>Thu, 20 Sep 2012 04:44:18 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/creative-commons/</guid>
+      <guid>http://localhost:1313/tags/creative-commons/</guid>
       <description></description>
     </item>
     <item>
       <title>drm</title>
-      <link>https://thedubiousmonk.net/tags/drm/</link>
+      <link>http://localhost:1313/tags/drm/</link>
       <pubDate>Thu, 20 Sep 2012 04:44:18 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/drm/</guid>
+      <guid>http://localhost:1313/tags/drm/</guid>
       <description></description>
     </item>
     <item>
       <title>larry beasley</title>
-      <link>https://thedubiousmonk.net/tags/larry-beasley/</link>
+      <link>http://localhost:1313/tags/larry-beasley/</link>
       <pubDate>Thu, 20 Sep 2012 04:44:18 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/larry-beasley/</guid>
+      <guid>http://localhost:1313/tags/larry-beasley/</guid>
       <description></description>
     </item>
     <item>
       <title>law</title>
-      <link>https://thedubiousmonk.net/tags/law/</link>
+      <link>http://localhost:1313/tags/law/</link>
       <pubDate>Thu, 20 Sep 2012 04:44:18 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/law/</guid>
+      <guid>http://localhost:1313/tags/law/</guid>
       <description></description>
     </item>
     <item>
       <title>lego</title>
-      <link>https://thedubiousmonk.net/tags/lego/</link>
+      <link>http://localhost:1313/tags/lego/</link>
       <pubDate>Thu, 20 Sep 2012 04:44:18 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/lego/</guid>
+      <guid>http://localhost:1313/tags/lego/</guid>
       <description></description>
     </item>
     <item>
       <title>library</title>
-      <link>https://thedubiousmonk.net/tags/library/</link>
+      <link>http://localhost:1313/tags/library/</link>
       <pubDate>Thu, 20 Sep 2012 04:44:18 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/library/</guid>
+      <guid>http://localhost:1313/tags/library/</guid>
       <description></description>
     </item>
     <item>
       <title>oh the places you&#39;ll know</title>
-      <link>https://thedubiousmonk.net/tags/oh-the-places-youll-know/</link>
+      <link>http://localhost:1313/tags/oh-the-places-youll-know/</link>
       <pubDate>Thu, 20 Sep 2012 04:44:18 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/oh-the-places-youll-know/</guid>
+      <guid>http://localhost:1313/tags/oh-the-places-youll-know/</guid>
       <description></description>
     </item>
     <item>
       <title>piracy</title>
-      <link>https://thedubiousmonk.net/tags/piracy/</link>
+      <link>http://localhost:1313/tags/piracy/</link>
       <pubDate>Thu, 20 Sep 2012 04:44:18 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/piracy/</guid>
+      <guid>http://localhost:1313/tags/piracy/</guid>
       <description></description>
     </item>
     <item>
       <title>piratebox</title>
-      <link>https://thedubiousmonk.net/tags/piratebox/</link>
+      <link>http://localhost:1313/tags/piratebox/</link>
       <pubDate>Thu, 20 Sep 2012 04:44:18 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/piratebox/</guid>
+      <guid>http://localhost:1313/tags/piratebox/</guid>
       <description></description>
     </item>
     <item>
       <title>r david lankes</title>
-      <link>https://thedubiousmonk.net/tags/r-david-lankes/</link>
+      <link>http://localhost:1313/tags/r-david-lankes/</link>
       <pubDate>Thu, 20 Sep 2012 04:44:18 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/r-david-lankes/</guid>
+      <guid>http://localhost:1313/tags/r-david-lankes/</guid>
       <description></description>
     </item>
     <item>
       <title>sfu</title>
-      <link>https://thedubiousmonk.net/tags/sfu/</link>
+      <link>http://localhost:1313/tags/sfu/</link>
       <pubDate>Thu, 20 Sep 2012 04:44:18 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/sfu/</guid>
+      <guid>http://localhost:1313/tags/sfu/</guid>
       <description></description>
     </item>
     <item>
       <title>star wars</title>
-      <link>https://thedubiousmonk.net/tags/star-wars/</link>
+      <link>http://localhost:1313/tags/star-wars/</link>
       <pubDate>Thu, 20 Sep 2012 04:44:18 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/star-wars/</guid>
+      <guid>http://localhost:1313/tags/star-wars/</guid>
       <description></description>
     </item>
     <item>
       <title>talk like a pirate day</title>
-      <link>https://thedubiousmonk.net/tags/talk-like-a-pirate-day/</link>
+      <link>http://localhost:1313/tags/talk-like-a-pirate-day/</link>
       <pubDate>Thu, 20 Sep 2012 04:44:18 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/talk-like-a-pirate-day/</guid>
+      <guid>http://localhost:1313/tags/talk-like-a-pirate-day/</guid>
       <description></description>
     </item>
     <item>
       <title>torrents</title>
-      <link>https://thedubiousmonk.net/tags/torrents/</link>
+      <link>http://localhost:1313/tags/torrents/</link>
       <pubDate>Thu, 20 Sep 2012 04:44:18 +0000</pubDate>
-      <guid>https://thedubiousmonk.net/tags/torrents/</guid>
+      <guid>http://localhost:1313/tags/torrents/</guid>
       <description></description>
     </item>
   </channel>

@@ -8,6 +8,8 @@ draft = true
 description = 'a hangover race without an oompa band'
 +++
 
+## Race Info
+
 > * [Tech Guide](https://docs.google.com/document/d/1fn1lTNa-F_qtriTRZjFSrB7gfn2Q99jHeCfgeCX5D5o/edit)
 > * Location: Rutland Park, Calgary
 > * Course: [stravalink](http://www.strava.com/segments/35834847)

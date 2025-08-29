@@ -8,6 +8,8 @@ title = 'velocity cross 2024'
 draft = true
 +++
 
+## Race Info
+
 > * [Tech Guide](https://www.albertabicycle.ab.ca/uploads/files/Velocity-CX-Tech-Guide-2023_v3.pdf)
 > * Location: [Argyll Park](../argyllpark/)
 > * Course: [stravalink](http://www.strava.com/segments/38004074)
