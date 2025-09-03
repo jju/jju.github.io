@@ -16,12 +16,11 @@ draft = false
 
 
 Day two of the Devon races for 2024. I couldn't make it out, but I heard the runup was much nastier than the day before.
-# results
+## Results
 
 * [Official Results](https://zone4.ca/register.asp?id=35972)
 * [CrossResults](https://www.crossresults.com/race/12479)
 
-## Podia
 ### Open Women
 
 1. Christiane BILODEAU[^1]
@@ -66,11 +65,11 @@ Day two of the Devon races for 2024. I couldn't make it out, but I heard the run
 
 [^6]: Second place the day before.
 [^7]: Third place the day before.
-## my results
+### My Results
 
 * Did not race
 
-# read more
+## Read More
 
 * [Hop N Hurl 2024](../hopnhurl2024/)
 * [My 2022 Experience at Puncheur Cross](../puncheurcross2022/)

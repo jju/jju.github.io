@@ -15,6 +15,7 @@ This year was a short 'cross season in Alberta. We were down a couple of ABA Cup
 This year I thought ahead and planned out my 'cross seaon at work so I wouldn't have to miss any of the Wednesday Worlds[^1] nights. I just like them for the camaraderie and the feeling that I am part of a community of weirdos riding around too hard in an inefficient manner.
 
 * **Race 1** 2025-08-27: [stravalink](https://www.strava.com/segments/40002762) I biked out to the first Wednesday Worlds of the season and only did one practice lap. I tell myself I'm easing into the season, but I was feeling pretty weak pretty quickly. It was a really short course, so I got lapped multiple times by the leaders. Also I whacked my face on a branch in my first lap, but there wasn't any real damage. **Tire check**: Schwalbe X-One clinchers low(?)[^2] tire pressure.
+* **Race 2** 2025-09-03: [stravalink]() 
  
 [^1]: Edmonton, like many cities, has a series of $5 cx races in 'cross season. The name is pretty common as a "taking the piss out of people being too competitive" kind of thing, as this is far from World Championship importance. The A group starts a bit before the B group which starts a bit before the C group and everyone races for about 25 minutes. In ours nobody really keeps track of the placings or finish times or anything like that.
 [^2]: Tire pressure is a whole thing in CX. I had my tires squeezed by an acquaintance who seemed impressed by the low pressure, though he might have been trying to warn me I'd gone too low.
@@ -23,14 +24,13 @@ This year I thought ahead and planned out my 'cross seaon at work so I wouldn't 
 
 These are the real races. Ability categories go Novice, Sport, Expert, Open, unless it's provincials or the Western Challenge, which is done by age categories since they are also qualifiers for things like Nationals. Races I participated in will have an asterisk below.
 
-* [Deadgoat Supercross](../../races/deadgoat2025/)* & [Peloton "Lampy's Revenge" CX](../../races/peloton2025/)
-* [Western Challenge CX](../wccx2024/) & [Drie Zussen Superprestige](../driez2024/)
-* [Juventus Jim Horner Grand Prix](../jimhornergrandprix2024/)* & [ERTC School of Cross](../schoolofcross2024/)*
-* [Hardcore Hop-N-Hurl](../hopnhurl2024/)* & [Puncheur Cross](../puncheurcross2024/)
-* [Bicicross](../bicicross2024/) & [Terrascape Beans + Barley](../beans2024/)
-* Crosstoberfest Turduckenprestige](../../races/crossbow2024/)
-* [Velocity Cyclocross](../velocitycross2024/)* & [Tubs on Tubs Provincials](../tubsontubs2024/)*
-* [Snakes + Ladders](../snakesladders2024/)
+* [Deadgoat Supercross](../../races/deadgoat2025/)* & [Peloton "Welcome to Nishidome" CX](../../races/peloton2025/)
+* ~~Western Challenge CX & Chaos Superprestige~~ - Races cancelled due to construction at Canmore Nordic Centre
+* [Juventus Jim Horner Grand Prix](../../races/jimhornergrandprix2025/)* & [ERTC School of Cross](../../races/schoolofcross2025/)
+* [Hardcore Hop-N-Hurl](../../races/hopnhurl2025/)* & [Puncheur Cross Provincials](../../races/puncheurcross2025/)
+* [Bicicross](../../races/bicicross2025/) & [Beans n Barley](../../races/beans2025/)
+* [Cyclemeisters Bow Cycle CX](../../races/crossbow2025/)
+* [Snakes and Ladders](../../races/snakesladders2025/)
 
 ### Best[^3] ABA Cup Racers
 

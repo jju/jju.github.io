@@ -4,7 +4,7 @@ date = '2024-10-13'
 slug = 'crosstoberfest2024'
 tags = ['cx', 'races','crossbow semiprestige','cyclemeisters','bow cycle','aba cx cup','rutland park','calgary']
 title = 'crosstoberfest turducken prestige 2024 day 2'
-draft = true
+draft = false
 description = 'a hangover race without an oompa band'
 +++
 
@@ -16,11 +16,9 @@ description = 'a hangover race without an oompa band'
 
 As part two of the Crosstoberfest Turducken Prestige I imagine this was going to see riders not at their sharpest.
 
-# results
+## Results
 
 * [CrossResults](https://www.crossresults.com/race/12118)
-
-## Podia
 
 ### Open Women
 
@@ -54,13 +52,11 @@ As part two of the Crosstoberfest Turducken Prestige I imagine this was going to
 2. Emmet MACKLEM
 3. Douglas GRAY
 
-
-
-## my results
+### My Results
 
 * did not race
 
-# read more
+## Read More
 
 * [Crosstoberfest Turducken Prestige Day 1](../turducken2024/)
 * [Crossbow Semiprestige 2023](../crossbow2023/)

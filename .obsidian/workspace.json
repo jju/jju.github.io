@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/races/230902-tubsontubs2023.md",
+                "file": "content/races/240922-schoolofcross2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "230902-tubsontubs2023"
+              "title": "240922-schoolofcross2024"
             }
           }
         ],
@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/races/241020-tubsontubs2024.md",
+                "file": "content/races/240921-jimhornergrandprix2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241020-tubsontubs2024"
+              "title": "240921-jimhornergrandprix2024"
             }
           },
           {
@@ -70,8 +70,7 @@
               "title": "240720-range2024"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,34 +213,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc11e9d3dcfd45f8",
+  "active": "d9d31bdefe7a6182",
   "lastOpenFiles": [
-    "content/races/240629-pigeonlake2024.md",
-    "content/races/231111-crossbow2023.md",
-    "content/races/231021-snakesladders2023.md",
-    "content/races/231015-babywaltercross2023.md",
-    "content/races/231014-babywaltercross2023.md",
-    "content/races/231008-beans2023.md",
-    "content/races/231007-bicicross2023.md",
-    "content/races/231001-puncheurcross2023.md",
-    "content/races/230930-hopnhurl2023.md",
-    "content/races/230902-tubsontubs2023.md",
-    "content/races/230917-schoolofcross2023.md",
-    "content/races/230923-wccx2023.md",
-    "content/races/230924-driez2023.md",
-    "content/races/230916-jimhornergrandprix2023.md",
-    "content/races/230910-peloton2023.md",
-    "content/races/230909-deadgoat2023.md",
-    "content/races/230903-velocitycross2023.md",
-    "content/races/241012-turducken2024.md",
-    "content/races/230831-wnw2023.md",
-    "content/races/230709-velocitycrit2023.md",
-    "content/races/230527-stiedaclassic2023.md",
-    "content/races/221015-zombiebabywaltercross2022.md",
-    "content/races/221002-puncheurcross2022.md",
-    "content/races/220917-jimhornergrandprix2022.md",
-    "content/races/250719-range2025.md",
+    "content/races/240921-jimhornergrandprix2024.md",
+    "content/races/240907-deadgoat2024.md",
+    "content/races/240928-hopnhurl2024.md",
+    "content/races/240929-puncheurcross2024.md",
+    "content/races/241013-crosstoberfest2024.md",
+    "content/races/241019-velocitycross2024.md",
+    "content/races/241020-tubsontubs2024.md",
     "content/races/241026-snakesladders2024.md",
+    "content/races/250719-range2025.md",
+    "content/races/250906-deadgoat2025.md",
+    "content/posts/cxseason2025.md",
+    "content/essays/cx.md",
+    "content/essays/_index.md",
+    "content/races/cx.md",
+    "content/races/capilanopark.md",
+    "content/races/ftt.md",
+    "content/races/valemount.md",
+    "content/races/terwillegarpark.md",
+    "content/races/strathconasciencepark.md",
+    "static/tubs24_rideup.jpg",
+    "content/races/231111-crossbow2023.md",
+    "content/races/241012-turducken2024.md",
+    "content/races/241006-beans2024.md",
+    "content/races/241005-bicicross2024.md",
+    "content/races/240922-schoolofcross2024.md",
+    "content/races/240915-driez2024.md",
+    "content/races/240914-wccx2024.md",
     "public/races/page/5/index.html",
     "public/races/page/5",
     "public/races/terwillegarpark/index.html",
@@ -260,7 +260,6 @@
     "static/hopnhurl24_sandpit_sportmen.jpg",
     "static/hopnhurl24_downhill_sportmen.jpg",
     "public/jhgp24_sportmen.jpg",
-    "public/jhgp24_expertmen_runup.jpg",
-    "static/jhgp24_expertmen_runup.jpg"
+    "public/jhgp24_expertmen_runup.jpg"
   ]
 }

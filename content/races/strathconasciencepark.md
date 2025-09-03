@@ -13,7 +13,7 @@ Strathcona Science Park is a provincial park just outside Edmonton. It's rutted 
 
 This is my "home course" because I used to live just across the river, so it's a convenient place to practice my [cx](../cx/) race techniques, do laps to build my stamina and just generally rip around.
 
-# races
+## Races
 
 * Tubs on Tubs [2022](../../posts/tubsontubs2022/) & [2023](../../posts/tubsontubs2023/)
 * Velocity Cross [2023](../../posts/velocitycross2023/)

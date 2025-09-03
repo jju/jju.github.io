@@ -3,7 +3,7 @@ categories = ['cycling']
 date = '2024-09-22'
 description = 'and then I got $5'
 slug = 'schoolofcross2024'
-tags = ['cx', 'races','capilano park','school of cross','ertc','aba cx cup','edmonton']
+tags = ['cx', 'races','capilano park','school of cross','ertc','aba cx cup','edmonton','race reports']
 title = 'school of cross 2024'
 draft = false
 +++
@@ -23,12 +23,10 @@ My race went well. I got up with the front group on the initial climb, lost a fe
 The other great thing ERTC did was organize $5 handups. There's a spot on the course where you have to climb a steep hill and turn at the top. The proper way to do it is to cut to the inside to make the corner less sharp and the climb less steep. But in the spirit of 'cross they had a person in a bee costume posted at the outside of the corner with $5 bills for racers who took that much worse line to grab. I skipped it my first couple of laps but once I had a bit of a gap on my chasers in lap 3 I decided to go for it. I did manage to grab it without stopping or wiping out or getting passed, which I was proud of myself for. It took a while to get access to my pocket to tuck the money away but I did.
 
 In the end I didn't crack the top 5 (which is my dreamy goal for a race this season), but stayed nice and mid-pack with my 10th.
-# results
+## Results
 
 * [ABA Results](https://zone4.ca/race/2024-09-22/5c0e674c/results)
 * [CrossResults](https://www.crossresults.com/race/12428)
-
-## Podia
 
 ### Open Women
 
@@ -81,11 +79,11 @@ In the end I didn't crack the top 5 (which is my dreamy goal for a race this sea
 
 [^11]: Earned promotion up to Sport Men, with his second win (in a row, following [JHGP](../jimhornergrandprix2024/)) in Novice.
 [^12]: Second place the day before.
-## my results
+### My Results
 
 * 10th place (out of 21) - Novice Men
 
-# read more
+## Read More
 
 * [Jim Horner Grand Prix 2024](../jimhornergrandprix2024/)
 * [School of Cross 2023](../schoolofcross2023/)

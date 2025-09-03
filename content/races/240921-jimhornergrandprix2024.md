@@ -27,12 +27,10 @@ Being in Novice Men, I had an early start while the grass was still dewy and wet
 I then spent the rest of the day hanging out at the bike races, which was fun. I got [some decent pictures](https://www.flickr.com/photos/hungry_j/albums/72177720320499987/) and chatted a bunch with different racers, which made me feel a little bit like a part of the 'cross community.
 
 [^2]: Expert Men Runup - Photo by me
-# results
+## Results
 
 * [ABA Results](https://zone4.ca/race/2024-09-21/89568426/results)
 * [CrossResults](https://www.crossresults.com/race/12427)
-
-## Podia
 
 ### Open Women
 
@@ -74,11 +72,11 @@ I then spent the rest of the day hanging out at the bike races, which was fun. I
 2. Aiden SANDMAIER
 3. Jamie MOORS
 
-## my results
+### My Results
 
 * 6th place (out of 12) - Novice Men
 
-# read more
+## Read More
 
 * [My 2022 Experience of Jim Horner](../jimhornergrandprix2022/)
 * [My 2023 Experience of Jim Horner](../jimhornergrandprix2023/)

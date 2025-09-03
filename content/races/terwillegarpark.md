@@ -13,6 +13,6 @@ Terwillegar Park is a park in southwest Edmonton. It has a pile of trails and is
 
 There's a good amount of doubletrack that follows along by the river and countless little ins and out singletrack bits through the trees. One of the downsides of the park is that the soil is very clay-based so it gets super rutty if people ride it before letting it dry out. There are a few dry-baked stretches that remind me of what some of that Moab-style slickrock looks like, but it isn't as much fun to ride. 
 
-# races
+## Races
 
 * [Fat Tire Tuesday Series](../ftt/)

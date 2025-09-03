@@ -1,69 +1,59 @@
 +++
 categories = ['cycling']
 date = '2024-10-26'
+description = 'i can only assume there are snakes'
 slug = 'snakesladders2024'
 tags = ['cx', 'races','snakes and ladders','cabc','aba cx cup','snake hill','sundre']
-title = 'snakes & ladders III 2023'
-draft = true
+title = 'snakes & ladders IV 2024'
+draft = false
 +++
-
 ## Race Info
 
 > * [Tech Guide](https://docs.google.com/document/d/1XyrN2tg1PjTT6lNv1o3xg7ECCAtbaQT-mj0UxuwGTmE/edit?usp=sharing)
 > * Location: Snakes Head Natural Area, Sundre
 > * Course: [stravalink](http://www.strava.com/segments/35705305)
 
+Final race of the season. I've still never been to this one. Maybe 2025.
+## Results
 
-
-# results
-
+* [ABA Results](https://www.albertabicycle.ab.ca/uploads/files/2024%20Documents/2024%20Race%20Results/Snakes%20and%20Ladders%20IV%20CX%20-%202024.pdf)
 * [CrossResults](https://www.crossresults.com/race/11919)
-
-## Podia
 
 ### Open Women
 
-1. Francesca SEAL
-2. Susanne MCARTHUR
-3. Quinn FLATER
+1. Jenaya FRANCIS
+2. Annie SCOTT
+3. Elizabeth RUSSELL
 ### Open Men
 
 1. Mark FAGNAN
-2. Andrew DAVIDSON
-3. Scott DESMARAIS
+2. Karol MICHALSKI
+3. Graham FRANCIS
 ### Expert Men
 
-1. Adam ROBERTS
-2. Brendan CARDIFF[^1]
+1. Devin ERFLE
+2. Niels VAN OMMERERN
 3. Jason PROCHE
-
-[^1]: [Velocity Cycling Club](../vcc/) woo!
-
 ### Sport Women
 
-1. Kathryn SWEENEY
-2. Hazel ROBERTS
-3. Madeline MAGLEO
+1. Morgan PINNOCK
+2. Sophie ERFLE
+3. Emerson ERFLE
 ### Sport Men
 
-1. Josh BARKER
-2. Sean SWEENEY
-3. Carl MILLER
-
+1. Carson BROWN
+2. Vaughn SHEARS
+3. Mike HOLROYD
 ### Novice Men
 
-1. Cor SINKE
-2. William KINDZIERSKI
-3. Arun WARD
+1. Maxime BRUN
+2. Reed MCARTHUR
+3. Luke CAMERON
 
-
-
-
-
-## my results
+### My Results
 
 * did not race
 
-# read more
+## Read More
 
 * [Snakes + Ladders 2023](../snakesladders2023/)
