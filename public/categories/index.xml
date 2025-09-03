@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>categories on the dubious monk</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://thedubiousmonk.net/categories/</link>
     <description>Recent content in categories on the dubious monk</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 26 Aug 2025 14:49:04 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Sep 2025 14:23:21 -0600</lastBuildDate>
+    <atom:link href="https://thedubiousmonk.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cycling</title>
-      <link>http://localhost:1313/categories/cycling/</link>
+      <link>https://thedubiousmonk.net/categories/cycling/</link>
       <pubDate>Thu, 21 Aug 2025 12:58:02 -0600</pubDate>
-      <guid>http://localhost:1313/categories/cycling/</guid>
+      <guid>https://thedubiousmonk.net/categories/cycling/</guid>
       <description></description>
     </item>
     <item>
       <title>library</title>
-      <link>http://localhost:1313/categories/library/</link>
+      <link>https://thedubiousmonk.net/categories/library/</link>
       <pubDate>Fri, 31 Jan 2025 09:34:14 -0700</pubDate>
-      <guid>http://localhost:1313/categories/library/</guid>
+      <guid>https://thedubiousmonk.net/categories/library/</guid>
       <description></description>
     </item>
     <item>
       <title>life</title>
-      <link>http://localhost:1313/categories/life/</link>
+      <link>https://thedubiousmonk.net/categories/life/</link>
       <pubDate>Fri, 31 Jan 2025 09:34:14 -0700</pubDate>
-      <guid>http://localhost:1313/categories/life/</guid>
+      <guid>https://thedubiousmonk.net/categories/life/</guid>
       <description></description>
     </item>
     <item>
       <title>media</title>
-      <link>http://localhost:1313/categories/media/</link>
+      <link>https://thedubiousmonk.net/categories/media/</link>
       <pubDate>Fri, 31 Jan 2025 09:34:14 -0700</pubDate>
-      <guid>http://localhost:1313/categories/media/</guid>
+      <guid>https://thedubiousmonk.net/categories/media/</guid>
       <description></description>
     </item>
     <item>
       <title>work</title>
-      <link>http://localhost:1313/categories/work/</link>
+      <link>https://thedubiousmonk.net/categories/work/</link>
       <pubDate>Wed, 20 Mar 2024 10:40:58 -0600</pubDate>
-      <guid>http://localhost:1313/categories/work/</guid>
+      <guid>https://thedubiousmonk.net/categories/work/</guid>
       <description></description>
     </item>
   </channel>

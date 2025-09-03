@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>crit on the dubious monk</title>
-    <link>http://localhost:1313/tags/crit/</link>
+    <link>https://thedubiousmonk.net/tags/crit/</link>
     <description>Recent content in crit on the dubious monk</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <lastBuildDate>Fri, 22 Aug 2025 11:32:31 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/crit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thedubiousmonk.net/tags/crit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>my 2023 season summary</title>
-      <link>http://localhost:1313/posts/cxseason2023/</link>
+      <link>https://thedubiousmonk.net/posts/cxseason2023/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cxseason2023/</guid>
+      <guid>https://thedubiousmonk.net/posts/cxseason2023/</guid>
       <description>&lt;p&gt;In 2023 I was hoping to be a better racer. I spent the winter actually using the gym we have at work, doing time on the stationary bike so as not to lose all my kilometres in my legs. They say you should do strength training and I tried but it&amp;rsquo;s a pain.&lt;/p&gt;&#xA;&lt;p&gt;The other thing I did was join a club. &lt;a href=&#34;https://velocitycyclingclub.ca&#34;&gt;Velocity Cycling Club&lt;/a&gt; is my new bunch. We have a coach and club jerseys and it&amp;rsquo;s all a bit more community-building than the lone-wolf cyclist thing I&amp;rsquo;ve been doing. I went on a couple of group rides and they were fun. The first was about 60km and easy riding. I self-selected to the slow group, and was the only person in it (along with the bunch leader). But it was good. I got to learn about some of the group riding norms and hand signals. Old Paul was very welcoming in general and did a good job showing me how to get close to people in the bunch.&lt;/p&gt;</description>
     </item>
     <item>
       <title>velocity criterium 2023</title>
-      <link>http://localhost:1313/races/velocitycrit2023/</link>
+      <link>https://thedubiousmonk.net/races/velocitycrit2023/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/races/velocitycrit2023/</guid>
+      <guid>https://thedubiousmonk.net/races/velocitycrit2023/</guid>
       <description>&lt;p&gt;Our &lt;a href=&#34;../vcc/&#34;&gt;club&lt;/a&gt; put on a criterium and in my effort to try out a few different kinds of racing (despite being a slowpoke) I entered. I rode in the Citizen class again because that&amp;rsquo;s the type of license I got for the season. This time there were three riders instead of two at the &lt;a href=&#34;../stiedaclassic2023/&#34;&gt;Stieda&lt;/a&gt; race earlier. The other guys (despite being in Citizen where all genders can enter, we were all dudes) had raced the day before with the iGregari SugarBoddy Criterium, which was on the same course but in the opposite direction.&lt;/p&gt;</description>
     </item>
   </channel>
