@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/races/240922-schoolofcross2024.md",
+                "file": "content/races/250906-deadgoat2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "240922-schoolofcross2024"
+              "title": "250906-deadgoat2025"
             }
           }
         ],
@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/races/240921-jimhornergrandprix2024.md",
+                "file": "content/posts/cxseason2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "240921-jimhornergrandprix2024"
+              "title": "cxseason2025"
             }
           },
           {
@@ -215,7 +215,11 @@
   },
   "active": "d9d31bdefe7a6182",
   "lastOpenFiles": [
+    "content/posts/cxseason2025.md",
     "content/races/240921-jimhornergrandprix2024.md",
+    "content/races/250906-deadgoat2025.md",
+    "content/races/250907-peloton2025.md",
+    "content/races/240922-schoolofcross2024.md",
     "content/races/240907-deadgoat2024.md",
     "content/races/240928-hopnhurl2024.md",
     "content/races/240929-puncheurcross2024.md",
@@ -224,8 +228,6 @@
     "content/races/241020-tubsontubs2024.md",
     "content/races/241026-snakesladders2024.md",
     "content/races/250719-range2025.md",
-    "content/races/250906-deadgoat2025.md",
-    "content/posts/cxseason2025.md",
     "content/essays/cx.md",
     "content/essays/_index.md",
     "content/races/cx.md",
@@ -239,9 +241,7 @@
     "content/races/241012-turducken2024.md",
     "content/races/241006-beans2024.md",
     "content/races/241005-bicicross2024.md",
-    "content/races/240922-schoolofcross2024.md",
     "content/races/240915-driez2024.md",
-    "content/races/240914-wccx2024.md",
     "public/races/page/5/index.html",
     "public/races/page/5",
     "public/races/terwillegarpark/index.html",
