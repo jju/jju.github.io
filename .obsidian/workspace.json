@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/cxseason2025.md",
+                "file": "content/races/241020-tubsontubs2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cxseason2025"
+              "title": "241020-tubsontubs2024"
             }
           },
           {
@@ -215,9 +215,21 @@
   },
   "active": "d9d31bdefe7a6182",
   "lastOpenFiles": [
-    "content/posts/cxseason2025.md",
-    "content/races/240921-jimhornergrandprix2024.md",
+    "public/tags/cx/page/6/index.html",
+    "public/tags/cx/page/6",
+    "public/races/peloton2025/index.html",
+    "public/races/peloton2025",
+    "public/races/deadgoat2025/index.html",
+    "public/races/deadgoat2025",
+    "public/en.search.min.68b4034102da91e2eca91d8504703fd6d794c3f4ba9bab3ad350e99d3c7ca5cf.js",
+    "public/en.search-data.min.92f790770cac356713196fd3c36ae461c1b8625bc91feb2846ca28dabbdee434.json",
+    "public/deadgoat25_barriers.jpg",
+    "content/races/241020-tubsontubs2024.md",
+    "content/races/250719-range2025.md",
     "content/races/250906-deadgoat2025.md",
+    "content/posts/cxseason2025.md",
+    "static/deadgoat25_barriers.jpg",
+    "content/races/240921-jimhornergrandprix2024.md",
     "content/races/250907-peloton2025.md",
     "content/races/240922-schoolofcross2024.md",
     "content/races/240907-deadgoat2024.md",
@@ -225,9 +237,7 @@
     "content/races/240929-puncheurcross2024.md",
     "content/races/241013-crosstoberfest2024.md",
     "content/races/241019-velocitycross2024.md",
-    "content/races/241020-tubsontubs2024.md",
     "content/races/241026-snakesladders2024.md",
-    "content/races/250719-range2025.md",
     "content/essays/cx.md",
     "content/essays/_index.md",
     "content/races/cx.md",
@@ -241,25 +251,15 @@
     "content/races/241012-turducken2024.md",
     "content/races/241006-beans2024.md",
     "content/races/241005-bicicross2024.md",
-    "content/races/240915-driez2024.md",
     "public/races/page/5/index.html",
     "public/races/page/5",
     "public/races/terwillegarpark/index.html",
-    "public/races/terwillegarpark",
-    "public/races/strathconasciencepark/index.html",
-    "public/races/strathconasciencepark",
-    "public/races/ftt/index.html",
-    "public/races/ftt",
-    "public/races/cx/index.html",
-    "public/races/cx",
     "static/range2025_creek_Cody_Shimizu-867.jpg",
     "static/range2025_wall_Cody_Shimizu-414.jpg",
     "static/range2025_start_Cody_Shimizu-104.jpg",
     "public/hopnhurl24_sandpit_sportmen.jpg",
     "public/hopnhurl24_downhill_sportmen.jpg",
     "static/hopnhurl24_sandpit_sportmen.jpg",
-    "static/hopnhurl24_downhill_sportmen.jpg",
-    "public/jhgp24_sportmen.jpg",
-    "public/jhgp24_expertmen_runup.jpg"
+    "static/hopnhurl24_downhill_sportmen.jpg"
   ]
 }
