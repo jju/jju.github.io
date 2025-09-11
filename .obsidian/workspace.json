@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/races/250906-deadgoat2025.md",
+                "file": "content/posts/cxseason2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250906-deadgoat2025"
+              "title": "cxseason2025"
             }
           }
         ],
@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/races/241020-tubsontubs2024.md",
+                "file": "content/races/250907-peloton2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241020-tubsontubs2024"
+              "title": "250907-peloton2025"
             }
           },
           {
@@ -215,6 +215,10 @@
   },
   "active": "d9d31bdefe7a6182",
   "lastOpenFiles": [
+    "content/races/250906-deadgoat2025.md",
+    "content/races/250907-peloton2025.md",
+    "content/races/240908-peloton2024.md",
+    "content/races/241020-tubsontubs2024.md",
     "public/tags/cx/page/6/index.html",
     "public/tags/cx/page/6",
     "public/races/peloton2025/index.html",
@@ -224,13 +228,10 @@
     "public/en.search.min.68b4034102da91e2eca91d8504703fd6d794c3f4ba9bab3ad350e99d3c7ca5cf.js",
     "public/en.search-data.min.92f790770cac356713196fd3c36ae461c1b8625bc91feb2846ca28dabbdee434.json",
     "public/deadgoat25_barriers.jpg",
-    "content/races/241020-tubsontubs2024.md",
     "content/races/250719-range2025.md",
-    "content/races/250906-deadgoat2025.md",
     "content/posts/cxseason2025.md",
     "static/deadgoat25_barriers.jpg",
     "content/races/240921-jimhornergrandprix2024.md",
-    "content/races/250907-peloton2025.md",
     "content/races/240922-schoolofcross2024.md",
     "content/races/240907-deadgoat2024.md",
     "content/races/240928-hopnhurl2024.md",
@@ -253,7 +254,6 @@
     "content/races/241005-bicicross2024.md",
     "public/races/page/5/index.html",
     "public/races/page/5",
-    "public/races/terwillegarpark/index.html",
     "static/range2025_creek_Cody_Shimizu-867.jpg",
     "static/range2025_wall_Cody_Shimizu-414.jpg",
     "static/range2025_start_Cody_Shimizu-104.jpg",
