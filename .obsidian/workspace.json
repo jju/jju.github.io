@@ -48,12 +48,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/races/250907-peloton2025.md",
+                "file": "content/races/250921-schoolofcross2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250907-peloton2025"
+              "title": "250921-schoolofcross2025"
+            }
+          },
+          {
+            "id": "7337545ec0c72d2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/races/250920-jimhornergrandprix2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250920-jimhornergrandprix2025"
             }
           },
           {
@@ -215,8 +229,14 @@
   },
   "active": "d9d31bdefe7a6182",
   "lastOpenFiles": [
-    "content/races/250906-deadgoat2025.md",
+    "static/puncheur25_startline.jpg",
+    "static/hopnhurl25_startline_sportmen.jpg",
+    "content/races/250921-schoolofcross2025.md",
+    "content/races/250920-jimhornergrandprix2025.md",
+    "content/races/240922-schoolofcross2024.md",
     "content/races/250907-peloton2025.md",
+    "content/posts/cxseason2025.md",
+    "content/races/250906-deadgoat2025.md",
     "content/races/240908-peloton2024.md",
     "content/races/241020-tubsontubs2024.md",
     "public/tags/cx/page/6/index.html",
@@ -229,10 +249,8 @@
     "public/en.search-data.min.92f790770cac356713196fd3c36ae461c1b8625bc91feb2846ca28dabbdee434.json",
     "public/deadgoat25_barriers.jpg",
     "content/races/250719-range2025.md",
-    "content/posts/cxseason2025.md",
     "static/deadgoat25_barriers.jpg",
     "content/races/240921-jimhornergrandprix2024.md",
-    "content/races/240922-schoolofcross2024.md",
     "content/races/240907-deadgoat2024.md",
     "content/races/240928-hopnhurl2024.md",
     "content/races/240929-puncheurcross2024.md",
@@ -249,9 +267,6 @@
     "content/races/strathconasciencepark.md",
     "static/tubs24_rideup.jpg",
     "content/races/231111-crossbow2023.md",
-    "content/races/241012-turducken2024.md",
-    "content/races/241006-beans2024.md",
-    "content/races/241005-bicicross2024.md",
     "public/races/page/5/index.html",
     "public/races/page/5",
     "static/range2025_creek_Cody_Shimizu-867.jpg",
@@ -259,7 +274,6 @@
     "static/range2025_start_Cody_Shimizu-104.jpg",
     "public/hopnhurl24_sandpit_sportmen.jpg",
     "public/hopnhurl24_downhill_sportmen.jpg",
-    "static/hopnhurl24_sandpit_sportmen.jpg",
-    "static/hopnhurl24_downhill_sportmen.jpg"
+    "static/hopnhurl24_sandpit_sportmen.jpg"
   ]
 }
