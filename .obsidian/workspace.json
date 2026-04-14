@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/cxseason2025.md",
+                "file": "content/posts/260414-spring-classics.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "cxseason2025"
+              "title": "260414-spring-classics"
             }
           }
         ],
@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/races/250921-schoolofcross2025.md",
+                "file": "content/races/250906-deadgoat2025.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "250921-schoolofcross2025"
+              "title": "250906-deadgoat2025"
             }
           },
           {
@@ -229,15 +229,19 @@
   },
   "active": "d9d31bdefe7a6182",
   "lastOpenFiles": [
-    "content/posts/cxseason2024.md",
+    "content/races/250906-deadgoat2025.md",
+    "content/posts/260414-spring-classics.md",
+    "static/trackswoop2026-desat.jpg",
+    "content/posts/240425-spring-again.md",
+    "content/races/250921-schoolofcross2025.md",
+    "content/posts/250821-before-cross-comes.md",
     "content/posts/cxseason2025.md",
+    "content/posts/cxseason2024.md",
     "static/puncheur25_startline.jpg",
     "static/hopnhurl25_startline_sportmen.jpg",
-    "content/races/250921-schoolofcross2025.md",
     "content/races/250920-jimhornergrandprix2025.md",
     "content/races/240922-schoolofcross2024.md",
     "content/races/250907-peloton2025.md",
-    "content/races/250906-deadgoat2025.md",
     "content/races/240908-peloton2024.md",
     "content/races/241020-tubsontubs2024.md",
     "public/tags/cx/page/6/index.html",
@@ -263,17 +267,12 @@
     "content/races/cx.md",
     "content/races/capilanopark.md",
     "content/races/ftt.md",
-    "content/races/valemount.md",
-    "content/races/terwillegarpark.md",
-    "content/races/strathconasciencepark.md",
     "static/tubs24_rideup.jpg",
-    "content/races/231111-crossbow2023.md",
     "public/races/page/5/index.html",
     "public/races/page/5",
     "static/range2025_creek_Cody_Shimizu-867.jpg",
     "static/range2025_wall_Cody_Shimizu-414.jpg",
     "static/range2025_start_Cody_Shimizu-104.jpg",
-    "public/hopnhurl24_sandpit_sportmen.jpg",
-    "public/hopnhurl24_downhill_sportmen.jpg"
+    "public/hopnhurl24_sandpit_sportmen.jpg"
   ]
 }
