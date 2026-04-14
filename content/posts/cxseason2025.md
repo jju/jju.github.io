@@ -39,30 +39,3 @@ For me personally, the big change for the year is that I was racing in the Sport
 * [Cyclemeisters Bow Cycle CX](../../races/crossbow2025/)
 * [Snakes and Ladders](../../races/snakesladders2025/)
 
-## Best[^3] ABA Cup Racers
-
-This is based on rankings from [CrossResults](https://www.crossresults.com/) where a lower number of points is better.
-
-[^3]: [Sidney MCGILL](https://cyclocross24.com/rider/sidney-mcgill/) and [Nico KNOLL](https://cyclocross24.com/rider/nico-knoll/) are our actual best best racers (ranked 31 and 151 in the world respectively as of this writing), but they haven't raced in ABA races this year, having bigger fish to fry.
-
-### Women
-
-| Name                | World Rank | CR Points | ABA Wins 2024 |
-| ------------------- | ---------- | --------- | ------------- |
-| Christiane BILODEAU | 170        | 349.05    | 5             |
-| Shantel KOENIG      | 192        | 359.06    | 2             |
-| Ella MYERS          | 196        | 359.77    | 1             |
-| Annie SCOTT         | 246        | 376.96    | 2             |
-| Susanne MCARTHUR    | 297        | 389.62    | 0             |
-
-### Men
-
-| Name            | World Rank | CR Points | ABA Wins 2024 |
-| --------------- | ---------- | --------- | ------------- |
-| Finn BORSTMAYER | 408        | 224.08    | 5             |
-| Mark FAGNAN     | 449        | 228.13    | 2             |
-| Ryan MACLEAN    | 546        | 236.69    | 0             |
-| Andrew DAVIDSON | 571        | 238.01    | 1             |
-| Sean GERMAINE   | 699        | 247.54    | 1             |
-
-
