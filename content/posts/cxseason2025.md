@@ -36,6 +36,6 @@ For me personally, the big change for the year is that I was racing in the Sport
 * [Juventus Jim Horner Grand Prix](../../races/jimhornergrandprix2025/)* & [ERTC School of Cross](../../races/schoolofcross2025/)
 * [Hardcore Hop-N-Hurl](../../races/hopnhurl2025/)* & [Puncheur Cross Provincials](../../races/puncheurcross2025/)*
 * [Bicicross](../../races/bicicross2025/)* & [Beans n Barley](../../races/beans2025/)
-* [Cyclemeisters Bow Cycle CX](../../races/crossbow2025/)
+* [Crosstoberfest Turducken Prestige Day 1](../../races/crosstoberfest2025/) [Crosstoberfest Turducken Prestige Day 2](../../races/crosstoberfest2025/)
 * [Snakes and Ladders](../../races/snakesladders2025/)
 
