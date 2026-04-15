@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/races/250906-deadgoat2025.md",
+                "file": "content/races/250921-schoolofcross2025.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "250906-deadgoat2025"
+              "title": "250921-schoolofcross2025"
             }
           },
           {
@@ -227,8 +227,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9d31bdefe7a6182",
+  "active": "0298405bdf62e922",
   "lastOpenFiles": [
+    "content/races/250920-jimhornergrandprix2025.md",
+    "content/races/250907-peloton2025.md",
     "content/races/250906-deadgoat2025.md",
     "content/posts/260414-spring-classics.md",
     "static/trackswoop2026-desat.jpg",
@@ -239,9 +241,7 @@
     "content/posts/cxseason2024.md",
     "static/puncheur25_startline.jpg",
     "static/hopnhurl25_startline_sportmen.jpg",
-    "content/races/250920-jimhornergrandprix2025.md",
     "content/races/240922-schoolofcross2024.md",
-    "content/races/250907-peloton2025.md",
     "content/races/240908-peloton2024.md",
     "content/races/241020-tubsontubs2024.md",
     "public/tags/cx/page/6/index.html",
