@@ -14,7 +14,7 @@ draft = false
 > * Location: [Capilano Park](../capilanopark/) Edmonton
 > * Course: [stravalink](http://www.strava.com/segments/35448229)
 
-This course was longer than we use for Wednesday Night training races, and man could I ever feel it. But even in the Sport category I did not get lapped! I fought hard for 25th place but couldn't quite manage to catch Mike Beauchamp from Peloton.
+This course was the version where you do the offcamber climbs right off the start line which is a tough way to get your legs under you. It's also longer than we use for Wednesday Night training races, and man could I ever feel it, especially hauling myself up the runup. But even in the Sport category I did not get lapped! I fought hard for 25th place but couldn't quite manage to catch Mike Beauchamp from Peloton.
 ## Results
 
 * [ABA Results](https://zone4.ca/race/2025-09-20/558ab832/results)
